@@ -1,6 +1,0 @@
-baseURL: https://fsungfonts.github.io/mapping/
-languageCode: zh-TW
-title: FSung Fonts
-theme: primer
-params:
-  github_repo: fsungfonts/mapping

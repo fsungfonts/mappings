@@ -1,8 +1,0 @@
-<meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'">
-<meta name="referrer" content="strict-origin-when-cross-origin">
-<meta name="viewport" content="width=device-width">
-<meta name="robots" content="noarchive">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-{{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
