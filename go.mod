@@ -1,3 +1,3 @@
-module github.com/fsungfonts/mapping
+module github.com/fsungfonts/mappings
 
-go 1.25.0
+go 1.24
