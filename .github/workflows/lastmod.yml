@@ -34,7 +34,7 @@ jobs:
         run: |
           echo "Markdown files: ${{ steps.filter.outputs.content_files }}"
           # Replace the first lastmod: line in each file with a quoted ISO-8601 timestamp
-          sed -i "0,/lastmod:.*/s//lastmod: '$(date -Iseconds)'/" ${{ steps.filter.outputs.content_files }}
+          sed -i "0,/lastmod:.*/s//lastmod: '$(TZ=UTC-8 date -Iseconds)'/" ${{ steps.filter.outputs.content_files }}
 
       - name: Get author
         id: author
