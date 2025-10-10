@@ -1,0 +1,71 @@
+name: Update lastmod and trigger site build
+
+on:
+  push:
+    paths:
+      - 'content/**/*.md'
+
+permissions:
+  contents: write
+
+jobs:
+  update-lastmod:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout module repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          sparse-checkout: |
+            content/
+
+      - name: Detect file changes
+        id: filter
+        uses: dorny/paths-filter@v3
+        with:
+          list-files: shell
+          filters: |
+            content:
+              - added|modified: 'content/**/*.md'
+
+      - name: Update lastmod in changed MDs
+        if: steps.filter.outputs.content == 'true'
+        run: |
+          echo "Markdown files: ${{ steps.filter.outputs.content_files }}"
+          # Replace the first lastmod: line in each file with a quoted ISO-8601 timestamp
+          sed -i "0,/lastmod:.*/s//lastmod: '$(date -Iseconds)'/" ${{ steps.filter.outputs.content_files }}
+
+      - name: Get author
+        id: author
+        run: |
+          echo "name=$(git log -1 --pretty=format:'%an')" >> $GITHUB_OUTPUT
+          echo "email=$(git log -1 --pretty=format:'%ae')" >> $GITHUB_OUTPUT
+          {
+            echo "msg<<EOF"
+            git log -1 --pretty=%B
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+      - name: Amend commit with updated lastmod
+        if: steps.filter.outputs.content == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_options: '--amend --no-edit'
+          commit_user_name: ${{ steps.author.outputs.name }}
+          commit_user_email: ${{ steps.author.outputs.email }}
+          commit_message: ${{ steps.author.outputs.msg }}
+          push_options: '--force-with-lease'
+
+      - name: Trigger site repo build
+        if: steps.filter.outputs.content == 'true'
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ secrets.PAT }}
+          repository: fsungfonts/fsungfonts.github.io
+          event-type: module-updated
+          client-payload: |
+            {
+              "module": "${{ github.repository }}",
+              "commit": "${{ github.sha }}"
+            }

@@ -1,4 +1,6 @@
 ---
+date: '2025-10-08T05:59:32+08:00'
+lastmod: '2025-10-10T11:56:15+00:00'
 title: PUA–Base Character Mappings
 linkTitle: Mappings
 description: "laying the groundwork for IVS conversion"

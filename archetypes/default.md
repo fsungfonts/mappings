@@ -1,5 +1,6 @@
 ---
 date: '{{ .Date }}'
+lastmod:
 title:
 url:
 tags: []
