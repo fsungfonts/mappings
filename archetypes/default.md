@@ -1,7 +1,7 @@
 ---
 date: '{{ .Date }}'
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-slug:
+url:
 tags: []
 src:
 note:
