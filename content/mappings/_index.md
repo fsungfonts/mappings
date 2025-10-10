@@ -2,6 +2,7 @@
 title: PUA–Base Character Mappings
 linkTitle: Mappings
 description: "laying the groundwork for IVS conversion"
+draft: false
 cascade:
   - params:
       repo: fsungfonts/mappings
