@@ -1,6 +1,6 @@
 ---
 date: '2025-10-08T05:59:32+08:00'
-lastmod: '2025-10-11T14:25:36+08:00'
+lastmod: '2025-10-11T19:24:11+08:00'
 title: PUA–Base Character Mappings
 linkTitle: Mappings
 description: laying the groundwork for IVS conversion
@@ -9,7 +9,6 @@ draft: false
 cascade:
   - params:
       repo: fsungfonts/mappings
-      branch: main
       pua: true
       schemaType: DefinedTerm
       description: the base character assignment of %s, supported by a scholarly source
