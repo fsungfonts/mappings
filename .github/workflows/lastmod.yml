@@ -35,9 +35,12 @@ jobs:
       - name: Update lastmod in changed MDs
         if: steps.filter.outputs.content == 'true'
         run: |
-          echo "Markdown files: ${{ steps.filter.outputs.content_files }}"
-          # Replace the first lastmod: line in each file with a quoted ISO-8601 timestamp
-          sed -i "0,/lastmod:.*/s//lastmod: '$(TZ=UTC-8 date -Iseconds)'/" ${{ steps.filter.outputs.content_files }}
+          echo "Markdown files: $FILES"
+          for f in $FILES; do
+            sed -i "0,/lastmod:.*/s//lastmod: '$(TZ=UTC-8 date -Iseconds)'/" "$f"
+          done
+        env:
+          FILES: ${{ steps.filter.outputs.content_files }}
 
       - name: Get author
         id: author
