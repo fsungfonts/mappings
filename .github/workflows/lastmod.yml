@@ -1,9 +1,12 @@
 name: Update lastmod and trigger site build
 
 on:
+  workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'content/**/*.md'
+      - .github/workflows/lastmod.yml
 
 permissions:
   contents: write
