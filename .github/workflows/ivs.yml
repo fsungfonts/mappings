@@ -16,6 +16,7 @@ jobs:
           fetch-depth: 1
           sparse-checkout: |
             content/
+            data/ivs/
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
