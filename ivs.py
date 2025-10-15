@@ -66,7 +66,7 @@ for base, terms in grouped_terms.items():
     txt_path = data_dir / f'{base_hex}.txt'
     sorted_terms = sorted(terms)
     lines = [
-        f"{base_hex} {0xFE00 + i:04X}; FSung-Academic; FS{term_hex} # Term: FS{term_hex}\n"
+        f"{base_hex} {0xFE00 + i:04X}; FSung-Academic; FS{term_hex}\n"
         for i, term_hex in enumerate(sorted_terms)
     ]
     with txt_path.open('w', encoding='utf-8', buffering=16384) as f:
