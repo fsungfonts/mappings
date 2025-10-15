@@ -1,0 +1,2 @@
+38D2 FE00; FSung-Academic; FS0F3FF5 # Term: FS0F3FF5
+38D2 FE01; FSung-Academic; FS10432F # Term: FS10432F

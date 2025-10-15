@@ -1,0 +1,3 @@
+60C4 FE00; FSung-Academic; FS102C27 # Term: FS102C27
+60C4 FE01; FSung-Academic; FS102C28 # Term: FS102C28
+60C4 FE02; FSung-Academic; FS102C29 # Term: FS102C29

@@ -1,0 +1,2 @@
+718F FE00; FSung-Academic; FS0F6DEA # Term: FS0F6DEA
+718F FE01; FSung-Academic; FS102F89 # Term: FS102F89

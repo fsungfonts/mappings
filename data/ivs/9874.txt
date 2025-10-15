@@ -1,0 +1,3 @@
+9874 FE00; FSung-Academic; FS103C48 # Term: FS103C48
+9874 FE01; FSung-Academic; FS103C49 # Term: FS103C49
+9874 FE02; FSung-Academic; FS103C4A # Term: FS103C4A

@@ -1,0 +1,2 @@
+8404 FE00; FSung-Academic; FS1017EA # Term: FS1017EA
+8404 FE01; FSung-Academic; FS1017EB # Term: FS1017EB

@@ -1,0 +1,2 @@
+7B10 FE00; FSung-Academic; FS0F09E0 # Term: FS0F09E0
+7B10 FE01; FSung-Academic; FS1031B6 # Term: FS1031B6

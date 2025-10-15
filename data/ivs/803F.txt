@@ -1,0 +1,3 @@
+803F FE00; FSung-Academic; FS0F3536 # Term: FS0F3536
+803F FE01; FSung-Academic; FS101462 # Term: FS101462
+803F FE02; FSung-Academic; FS101463 # Term: FS101463

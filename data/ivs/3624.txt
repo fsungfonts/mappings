@@ -1,0 +1,2 @@
+3624 FE00; FSung-Academic; FS1040FD # Term: FS1040FD
+3624 FE01; FSung-Academic; FS1040FE # Term: FS1040FE

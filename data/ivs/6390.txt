@@ -1,0 +1,3 @@
+6390 FE00; FSung-Academic; FS0F084B # Term: FS0F084B
+6390 FE01; FSung-Academic; FS0F0858 # Term: FS0F0858
+6390 FE02; FSung-Academic; FS102CB0 # Term: FS102CB0

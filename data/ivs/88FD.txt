@@ -1,0 +1,3 @@
+88FD FE00; FSung-Academic; FS0F18DD # Term: FS0F18DD
+88FD FE01; FSung-Academic; FS0FD8F3 # Term: FS0FD8F3
+88FD FE02; FSung-Academic; FS0FD8FC # Term: FS0FD8FC

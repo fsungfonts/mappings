@@ -1,0 +1,2 @@
+2A2FA FE00; FSung-Academic; FS1056BD # Term: FS1056BD
+2A2FA FE01; FSung-Academic; FS1056BE # Term: FS1056BE

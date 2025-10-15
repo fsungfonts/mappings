@@ -1,0 +1,2 @@
+3493 FE00; FSung-Academic; FS10386D # Term: FS10386D
+3493 FE01; FSung-Academic; FS103FDF # Term: FS103FDF

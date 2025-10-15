@@ -1,0 +1,3 @@
+95CC FE00; FSung-Academic; FS1022F8 # Term: FS1022F8
+95CC FE01; FSung-Academic; FS1022F9 # Term: FS1022F9
+95CC FE02; FSung-Academic; FS1022FA # Term: FS1022FA

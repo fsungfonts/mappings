@@ -1,0 +1,2 @@
+4869 FE00; FSung-Academic; FS0F5860 # Term: FS0F5860
+4869 FE01; FSung-Academic; FS1036D4 # Term: FS1036D4

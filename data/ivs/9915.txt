@@ -1,0 +1,2 @@
+9915 FE00; FSung-Academic; FS0F0D33 # Term: FS0F0D33
+9915 FE01; FSung-Academic; FS0FEB02 # Term: FS0FEB02

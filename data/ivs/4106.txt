@@ -1,0 +1,2 @@
+4106 FE00; FSung-Academic; FS10493D # Term: FS10493D
+4106 FE01; FSung-Academic; FS10493E # Term: FS10493E

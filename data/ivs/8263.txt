@@ -1,0 +1,2 @@
+8263 FE00; FSung-Academic; FS0F0CF1 # Term: FS0F0CF1
+8263 FE01; FSung-Academic; FS104C6C # Term: FS104C6C

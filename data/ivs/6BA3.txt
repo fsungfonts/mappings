@@ -1,0 +1,3 @@
+6BA3 FE00; FSung-Academic; FS0FC8D8 # Term: FS0FC8D8
+6BA3 FE01; FSung-Academic; FS102E6E # Term: FS102E6E
+6BA3 FE02; FSung-Academic; FS102E6F # Term: FS102E6F

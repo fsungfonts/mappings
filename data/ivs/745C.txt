@@ -1,0 +1,2 @@
+745C FE00; FSung-Academic; FS0FB012 # Term: FS0FB012
+745C FE01; FSung-Academic; FS0FC730 # Term: FS0FC730

@@ -1,0 +1,4 @@
+3A3E FE00; FSung-Academic; FS0FAE56 # Term: FS0FAE56
+3A3E FE01; FSung-Academic; FS0FAE5E # Term: FS0FAE5E
+3A3E FE02; FSung-Academic; FS104435 # Term: FS104435
+3A3E FE03; FSung-Academic; FS104436 # Term: FS104436

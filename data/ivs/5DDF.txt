@@ -1,0 +1,3 @@
+5DDF FE00; FSung-Academic; FS0F066E # Term: FS0F066E
+5DDF FE01; FSung-Academic; FS102BAA # Term: FS102BAA
+5DDF FE02; FSung-Academic; FS102BAB # Term: FS102BAB

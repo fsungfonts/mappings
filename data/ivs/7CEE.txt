@@ -1,0 +1,3 @@
+7CEE FE00; FSung-Academic; FS104ACA # Term: FS104ACA
+7CEE FE01; FSung-Academic; FS104ACB # Term: FS104ACB
+7CEE FE02; FSung-Academic; FS104ACC # Term: FS104ACC

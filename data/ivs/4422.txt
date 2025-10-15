@@ -1,0 +1,3 @@
+4422 FE00; FSung-Academic; FS0FBE97 # Term: FS0FBE97
+4422 FE01; FSung-Academic; FS0FBEDA # Term: FS0FBEDA
+4422 FE02; FSung-Academic; FS0FBF52 # Term: FS0FBF52

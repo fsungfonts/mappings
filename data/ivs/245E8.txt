@@ -1,0 +1,2 @@
+245E8 FE00; FSung-Academic; FS1046EE # Term: FS1046EE
+245E8 FE01; FSung-Academic; FS1046EF # Term: FS1046EF

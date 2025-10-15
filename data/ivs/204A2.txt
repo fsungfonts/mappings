@@ -1,0 +1,2 @@
+204A2 FE00; FSung-Academic; FS103FF7 # Term: FS103FF7
+204A2 FE01; FSung-Academic; FS103FF8 # Term: FS103FF8

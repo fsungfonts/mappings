@@ -1,0 +1,4 @@
+9A65 FE00; FSung-Academic; FS0F8FEF # Term: FS0F8FEF
+9A65 FE01; FSung-Academic; FS0FEC7E # Term: FS0FEC7E
+9A65 FE02; FSung-Academic; FS102685 # Term: FS102685
+9A65 FE03; FSung-Academic; FS102686 # Term: FS102686

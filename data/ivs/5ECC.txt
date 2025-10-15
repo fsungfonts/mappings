@@ -1,0 +1,2 @@
+5ECC FE00; FSung-Academic; FS102BCC # Term: FS102BCC
+5ECC FE01; FSung-Academic; FS103B6E # Term: FS103B6E

@@ -1,0 +1,4 @@
+5928 FE00; FSung-Academic; FS0F0FC8 # Term: FS0F0FC8
+5928 FE01; FSung-Academic; FS104154 # Term: FS104154
+5928 FE02; FSung-Academic; FS104155 # Term: FS104155
+5928 FE03; FSung-Academic; FS104156 # Term: FS104156

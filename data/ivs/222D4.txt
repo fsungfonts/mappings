@@ -1,0 +1,2 @@
+222D4 FE00; FSung-Academic; FS1058F4 # Term: FS1058F4
+222D4 FE01; FSung-Academic; FS1058F5 # Term: FS1058F5

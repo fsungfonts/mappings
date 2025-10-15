@@ -1,0 +1,3 @@
+58D5 FE00; FSung-Academic; FS0F6021 # Term: FS0F6021
+58D5 FE01; FSung-Academic; FS0F6022 # Term: FS0F6022
+58D5 FE02; FSung-Academic; FS0F6025 # Term: FS0F6025

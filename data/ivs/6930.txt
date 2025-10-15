@@ -1,0 +1,2 @@
+6930 FE00; FSung-Academic; FS1005A8 # Term: FS1005A8
+6930 FE01; FSung-Academic; FS103A32 # Term: FS103A32

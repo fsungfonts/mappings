@@ -1,0 +1,2 @@
+86FB FE00; FSung-Academic; FS0FD521 # Term: FS0FD521
+86FB FE01; FSung-Academic; FS101A26 # Term: FS101A26

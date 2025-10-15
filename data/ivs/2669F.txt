@@ -1,0 +1,2 @@
+2669F FE00; FSung-Academic; FS104BB7 # Term: FS104BB7
+2669F FE01; FSung-Academic; FS104BB8 # Term: FS104BB8

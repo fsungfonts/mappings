@@ -1,0 +1,2 @@
+6279 FE00; FSung-Academic; FS10005F # Term: FS10005F
+6279 FE01; FSung-Academic; FS100060 # Term: FS100060

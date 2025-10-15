@@ -1,0 +1,4 @@
+6170 FE00; FSung-Academic; FS0FC63E # Term: FS0FC63E
+6170 FE01; FSung-Academic; FS0FC67D # Term: FS0FC67D
+6170 FE02; FSung-Academic; FS0FFF40 # Term: FS0FFF40
+6170 FE03; FSung-Academic; FS0FFF41 # Term: FS0FFF41

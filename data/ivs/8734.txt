@@ -1,0 +1,4 @@
+8734 FE00; FSung-Academic; FS101A40 # Term: FS101A40
+8734 FE01; FSung-Academic; FS101A41 # Term: FS101A41
+8734 FE02; FSung-Academic; FS101A42 # Term: FS101A42
+8734 FE03; FSung-Academic; FS101A43 # Term: FS101A43

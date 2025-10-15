@@ -1,0 +1,4 @@
+711E FE00; FSung-Academic; FS0FC222 # Term: FS0FC222
+711E FE01; FSung-Academic; FS102F75 # Term: FS102F75
+711E FE02; FSung-Academic; FS102F76 # Term: FS102F76
+711E FE03; FSung-Academic; FS102F77 # Term: FS102F77

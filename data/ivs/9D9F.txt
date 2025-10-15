@@ -1,0 +1,3 @@
+9D9F FE00; FSung-Academic; FS103E3C # Term: FS103E3C
+9D9F FE01; FSung-Academic; FS103E3D # Term: FS103E3D
+9D9F FE02; FSung-Academic; FS103E3E # Term: FS103E3E

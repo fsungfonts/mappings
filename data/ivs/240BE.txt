@@ -1,0 +1,2 @@
+240BE FE00; FSung-Academic; FS0F4673 # Term: FS0F4673
+240BE FE01; FSung-Academic; FS105952 # Term: FS105952

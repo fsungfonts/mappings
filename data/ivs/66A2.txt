@@ -1,0 +1,3 @@
+66A2 FE00; FSung-Academic; FS0F0B21 # Term: FS0F0B21
+66A2 FE01; FSung-Academic; FS1003FA # Term: FS1003FA
+66A2 FE02; FSung-Academic; FS1003FB # Term: FS1003FB

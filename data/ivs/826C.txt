@@ -1,0 +1,3 @@
+826C FE00; FSung-Academic; FS104C71 # Term: FS104C71
+826C FE01; FSung-Academic; FS104C72 # Term: FS104C72
+826C FE02; FSung-Academic; FS104C73 # Term: FS104C73

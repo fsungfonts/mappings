@@ -1,0 +1,3 @@
+9EDE FE00; FSung-Academic; FS10283D # Term: FS10283D
+9EDE FE01; FSung-Academic; FS10283E # Term: FS10283E
+9EDE FE02; FSung-Academic; FS10283F # Term: FS10283F

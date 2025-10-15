@@ -1,0 +1,2 @@
+51B0 FE00; FSung-Academic; FS0F147D # Term: FS0F147D
+51B0 FE01; FSung-Academic; FS0F15C8 # Term: FS0F15C8

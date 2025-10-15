@@ -1,0 +1,2 @@
+90D6 FE00; FSung-Academic; FS0F27CD # Term: FS0F27CD
+90D6 FE01; FSung-Academic; FS103723 # Term: FS103723

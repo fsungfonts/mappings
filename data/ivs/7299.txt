@@ -1,0 +1,2 @@
+7299 FE00; FSung-Academic; FS0FBAF9 # Term: FS0FBAF9
+7299 FE01; FSung-Academic; FS104706 # Term: FS104706

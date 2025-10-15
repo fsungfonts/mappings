@@ -1,0 +1,2 @@
+8766 FE00; FSung-Academic; FS101A4D # Term: FS101A4D
+8766 FE01; FSung-Academic; FS101A4E # Term: FS101A4E

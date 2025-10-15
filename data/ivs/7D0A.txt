@@ -1,0 +1,2 @@
+7D0A FE00; FSung-Academic; FS0FA456 # Term: FS0FA456
+7D0A FE01; FSung-Academic; FS0FA766 # Term: FS0FA766

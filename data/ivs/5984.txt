@@ -1,0 +1,3 @@
+5984 FE00; FSung-Academic; FS0F4EEB # Term: FS0F4EEB
+5984 FE01; FSung-Academic; FS0F4EFD # Term: FS0F4EFD
+5984 FE02; FSung-Academic; FS0FA9A2 # Term: FS0FA9A2

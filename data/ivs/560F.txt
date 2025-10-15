@@ -1,0 +1,3 @@
+560F FE00; FSung-Academic; FS102A66 # Term: FS102A66
+560F FE01; FSung-Academic; FS102A67 # Term: FS102A67
+560F FE02; FSung-Academic; FS102A68 # Term: FS102A68

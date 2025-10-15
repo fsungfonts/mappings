@@ -1,0 +1,2 @@
+7094 FE00; FSung-Academic; FS102F6F # Term: FS102F6F
+7094 FE01; FSung-Academic; FS102F70 # Term: FS102F70

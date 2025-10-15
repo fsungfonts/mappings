@@ -1,0 +1,2 @@
+5065 FE00; FSung-Academic; FS0F6959 # Term: FS0F6959
+5065 FE01; FSung-Academic; FS0F6D68 # Term: FS0F6D68

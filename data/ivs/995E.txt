@@ -1,0 +1,3 @@
+995E FE00; FSung-Academic; FS10262C # Term: FS10262C
+995E FE01; FSung-Academic; FS10262D # Term: FS10262D
+995E FE02; FSung-Academic; FS10262E # Term: FS10262E

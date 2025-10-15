@@ -1,0 +1,3 @@
+5E75 FE00; FSung-Academic; FS102BBC # Term: FS102BBC
+5E75 FE01; FSung-Academic; FS102BBD # Term: FS102BBD
+5E75 FE02; FSung-Academic; FS102BBE # Term: FS102BBE

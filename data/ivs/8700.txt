@@ -1,0 +1,2 @@
+8700 FE00; FSung-Academic; FS0FCB5B # Term: FS0FCB5B
+8700 FE01; FSung-Academic; FS0FCB6C # Term: FS0FCB6C

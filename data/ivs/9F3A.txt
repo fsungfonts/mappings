@@ -1,0 +1,2 @@
+9F3A FE00; FSung-Academic; FS10585B # Term: FS10585B
+9F3A FE01; FSung-Academic; FS10585C # Term: FS10585C

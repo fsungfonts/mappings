@@ -1,0 +1,4 @@
+77C7 FE00; FSung-Academic; FS0F6B43 # Term: FS0F6B43
+77C7 FE01; FSung-Academic; FS100E74 # Term: FS100E74
+77C7 FE02; FSung-Academic; FS100E75 # Term: FS100E75
+77C7 FE03; FSung-Academic; FS100E76 # Term: FS100E76

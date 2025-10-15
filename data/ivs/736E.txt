@@ -1,0 +1,2 @@
+736E FE00; FSung-Academic; FS0FF616 # Term: FS0FF616
+736E FE01; FSung-Academic; FS103003 # Term: FS103003

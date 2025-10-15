@@ -1,0 +1,2 @@
+24B37 FE00; FSung-Academic; FS10479B # Term: FS10479B
+24B37 FE01; FSung-Academic; FS10479C # Term: FS10479C

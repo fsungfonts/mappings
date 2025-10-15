@@ -1,0 +1,4 @@
+76DD FE00; FSung-Academic; FS1030D2 # Term: FS1030D2
+76DD FE01; FSung-Academic; FS1030D3 # Term: FS1030D3
+76DD FE02; FSung-Academic; FS1030D4 # Term: FS1030D4
+76DD FE03; FSung-Academic; FS1030D5 # Term: FS1030D5

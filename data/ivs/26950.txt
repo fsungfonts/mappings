@@ -1,0 +1,2 @@
+26950 FE00; FSung-Academic; FS104C1D # Term: FS104C1D
+26950 FE01; FSung-Academic; FS104C1E # Term: FS104C1E

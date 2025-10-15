@@ -1,0 +1,3 @@
+6085 FE00; FSung-Academic; FS0FFE60 # Term: FS0FFE60
+6085 FE01; FSung-Academic; FS0FFE61 # Term: FS0FFE61
+6085 FE02; FSung-Academic; FS0FFE62 # Term: FS0FFE62

@@ -1,0 +1,2 @@
+52A3 FE00; FSung-Academic; FS0F54E1 # Term: FS0F54E1
+52A3 FE01; FSung-Academic; FS0F54E2 # Term: FS0F54E2

@@ -1,0 +1,3 @@
+553E FE00; FSung-Academic; FS0F37D4 # Term: FS0F37D4
+553E FE01; FSung-Academic; FS0F37D5 # Term: FS0F37D5
+553E FE02; FSung-Academic; FS0F6CE5 # Term: FS0F6CE5

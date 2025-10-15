@@ -1,0 +1,2 @@
+552E FE00; FSung-Academic; FS0F56A1 # Term: FS0F56A1
+552E FE01; FSung-Academic; FS0F56A2 # Term: FS0F56A2

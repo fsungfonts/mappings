@@ -1,0 +1,4 @@
+7368 FE00; FSung-Academic; FS0F407E # Term: FS0F407E
+7368 FE01; FSung-Academic; FS0F4091 # Term: FS0F4091
+7368 FE02; FSung-Academic; FS100B8C # Term: FS100B8C
+7368 FE03; FSung-Academic; FS100B8D # Term: FS100B8D

@@ -1,0 +1,4 @@
+6409 FE00; FSung-Academic; FS0F3025 # Term: FS0F3025
+6409 FE01; FSung-Academic; FS102CC9 # Term: FS102CC9
+6409 FE02; FSung-Academic; FS102CCA # Term: FS102CCA
+6409 FE03; FSung-Academic; FS102CCB # Term: FS102CCB

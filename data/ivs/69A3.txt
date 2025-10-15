@@ -1,0 +1,3 @@
+69A3 FE00; FSung-Academic; FS1044D6 # Term: FS1044D6
+69A3 FE01; FSung-Academic; FS1044D7 # Term: FS1044D7
+69A3 FE02; FSung-Academic; FS1044D8 # Term: FS1044D8

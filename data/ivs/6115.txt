@@ -1,0 +1,3 @@
+6115 FE00; FSung-Academic; FS0F47AD # Term: FS0F47AD
+6115 FE01; FSung-Academic; FS0FFE9F # Term: FS0FFE9F
+6115 FE02; FSung-Academic; FS0FFEA0 # Term: FS0FFEA0

@@ -1,0 +1,2 @@
+28BBB FE00; FSung-Academic; FS0F7008 # Term: FS0F7008
+28BBB FE01; FSung-Academic; FS105108 # Term: FS105108

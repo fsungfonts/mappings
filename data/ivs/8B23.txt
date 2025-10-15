@@ -1,0 +1,2 @@
+8B23 FE00; FSung-Academic; FS0FE405 # Term: FS0FE405
+8B23 FE01; FSung-Academic; FS101CCE # Term: FS101CCE

@@ -1,0 +1,2 @@
+25C76 FE00; FSung-Academic; FS0FF6B3 # Term: FS0FF6B3
+25C76 FE01; FSung-Academic; FS104A4D # Term: FS104A4D

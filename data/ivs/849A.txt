@@ -1,0 +1,3 @@
+849A FE00; FSung-Academic; FS1033C8 # Term: FS1033C8
+849A FE01; FSung-Academic; FS1033C9 # Term: FS1033C9
+849A FE02; FSung-Academic; FS1033CA # Term: FS1033CA

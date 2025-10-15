@@ -1,0 +1,4 @@
+62CB FE00; FSung-Academic; FS0F2FB3 # Term: FS0F2FB3
+62CB FE01; FSung-Academic; FS10007A # Term: FS10007A
+62CB FE02; FSung-Academic; FS10007B # Term: FS10007B
+62CB FE03; FSung-Academic; FS10007C # Term: FS10007C

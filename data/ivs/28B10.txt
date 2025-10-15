@@ -1,0 +1,2 @@
+28B10 FE00; FSung-Academic; FS1050FA # Term: FS1050FA
+28B10 FE01; FSung-Academic; FS1050FB # Term: FS1050FB

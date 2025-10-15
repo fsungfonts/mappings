@@ -1,0 +1,2 @@
+9AFB FE00; FSung-Academic; FS1026C4 # Term: FS1026C4
+9AFB FE01; FSung-Academic; FS1026C5 # Term: FS1026C5

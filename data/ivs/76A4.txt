@@ -1,0 +1,2 @@
+76A4 FE00; FSung-Academic; FS0FCE62 # Term: FS0FCE62
+76A4 FE01; FSung-Academic; FS0FCE63 # Term: FS0FCE63

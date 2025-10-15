@@ -1,0 +1,2 @@
+61E4 FE00; FSung-Academic; FS0F47FA # Term: FS0F47FA
+61E4 FE01; FSung-Academic; FS102C7C # Term: FS102C7C

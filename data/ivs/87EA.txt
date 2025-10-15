@@ -1,0 +1,2 @@
+87EA FE00; FSung-Academic; FS103501 # Term: FS103501
+87EA FE01; FSung-Academic; FS103502 # Term: FS103502

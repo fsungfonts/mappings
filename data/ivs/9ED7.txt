@@ -1,0 +1,3 @@
+9ED7 FE00; FSung-Academic; FS10572B # Term: FS10572B
+9ED7 FE01; FSung-Academic; FS10572C # Term: FS10572C
+9ED7 FE02; FSung-Academic; FS10572D # Term: FS10572D

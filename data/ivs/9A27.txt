@@ -1,0 +1,3 @@
+9A27 FE00; FSung-Academic; FS0FEC7A # Term: FS0FEC7A
+9A27 FE01; FSung-Academic; FS103CC3 # Term: FS103CC3
+9A27 FE02; FSung-Academic; FS103CC4 # Term: FS103CC4

@@ -1,0 +1,4 @@
+736C FE00; FSung-Academic; FS102FFD # Term: FS102FFD
+736C FE01; FSung-Academic; FS102FFE # Term: FS102FFE
+736C FE02; FSung-Academic; FS102FFF # Term: FS102FFF
+736C FE03; FSung-Academic; FS103000 # Term: FS103000

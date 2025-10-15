@@ -1,0 +1,4 @@
+98EA FE00; FSung-Academic; FS1025DA # Term: FS1025DA
+98EA FE01; FSung-Academic; FS1025DB # Term: FS1025DB
+98EA FE02; FSung-Academic; FS1025DC # Term: FS1025DC
+98EA FE03; FSung-Academic; FS1025DD # Term: FS1025DD

@@ -1,0 +1,2 @@
+28CB3 FE00; FSung-Academic; FS105121 # Term: FS105121
+28CB3 FE01; FSung-Academic; FS105122 # Term: FS105122

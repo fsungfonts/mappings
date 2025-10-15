@@ -1,0 +1,3 @@
+8755 FE00; FSung-Academic; FS0F1143 # Term: FS0F1143
+8755 FE01; FSung-Academic; FS0FEAFD # Term: FS0FEAFD
+8755 FE02; FSung-Academic; FS101A46 # Term: FS101A46

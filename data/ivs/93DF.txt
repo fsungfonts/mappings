@@ -1,0 +1,3 @@
+93DF FE00; FSung-Academic; FS10223F # Term: FS10223F
+93DF FE01; FSung-Academic; FS102240 # Term: FS102240
+93DF FE02; FSung-Academic; FS102241 # Term: FS102241

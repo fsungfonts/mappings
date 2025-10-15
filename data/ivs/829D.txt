@@ -1,0 +1,4 @@
+829D FE00; FSung-Academic; FS0FDA69 # Term: FS0FDA69
+829D FE01; FSung-Academic; FS1016FE # Term: FS1016FE
+829D FE02; FSung-Academic; FS1016FF # Term: FS1016FF
+829D FE03; FSung-Academic; FS101700 # Term: FS101700

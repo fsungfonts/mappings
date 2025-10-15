@@ -1,0 +1,2 @@
+5082 FE00; FSung-Academic; FS0F50AA # Term: FS0F50AA
+5082 FE01; FSung-Academic; FS102995 # Term: FS102995

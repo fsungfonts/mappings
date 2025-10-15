@@ -1,0 +1,3 @@
+9761 FE00; FSung-Academic; FS1024BF # Term: FS1024BF
+9761 FE01; FSung-Academic; FS1024C0 # Term: FS1024C0
+9761 FE02; FSung-Academic; FS1024C1 # Term: FS1024C1

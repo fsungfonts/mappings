@@ -1,0 +1,4 @@
+513B FE00; FSung-Academic; FS0F1C1B # Term: FS0F1C1B
+513B FE01; FSung-Academic; FS0F1C68 # Term: FS0F1C68
+513B FE02; FSung-Academic; FS1029E3 # Term: FS1029E3
+513B FE03; FSung-Academic; FS1029E4 # Term: FS1029E4

@@ -1,0 +1,3 @@
+838E FE00; FSung-Academic; FS0FC5A4 # Term: FS0FC5A4
+838E FE01; FSung-Academic; FS10176D # Term: FS10176D
+838E FE02; FSung-Academic; FS10176E # Term: FS10176E

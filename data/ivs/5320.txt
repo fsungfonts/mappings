@@ -1,0 +1,4 @@
+5320 FE00; FSung-Academic; FS0F554A # Term: FS0F554A
+5320 FE01; FSung-Academic; FS0F554B # Term: FS0F554B
+5320 FE02; FSung-Academic; FS0FA9C7 # Term: FS0FA9C7
+5320 FE03; FSung-Academic; FS0FBCD2 # Term: FS0FBCD2

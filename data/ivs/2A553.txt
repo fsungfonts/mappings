@@ -1,0 +1,2 @@
+2A553 FE00; FSung-Academic; FS10581D # Term: FS10581D
+2A553 FE01; FSung-Academic; FS10581E # Term: FS10581E

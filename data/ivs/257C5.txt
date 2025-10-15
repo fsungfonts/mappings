@@ -1,0 +1,2 @@
+257C5 FE00; FSung-Academic; FS0F155D # Term: FS0F155D
+257C5 FE01; FSung-Academic; FS104992 # Term: FS104992

@@ -1,0 +1,2 @@
+2A2DC FE00; FSung-Academic; FS1056B6 # Term: FS1056B6
+2A2DC FE01; FSung-Academic; FS1056B7 # Term: FS1056B7

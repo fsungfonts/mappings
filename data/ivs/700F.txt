@@ -1,0 +1,3 @@
+700F FE00; FSung-Academic; FS0F4672 # Term: FS0F4672
+700F FE01; FSung-Academic; FS10093E # Term: FS10093E
+700F FE02; FSung-Academic; FS10093F # Term: FS10093F

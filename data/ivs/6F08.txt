@@ -1,0 +1,2 @@
+6F08 FE00; FSung-Academic; FS10461D # Term: FS10461D
+6F08 FE01; FSung-Academic; FS10461E # Term: FS10461E

@@ -1,0 +1,3 @@
+6603 FE00; FSung-Academic; FS0F52D8 # Term: FS0F52D8
+6603 FE01; FSung-Academic; FS102D50 # Term: FS102D50
+6603 FE02; FSung-Academic; FS102D51 # Term: FS102D51

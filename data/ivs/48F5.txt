@@ -1,0 +1,2 @@
+48F5 FE00; FSung-Academic; FS105072 # Term: FS105072
+48F5 FE01; FSung-Academic; FS105073 # Term: FS105073

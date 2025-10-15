@@ -1,0 +1,3 @@
+82B0 FE00; FSung-Academic; FS0FACCC # Term: FS0FACCC
+82B0 FE01; FSung-Academic; FS0FACE0 # Term: FS0FACE0
+82B0 FE02; FSung-Academic; FS0FACE6 # Term: FS0FACE6

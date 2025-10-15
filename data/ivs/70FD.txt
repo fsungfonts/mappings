@@ -1,0 +1,4 @@
+70FD FE00; FSung-Academic; FS0FC206 # Term: FS0FC206
+70FD FE01; FSung-Academic; FS0FC209 # Term: FS0FC209
+70FD FE02; FSung-Academic; FS0FC258 # Term: FS0FC258
+70FD FE03; FSung-Academic; FS1009B6 # Term: FS1009B6

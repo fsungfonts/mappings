@@ -1,0 +1,3 @@
+5211 FE00; FSung-Academic; FS0F0F65 # Term: FS0F0F65
+5211 FE01; FSung-Academic; FS0F1845 # Term: FS0F1845
+5211 FE02; FSung-Academic; FS0F5472 # Term: FS0F5472

@@ -1,0 +1,2 @@
+557C FE00; FSung-Academic; FS0F385A # Term: FS0F385A
+557C FE01; FSung-Academic; FS0F56AB # Term: FS0F56AB

@@ -1,0 +1,2 @@
+26712 FE00; FSung-Academic; FS0F5276 # Term: FS0F5276
+26712 FE01; FSung-Academic; FS104BC6 # Term: FS104BC6

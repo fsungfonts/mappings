@@ -1,0 +1,2 @@
+49AB FE00; FSung-Academic; FS10517B # Term: FS10517B
+49AB FE01; FSung-Academic; FS10517C # Term: FS10517C

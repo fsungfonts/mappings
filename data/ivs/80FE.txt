@@ -1,0 +1,2 @@
+80FE FE00; FSung-Academic; FS10333B # Term: FS10333B
+80FE FE01; FSung-Academic; FS10333C # Term: FS10333C

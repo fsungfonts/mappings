@@ -1,0 +1,2 @@
+9A07 FE00; FSung-Academic; FS103CBC # Term: FS103CBC
+9A07 FE01; FSung-Academic; FS103CBD # Term: FS103CBD

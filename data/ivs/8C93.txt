@@ -1,0 +1,3 @@
+8C93 FE00; FSung-Academic; FS101DB2 # Term: FS101DB2
+8C93 FE01; FSung-Academic; FS101DB3 # Term: FS101DB3
+8C93 FE02; FSung-Academic; FS101DB4 # Term: FS101DB4

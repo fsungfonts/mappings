@@ -1,0 +1,2 @@
+243FF FE00; FSung-Academic; FS1046BB # Term: FS1046BB
+243FF FE01; FSung-Academic; FS1046BC # Term: FS1046BC

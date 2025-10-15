@@ -1,0 +1,4 @@
+4A79 FE00; FSung-Academic; FS103C17 # Term: FS103C17
+4A79 FE01; FSung-Academic; FS10524C # Term: FS10524C
+4A79 FE02; FSung-Academic; FS10524D # Term: FS10524D
+4A79 FE03; FSung-Academic; FS10524E # Term: FS10524E

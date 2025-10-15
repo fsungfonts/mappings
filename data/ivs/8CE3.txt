@@ -1,0 +1,4 @@
+8CE3 FE00; FSung-Academic; FS0F612C # Term: FS0F612C
+8CE3 FE01; FSung-Academic; FS101E00 # Term: FS101E00
+8CE3 FE02; FSung-Academic; FS101E01 # Term: FS101E01
+8CE3 FE03; FSung-Academic; FS101E02 # Term: FS101E02

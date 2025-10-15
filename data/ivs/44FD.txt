@@ -1,0 +1,2 @@
+44FD FE00; FSung-Academic; FS104CCE # Term: FS104CCE
+44FD FE01; FSung-Academic; FS104CCF # Term: FS104CCF

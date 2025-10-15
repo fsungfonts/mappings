@@ -1,0 +1,3 @@
+638F FE00; FSung-Academic; FS0FF12D # Term: FS0FF12D
+638F FE01; FSung-Academic; FS100108 # Term: FS100108
+638F FE02; FSung-Academic; FS100109 # Term: FS100109

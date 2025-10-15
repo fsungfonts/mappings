@@ -1,0 +1,2 @@
+8ACB FE00; FSung-Academic; FS101C72 # Term: FS101C72
+8ACB FE01; FSung-Academic; FS101C73 # Term: FS101C73

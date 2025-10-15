@@ -1,0 +1,2 @@
+634F FE00; FSung-Academic; FS0F5CB6 # Term: FS0F5CB6
+634F FE01; FSung-Academic; FS1000B7 # Term: FS1000B7

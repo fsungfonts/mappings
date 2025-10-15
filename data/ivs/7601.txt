@@ -1,0 +1,3 @@
+7601 FE00; FSung-Academic; FS0FCF10 # Term: FS0FCF10
+7601 FE01; FSung-Academic; FS100D37 # Term: FS100D37
+7601 FE02; FSung-Academic; FS100D38 # Term: FS100D38

@@ -1,0 +1,4 @@
+9F19 FE00; FSung-Academic; FS0F2EBA # Term: FS0F2EBA
+9F19 FE01; FSung-Academic; FS10287F # Term: FS10287F
+9F19 FE02; FSung-Academic; FS102880 # Term: FS102880
+9F19 FE03; FSung-Academic; FS102881 # Term: FS102881

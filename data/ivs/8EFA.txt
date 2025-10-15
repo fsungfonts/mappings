@@ -1,0 +1,3 @@
+8EFA FE00; FSung-Academic; FS0F526E # Term: FS0F526E
+8EFA FE01; FSung-Academic; FS1036CE # Term: FS1036CE
+8EFA FE02; FSung-Academic; FS1036CF # Term: FS1036CF

@@ -1,0 +1,3 @@
+5824 FE00; FSung-Academic; FS0F2C2F # Term: FS0F2C2F
+5824 FE01; FSung-Academic; FS0F2C71 # Term: FS0F2C71
+5824 FE02; FSung-Academic; FS0F5F62 # Term: FS0F5F62

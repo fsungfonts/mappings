@@ -1,0 +1,3 @@
+7242 FE00; FSung-Academic; FS102FB1 # Term: FS102FB1
+7242 FE01; FSung-Academic; FS102FB2 # Term: FS102FB2
+7242 FE02; FSung-Academic; FS102FB3 # Term: FS102FB3

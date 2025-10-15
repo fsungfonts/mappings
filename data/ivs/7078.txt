@@ -1,0 +1,3 @@
+7078 FE00; FSung-Academic; FS0F6A98 # Term: FS0F6A98
+7078 FE01; FSung-Academic; FS0FA944 # Term: FS0FA944
+7078 FE02; FSung-Academic; FS100981 # Term: FS100981

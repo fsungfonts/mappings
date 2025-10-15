@@ -1,0 +1,3 @@
+6771 FE00; FSung-Academic; FS0F02BE # Term: FS0F02BE
+6771 FE01; FSung-Academic; FS0F1362 # Term: FS0F1362
+6771 FE02; FSung-Academic; FS1004B6 # Term: FS1004B6

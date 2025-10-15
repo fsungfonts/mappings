@@ -1,0 +1,4 @@
+8E7C FE00; FSung-Academic; FS101ED7 # Term: FS101ED7
+8E7C FE01; FSung-Academic; FS101ED8 # Term: FS101ED8
+8E7C FE02; FSung-Academic; FS101ED9 # Term: FS101ED9
+8E7C FE03; FSung-Academic; FS101EDA # Term: FS101EDA

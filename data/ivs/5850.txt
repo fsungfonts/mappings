@@ -1,0 +1,2 @@
+5850 FE00; FSung-Academic; FS0F064D # Term: FS0F064D
+5850 FE01; FSung-Academic; FS0F0652 # Term: FS0F0652

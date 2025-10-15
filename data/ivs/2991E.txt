@@ -1,0 +1,2 @@
+2991E FE00; FSung-Academic; FS0F0BFD # Term: FS0F0BFD
+2991E FE01; FSung-Academic; FS1053B8 # Term: FS1053B8

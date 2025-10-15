@@ -1,0 +1,3 @@
+7027 FE00; FSung-Academic; FS102F4F # Term: FS102F4F
+7027 FE01; FSung-Academic; FS102F50 # Term: FS102F50
+7027 FE02; FSung-Academic; FS102F51 # Term: FS102F51

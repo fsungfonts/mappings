@@ -1,0 +1,2 @@
+614F FE00; FSung-Academic; FS10438E # Term: FS10438E
+614F FE01; FSung-Academic; FS10438F # Term: FS10438F

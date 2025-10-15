@@ -1,0 +1,2 @@
+78C1 FE00; FSung-Academic; FS0FC854 # Term: FS0FC854
+78C1 FE01; FSung-Academic; FS100EC1 # Term: FS100EC1

@@ -1,0 +1,4 @@
+93D7 FE00; FSung-Academic; FS10225B # Term: FS10225B
+93D7 FE01; FSung-Academic; FS10225C # Term: FS10225C
+93D7 FE02; FSung-Academic; FS10225D # Term: FS10225D
+93D7 FE03; FSung-Academic; FS10225E # Term: FS10225E

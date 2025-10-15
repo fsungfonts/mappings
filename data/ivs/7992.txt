@@ -1,0 +1,3 @@
+7992 FE00; FSung-Academic; FS0F092E # Term: FS0F092E
+7992 FE01; FSung-Academic; FS0F0E65 # Term: FS0F0E65
+7992 FE02; FSung-Academic; FS0F52C6 # Term: FS0F52C6

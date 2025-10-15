@@ -1,0 +1,3 @@
+7E81 FE00; FSung-Academic; FS0F7B34 # Term: FS0F7B34
+7E81 FE01; FSung-Academic; FS10327F # Term: FS10327F
+7E81 FE02; FSung-Academic; FS103280 # Term: FS103280

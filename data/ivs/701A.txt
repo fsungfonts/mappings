@@ -1,0 +1,4 @@
+701A FE00; FSung-Academic; FS0F4687 # Term: FS0F4687
+701A FE01; FSung-Academic; FS100958 # Term: FS100958
+701A FE02; FSung-Academic; FS100959 # Term: FS100959
+701A FE03; FSung-Academic; FS10095A # Term: FS10095A

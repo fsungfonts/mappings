@@ -1,0 +1,2 @@
+8044 FE00; FSung-Academic; FS0FD36B # Term: FS0FD36B
+8044 FE01; FSung-Academic; FS104B98 # Term: FS104B98

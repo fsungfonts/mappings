@@ -1,0 +1,2 @@
+21B16 FE00; FSung-Academic; FS0F4A49 # Term: FS0F4A49
+21B16 FE01; FSung-Academic; FS104210 # Term: FS104210

@@ -1,0 +1,3 @@
+422F FE00; FSung-Academic; FS0FD6F7 # Term: FS0FD6F7
+422F FE01; FSung-Academic; FS104A36 # Term: FS104A36
+422F FE02; FSung-Academic; FS104A37 # Term: FS104A37

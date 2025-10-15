@@ -1,0 +1,2 @@
+2767E FE00; FSung-Academic; FS0F1B25 # Term: FS0F1B25
+2767E FE01; FSung-Academic; FS0F1B45 # Term: FS0F1B45

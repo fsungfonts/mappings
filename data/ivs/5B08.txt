@@ -1,0 +1,4 @@
+5B08 FE00; FSung-Academic; FS0F4F7D # Term: FS0F4F7D
+5B08 FE01; FSung-Academic; FS102B57 # Term: FS102B57
+5B08 FE02; FSung-Academic; FS102B58 # Term: FS102B58
+5B08 FE03; FSung-Academic; FS102B59 # Term: FS102B59

@@ -1,0 +1,2 @@
+9D67 FE00; FSung-Academic; FS103E23 # Term: FS103E23
+9D67 FE01; FSung-Academic; FS103E24 # Term: FS103E24

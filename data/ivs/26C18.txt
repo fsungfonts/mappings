@@ -1,0 +1,2 @@
+26C18 FE00; FSung-Academic; FS0F3112 # Term: FS0F3112
+26C18 FE01; FSung-Academic; FS104C98 # Term: FS104C98

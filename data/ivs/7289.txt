@@ -1,0 +1,2 @@
+7289 FE00; FSung-Academic; FS0F0897 # Term: FS0F0897
+7289 FE01; FSung-Academic; FS102FB5 # Term: FS102FB5

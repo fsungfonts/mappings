@@ -1,0 +1,2 @@
+61E1 FE00; FSung-Academic; FS0FEA3E # Term: FS0FEA3E
+61E1 FE01; FSung-Academic; FS1043C3 # Term: FS1043C3

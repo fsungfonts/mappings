@@ -1,0 +1,2 @@
+83E3 FE00; FSung-Academic; FS1033A4 # Term: FS1033A4
+83E3 FE01; FSung-Academic; FS1033A5 # Term: FS1033A5

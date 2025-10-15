@@ -1,0 +1,4 @@
+38C5 FE00; FSung-Academic; FS0F4E1F # Term: FS0F4E1F
+38C5 FE01; FSung-Academic; FS0FB4D6 # Term: FS0FB4D6
+38C5 FE02; FSung-Academic; FS104316 # Term: FS104316
+38C5 FE03; FSung-Academic; FS104317 # Term: FS104317

@@ -1,0 +1,2 @@
+696C FE00; FSung-Academic; FS0F0F9A # Term: FS0F0F9A
+696C FE01; FSung-Academic; FS0FB28A # Term: FS0FB28A

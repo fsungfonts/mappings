@@ -1,0 +1,3 @@
+4CC1 FE00; FSung-Academic; FS105613 # Term: FS105613
+4CC1 FE01; FSung-Academic; FS105614 # Term: FS105614
+4CC1 FE02; FSung-Academic; FS105615 # Term: FS105615

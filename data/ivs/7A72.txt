@@ -1,0 +1,4 @@
+7A72 FE00; FSung-Academic; FS0FCE08 # Term: FS0FCE08
+7A72 FE01; FSung-Academic; FS1049D5 # Term: FS1049D5
+7A72 FE02; FSung-Academic; FS1049D6 # Term: FS1049D6
+7A72 FE03; FSung-Academic; FS1049D7 # Term: FS1049D7

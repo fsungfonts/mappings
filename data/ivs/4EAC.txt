@@ -1,0 +1,4 @@
+4EAC FE00; FSung-Academic; FS0F6802 # Term: FS0F6802
+4EAC FE01; FSung-Academic; FS0F6803 # Term: FS0F6803
+4EAC FE02; FSung-Academic; FS0F6804 # Term: FS0F6804
+4EAC FE03; FSung-Academic; FS0FA643 # Term: FS0FA643

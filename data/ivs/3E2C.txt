@@ -1,0 +1,2 @@
+3E2C FE00; FSung-Academic; FS0F0893 # Term: FS0F0893
+3E2C FE01; FSung-Academic; FS0F0894 # Term: FS0F0894

@@ -1,0 +1,4 @@
+9EEE FE00; FSung-Academic; FS0F0C44 # Term: FS0F0C44
+9EEE FE01; FSung-Academic; FS103EE1 # Term: FS103EE1
+9EEE FE02; FSung-Academic; FS103EE2 # Term: FS103EE2
+9EEE FE03; FSung-Academic; FS103EE3 # Term: FS103EE3

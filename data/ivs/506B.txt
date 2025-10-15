@@ -1,0 +1,2 @@
+506B FE00; FSung-Academic; FS10298C # Term: FS10298C
+506B FE01; FSung-Academic; FS10298D # Term: FS10298D

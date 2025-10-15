@@ -1,0 +1,3 @@
+4C4C FE00; FSung-Academic; FS1055B9 # Term: FS1055B9
+4C4C FE01; FSung-Academic; FS1055BA # Term: FS1055BA
+4C4C FE02; FSung-Academic; FS1055BB # Term: FS1055BB

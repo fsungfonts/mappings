@@ -1,0 +1,3 @@
+69CA FE00; FSung-Academic; FS0FB29E # Term: FS0FB29E
+69CA FE01; FSung-Academic; FS0FBEBC # Term: FS0FBEBC
+69CA FE02; FSung-Academic; FS102DD6 # Term: FS102DD6

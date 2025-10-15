@@ -1,0 +1,2 @@
+8882 FE00; FSung-Academic; FS0F5890 # Term: FS0F5890
+8882 FE01; FSung-Academic; FS101AFD # Term: FS101AFD

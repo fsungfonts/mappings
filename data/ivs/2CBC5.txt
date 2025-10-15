@@ -1,0 +1,2 @@
+2CBC5 FE00; FSung-Academic; FS0F0BB2 # Term: FS0F0BB2
+2CBC5 FE01; FSung-Academic; FS0F0BB4 # Term: FS0F0BB4

@@ -1,0 +1,2 @@
+7D18 FE00; FSung-Academic; FS10321A # Term: FS10321A
+7D18 FE01; FSung-Academic; FS10321B # Term: FS10321B

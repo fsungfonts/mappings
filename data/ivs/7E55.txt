@@ -1,0 +1,4 @@
+7E55 FE00; FSung-Academic; FS1012B4 # Term: FS1012B4
+7E55 FE01; FSung-Academic; FS1012B5 # Term: FS1012B5
+7E55 FE02; FSung-Academic; FS1012B6 # Term: FS1012B6
+7E55 FE03; FSung-Academic; FS1012B7 # Term: FS1012B7

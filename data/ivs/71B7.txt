@@ -1,0 +1,2 @@
+71B7 FE00; FSung-Academic; FS0F9846 # Term: FS0F9846
+71B7 FE01; FSung-Academic; FS1046AC # Term: FS1046AC

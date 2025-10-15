@@ -1,0 +1,2 @@
+6524 FE00; FSung-Academic; FS100230 # Term: FS100230
+6524 FE01; FSung-Academic; FS100231 # Term: FS100231

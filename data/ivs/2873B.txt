@@ -1,0 +1,2 @@
+2873B FE00; FSung-Academic; FS0F27B7 # Term: FS0F27B7
+2873B FE01; FSung-Academic; FS105055 # Term: FS105055

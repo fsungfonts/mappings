@@ -1,0 +1,4 @@
+8174 FE00; FSung-Academic; FS0F66B5 # Term: FS0F66B5
+8174 FE01; FSung-Academic; FS0FB4B7 # Term: FS0FB4B7
+8174 FE02; FSung-Academic; FS103347 # Term: FS103347
+8174 FE03; FSung-Academic; FS103348 # Term: FS103348

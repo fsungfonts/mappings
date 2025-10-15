@@ -1,0 +1,2 @@
+9EA0 FE00; FSung-Academic; FS103EAC # Term: FS103EAC
+9EA0 FE01; FSung-Academic; FS103EAD # Term: FS103EAD

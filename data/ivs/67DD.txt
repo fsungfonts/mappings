@@ -1,0 +1,4 @@
+67DD FE00; FSung-Academic; FS0FB16C # Term: FS0FB16C
+67DD FE01; FSung-Academic; FS0FB1AD # Term: FS0FB1AD
+67DD FE02; FSung-Academic; FS102DA6 # Term: FS102DA6
+67DD FE03; FSung-Academic; FS102DA7 # Term: FS102DA7

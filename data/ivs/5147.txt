@@ -1,0 +1,4 @@
+5147 FE00; FSung-Academic; FS0F2109 # Term: FS0F2109
+5147 FE01; FSung-Academic; FS0F2110 # Term: FS0F2110
+5147 FE02; FSung-Academic; FS0F5353 # Term: FS0F5353
+5147 FE03; FSung-Academic; FS0FB4AD # Term: FS0FB4AD

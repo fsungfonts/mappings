@@ -1,0 +1,4 @@
+508D FE00; FSung-Academic; FS0F696D # Term: FS0F696D
+508D FE01; FSung-Academic; FS0F696E # Term: FS0F696E
+508D FE02; FSung-Academic; FS0F696F # Term: FS0F696F
+508D FE03; FSung-Academic; FS0F6A29 # Term: FS0F6A29

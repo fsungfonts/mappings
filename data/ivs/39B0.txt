@@ -1,0 +1,2 @@
+39B0 FE00; FSung-Academic; FS0FAB4C # Term: FS0FAB4C
+39B0 FE01; FSung-Academic; FS0FB531 # Term: FS0FB531

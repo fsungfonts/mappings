@@ -1,0 +1,3 @@
+993D FE00; FSung-Academic; FS102617 # Term: FS102617
+993D FE01; FSung-Academic; FS102618 # Term: FS102618
+993D FE02; FSung-Academic; FS102619 # Term: FS102619

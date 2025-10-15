@@ -1,0 +1,3 @@
+50AE FE00; FSung-Academic; FS0FB4C7 # Term: FS0FB4C7
+50AE FE01; FSung-Academic; FS102996 # Term: FS102996
+50AE FE02; FSung-Academic; FS102997 # Term: FS102997

@@ -1,0 +1,3 @@
+9192 FE00; FSung-Academic; FS0FE552 # Term: FS0FE552
+9192 FE01; FSung-Academic; FS10219A # Term: FS10219A
+9192 FE02; FSung-Academic; FS10219B # Term: FS10219B

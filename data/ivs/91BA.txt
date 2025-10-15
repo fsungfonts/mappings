@@ -1,0 +1,4 @@
+91BA FE00; FSung-Academic; FS0FDEE7 # Term: FS0FDEE7
+91BA FE01; FSung-Academic; FS1021BC # Term: FS1021BC
+91BA FE02; FSung-Academic; FS1021BD # Term: FS1021BD
+91BA FE03; FSung-Academic; FS1021BE # Term: FS1021BE

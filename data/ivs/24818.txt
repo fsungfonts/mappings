@@ -1,0 +1,2 @@
+24818 FE00; FSung-Academic; FS10472C # Term: FS10472C
+24818 FE01; FSung-Academic; FS10472D # Term: FS10472D

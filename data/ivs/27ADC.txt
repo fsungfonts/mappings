@@ -1,0 +1,2 @@
+27ADC FE00; FSung-Academic; FS104EC8 # Term: FS104EC8
+27ADC FE01; FSung-Academic; FS104EC9 # Term: FS104EC9

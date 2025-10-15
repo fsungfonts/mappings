@@ -1,0 +1,2 @@
+552C FE00; FSung-Academic; FS0F56A3 # Term: FS0F56A3
+552C FE01; FSung-Academic; FS0F56A4 # Term: FS0F56A4

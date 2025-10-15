@@ -1,0 +1,3 @@
+98C1 FE00; FSung-Academic; FS103C52 # Term: FS103C52
+98C1 FE01; FSung-Academic; FS103C53 # Term: FS103C53
+98C1 FE02; FSung-Academic; FS103C54 # Term: FS103C54

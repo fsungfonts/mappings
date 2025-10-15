@@ -1,0 +1,2 @@
+262E1 FE00; FSung-Academic; FS0FCB6E # Term: FS0FCB6E
+262E1 FE01; FSung-Academic; FS104B41 # Term: FS104B41

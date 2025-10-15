@@ -1,0 +1,3 @@
+72F7 FE00; FSung-Academic; FS0FAB94 # Term: FS0FAB94
+72F7 FE01; FSung-Academic; FS100B62 # Term: FS100B62
+72F7 FE02; FSung-Academic; FS100B63 # Term: FS100B63

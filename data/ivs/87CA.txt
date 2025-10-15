@@ -1,0 +1,2 @@
+87CA FE00; FSung-Academic; FS0FD51A # Term: FS0FD51A
+87CA FE01; FSung-Academic; FS1034FB # Term: FS1034FB

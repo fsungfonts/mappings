@@ -1,0 +1,2 @@
+54EE FE00; FSung-Academic; FS0F5682 # Term: FS0F5682
+54EE FE01; FSung-Academic; FS0F5683 # Term: FS0F5683

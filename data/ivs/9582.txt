@@ -1,0 +1,4 @@
+9582 FE00; FSung-Academic; FS1022C0 # Term: FS1022C0
+9582 FE01; FSung-Academic; FS1022C1 # Term: FS1022C1
+9582 FE02; FSung-Academic; FS1022C2 # Term: FS1022C2
+9582 FE03; FSung-Academic; FS103AA5 # Term: FS103AA5

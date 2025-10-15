@@ -1,0 +1,3 @@
+749E FE00; FSung-Academic; FS0FAFED # Term: FS0FAFED
+749E FE01; FSung-Academic; FS10303E # Term: FS10303E
+749E FE02; FSung-Academic; FS10303F # Term: FS10303F

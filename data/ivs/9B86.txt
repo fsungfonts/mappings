@@ -1,0 +1,2 @@
+9B86 FE00; FSung-Academic; FS103DDA # Term: FS103DDA
+9B86 FE01; FSung-Academic; FS103DDB # Term: FS103DDB

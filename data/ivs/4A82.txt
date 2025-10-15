@@ -1,0 +1,2 @@
+4A82 FE00; FSung-Academic; FS0FF90B # Term: FS0FF90B
+4A82 FE01; FSung-Academic; FS105269 # Term: FS105269

@@ -1,0 +1,2 @@
+2D15B FE00; FSung-Academic; FS0F05A2 # Term: FS0F05A2
+2D15B FE01; FSung-Academic; FS0F05A7 # Term: FS0F05A7

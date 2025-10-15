@@ -1,0 +1,4 @@
+4FC1 FE00; FSung-Academic; FS10296E # Term: FS10296E
+4FC1 FE01; FSung-Academic; FS10296F # Term: FS10296F
+4FC1 FE02; FSung-Academic; FS102970 # Term: FS102970
+4FC1 FE03; FSung-Academic; FS102971 # Term: FS102971

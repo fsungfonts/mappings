@@ -1,0 +1,4 @@
+560D FE00; FSung-Academic; FS0F3846 # Term: FS0F3846
+560D FE01; FSung-Academic; FS0F5733 # Term: FS0F5733
+560D FE02; FSung-Academic; FS0F5734 # Term: FS0F5734
+560D FE03; FSung-Academic; FS0F5735 # Term: FS0F5735

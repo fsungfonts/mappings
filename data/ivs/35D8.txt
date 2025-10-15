@@ -1,0 +1,4 @@
+35D8 FE00; FSung-Academic; FS0F37A9 # Term: FS0F37A9
+35D8 FE01; FSung-Academic; FS1040C4 # Term: FS1040C4
+35D8 FE02; FSung-Academic; FS1040C5 # Term: FS1040C5
+35D8 FE03; FSung-Academic; FS1040C6 # Term: FS1040C6

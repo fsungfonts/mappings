@@ -1,0 +1,2 @@
+6F2D FE00; FSung-Academic; FS102F0C # Term: FS102F0C
+6F2D FE01; FSung-Academic; FS102F0D # Term: FS102F0D

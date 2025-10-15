@@ -1,0 +1,3 @@
+445C FE00; FSung-Academic; FS104C3C # Term: FS104C3C
+445C FE01; FSung-Academic; FS104C3D # Term: FS104C3D
+445C FE02; FSung-Academic; FS104C3E # Term: FS104C3E

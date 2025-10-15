@@ -1,0 +1,2 @@
+20606 FE00; FSung-Academic; FS0F24E6 # Term: FS0F24E6
+20606 FE01; FSung-Academic; FS0F24F5 # Term: FS0F24F5

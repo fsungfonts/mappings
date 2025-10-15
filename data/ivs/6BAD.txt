@@ -1,0 +1,2 @@
+6BAD FE00; FSung-Academic; FS102E78 # Term: FS102E78
+6BAD FE01; FSung-Academic; FS102E79 # Term: FS102E79

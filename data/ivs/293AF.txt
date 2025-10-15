@@ -1,0 +1,2 @@
+293AF FE00; FSung-Academic; FS10528C # Term: FS10528C
+293AF FE01; FSung-Academic; FS10528D # Term: FS10528D

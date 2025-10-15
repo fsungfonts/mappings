@@ -1,0 +1,2 @@
+9C26 FE00; FSung-Academic; FS0F0D42 # Term: FS0F0D42
+9C26 FE01; FSung-Academic; FS1055E0 # Term: FS1055E0

@@ -1,0 +1,4 @@
+7825 FE00; FSung-Academic; FS0FC7CB # Term: FS0FC7CB
+7825 FE01; FSung-Academic; FS100EA7 # Term: FS100EA7
+7825 FE02; FSung-Academic; FS100EA8 # Term: FS100EA8
+7825 FE03; FSung-Academic; FS100EA9 # Term: FS100EA9

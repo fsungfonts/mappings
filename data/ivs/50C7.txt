@@ -1,0 +1,3 @@
+50C7 FE00; FSung-Academic; FS0F1C09 # Term: FS0F1C09
+50C7 FE01; FSung-Academic; FS1029A4 # Term: FS1029A4
+50C7 FE02; FSung-Academic; FS1029A5 # Term: FS1029A5

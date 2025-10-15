@@ -1,0 +1,2 @@
+9E9D FE00; FSung-Academic; FS1027FC # Term: FS1027FC
+9E9D FE01; FSung-Academic; FS1027FD # Term: FS1027FD

@@ -1,0 +1,2 @@
+297E4 FE00; FSung-Academic; FS10539B # Term: FS10539B
+297E4 FE01; FSung-Academic; FS10539C # Term: FS10539C

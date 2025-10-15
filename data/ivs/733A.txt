@@ -1,0 +1,2 @@
+733A FE00; FSung-Academic; FS102FE4 # Term: FS102FE4
+733A FE01; FSung-Academic; FS102FE5 # Term: FS102FE5

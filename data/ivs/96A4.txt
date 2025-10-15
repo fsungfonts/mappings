@@ -1,0 +1,2 @@
+96A4 FE00; FSung-Academic; FS0FF404 # Term: FS0FF404
+96A4 FE01; FSung-Academic; FS0FF489 # Term: FS0FF489

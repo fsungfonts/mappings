@@ -1,0 +1,2 @@
+2A442 FE00; FSung-Academic; FS10573A # Term: FS10573A
+2A442 FE01; FSung-Academic; FS10573B # Term: FS10573B

@@ -1,0 +1,2 @@
+299CA FE00; FSung-Academic; FS0F52C4 # Term: FS0F52C4
+299CA FE01; FSung-Academic; FS0F52C7 # Term: FS0F52C7

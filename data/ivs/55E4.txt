@@ -1,0 +1,4 @@
+55E4 FE00; FSung-Academic; FS0F0C74 # Term: FS0F0C74
+55E4 FE01; FSung-Academic; FS0F5709 # Term: FS0F5709
+55E4 FE02; FSung-Academic; FS0F570A # Term: FS0F570A
+55E4 FE03; FSung-Academic; FS0FD55B # Term: FS0FD55B

@@ -1,0 +1,3 @@
+8D19 FE00; FSung-Academic; FS0F52AC # Term: FS0F52AC
+8D19 FE01; FSung-Academic; FS0FE5BC # Term: FS0FE5BC
+8D19 FE02; FSung-Academic; FS103666 # Term: FS103666

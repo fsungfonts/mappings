@@ -1,0 +1,3 @@
+51FA FE00; FSung-Academic; FS0F5456 # Term: FS0F5456
+51FA FE01; FSung-Academic; FS0F5457 # Term: FS0F5457
+51FA FE02; FSung-Academic; FS0F5458 # Term: FS0F5458

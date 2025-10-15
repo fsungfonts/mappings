@@ -1,0 +1,3 @@
+99E2 FE00; FSung-Academic; FS0F0BF1 # Term: FS0F0BF1
+99E2 FE01; FSung-Academic; FS10264A # Term: FS10264A
+99E2 FE02; FSung-Academic; FS10264B # Term: FS10264B

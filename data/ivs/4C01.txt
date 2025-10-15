@@ -1,0 +1,3 @@
+4C01 FE00; FSung-Academic; FS105459 # Term: FS105459
+4C01 FE01; FSung-Academic; FS10545A # Term: FS10545A
+4C01 FE02; FSung-Academic; FS10545B # Term: FS10545B

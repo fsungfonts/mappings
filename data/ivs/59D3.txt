@@ -1,0 +1,2 @@
+59D3 FE00; FSung-Academic; FS0F4EF4 # Term: FS0F4EF4
+59D3 FE01; FSung-Academic; FS0F64B0 # Term: FS0F64B0

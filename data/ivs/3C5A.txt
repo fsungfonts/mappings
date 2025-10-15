@@ -1,0 +1,3 @@
+3C5A FE00; FSung-Academic; FS0F112C # Term: FS0F112C
+3C5A FE01; FSung-Academic; FS0F40C8 # Term: FS0F40C8
+3C5A FE02; FSung-Academic; FS0FB48E # Term: FS0FB48E

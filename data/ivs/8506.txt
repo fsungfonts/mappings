@@ -1,0 +1,2 @@
+8506 FE00; FSung-Academic; FS1033DA # Term: FS1033DA
+8506 FE01; FSung-Academic; FS1033DB # Term: FS1033DB

@@ -1,0 +1,3 @@
+9318 FE00; FSung-Academic; FS0FE7DA # Term: FS0FE7DA
+9318 FE01; FSung-Academic; FS10222C # Term: FS10222C
+9318 FE02; FSung-Academic; FS10222D # Term: FS10222D

@@ -1,0 +1,2 @@
+6B41 FE00; FSung-Academic; FS0FC07D # Term: FS0FC07D
+6B41 FE01; FSung-Academic; FS0FC07E # Term: FS0FC07E

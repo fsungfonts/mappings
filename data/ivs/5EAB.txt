@@ -1,0 +1,2 @@
+5EAB FE00; FSung-Academic; FS0F41C2 # Term: FS0F41C2
+5EAB FE01; FSung-Academic; FS0FFC85 # Term: FS0FFC85

@@ -1,0 +1,4 @@
+7CF2 FE00; FSung-Academic; FS10320D # Term: FS10320D
+7CF2 FE01; FSung-Academic; FS10320E # Term: FS10320E
+7CF2 FE02; FSung-Academic; FS10320F # Term: FS10320F
+7CF2 FE03; FSung-Academic; FS103210 # Term: FS103210

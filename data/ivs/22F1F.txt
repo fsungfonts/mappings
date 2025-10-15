@@ -1,0 +1,2 @@
+22F1F FE00; FSung-Academic; FS0F58B4 # Term: FS0F58B4
+22F1F FE01; FSung-Academic; FS10447F # Term: FS10447F

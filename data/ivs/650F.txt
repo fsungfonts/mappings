@@ -1,0 +1,3 @@
+650F FE00; FSung-Academic; FS0F303B # Term: FS0F303B
+650F FE01; FSung-Academic; FS100210 # Term: FS100210
+650F FE02; FSung-Academic; FS100211 # Term: FS100211

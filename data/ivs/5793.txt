@@ -1,0 +1,3 @@
+5793 FE00; FSung-Academic; FS0F2C08 # Term: FS0F2C08
+5793 FE01; FSung-Academic; FS100EE7 # Term: FS100EE7
+5793 FE02; FSung-Academic; FS102ABC # Term: FS102ABC

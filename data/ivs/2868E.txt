@@ -1,0 +1,2 @@
+2868E FE00; FSung-Academic; FS0F0B61 # Term: FS0F0B61
+2868E FE01; FSung-Academic; FS0F0B69 # Term: FS0F0B69

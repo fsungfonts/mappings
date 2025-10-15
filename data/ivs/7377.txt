@@ -1,0 +1,3 @@
+7377 FE00; FSung-Academic; FS100BA5 # Term: FS100BA5
+7377 FE01; FSung-Academic; FS100BA6 # Term: FS100BA6
+7377 FE02; FSung-Academic; FS100BA7 # Term: FS100BA7

@@ -1,0 +1,2 @@
+9C36 FE00; FSung-Academic; FS1055F0 # Term: FS1055F0
+9C36 FE01; FSung-Academic; FS1055F1 # Term: FS1055F1

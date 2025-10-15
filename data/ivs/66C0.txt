@@ -1,0 +1,2 @@
+66C0 FE00; FSung-Academic; FS102D7B # Term: FS102D7B
+66C0 FE01; FSung-Academic; FS102D7C # Term: FS102D7C

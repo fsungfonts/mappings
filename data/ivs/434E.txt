@@ -1,0 +1,4 @@
+434E FE00; FSung-Academic; FS104B2E # Term: FS104B2E
+434E FE01; FSung-Academic; FS104B2F # Term: FS104B2F
+434E FE02; FSung-Academic; FS104B30 # Term: FS104B30
+434E FE03; FSung-Academic; FS104B31 # Term: FS104B31

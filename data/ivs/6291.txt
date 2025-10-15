@@ -1,0 +1,4 @@
+6291 FE00; FSung-Academic; FS0F2EF7 # Term: FS0F2EF7
+6291 FE01; FSung-Academic; FS10006C # Term: FS10006C
+6291 FE02; FSung-Academic; FS10006D # Term: FS10006D
+6291 FE03; FSung-Academic; FS10006E # Term: FS10006E

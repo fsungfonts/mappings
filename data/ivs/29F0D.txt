@@ -1,0 +1,2 @@
+29F0D FE00; FSung-Academic; FS105602 # Term: FS105602
+29F0D FE01; FSung-Academic; FS105603 # Term: FS105603

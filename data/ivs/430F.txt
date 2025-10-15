@@ -1,0 +1,2 @@
+430F FE00; FSung-Academic; FS104AF5 # Term: FS104AF5
+430F FE01; FSung-Academic; FS104AF6 # Term: FS104AF6

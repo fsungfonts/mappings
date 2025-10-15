@@ -1,0 +1,2 @@
+8304 FE00; FSung-Academic; FS0F1D0D # Term: FS0F1D0D
+8304 FE01; FSung-Academic; FS10171F # Term: FS10171F

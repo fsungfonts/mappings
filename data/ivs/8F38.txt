@@ -1,0 +1,3 @@
+8F38 FE00; FSung-Academic; FS101F43 # Term: FS101F43
+8F38 FE01; FSung-Academic; FS101F44 # Term: FS101F44
+8F38 FE02; FSung-Academic; FS101F45 # Term: FS101F45

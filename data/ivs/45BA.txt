@@ -1,0 +1,2 @@
+45BA FE00; FSung-Academic; FS104DB9 # Term: FS104DB9
+45BA FE01; FSung-Academic; FS104DBA # Term: FS104DBA

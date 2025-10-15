@@ -1,0 +1,2 @@
+6FB1 FE00; FSung-Academic; FS1008DF # Term: FS1008DF
+6FB1 FE01; FSung-Academic; FS1008E0 # Term: FS1008E0

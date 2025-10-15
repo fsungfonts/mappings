@@ -1,0 +1,2 @@
+3781 FE00; FSung-Academic; FS0F3597 # Term: FS0F3597
+3781 FE01; FSung-Academic; FS108C7B # Term: FS108C7B

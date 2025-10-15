@@ -1,0 +1,3 @@
+971C FE00; FSung-Academic; FS0F490E # Term: FS0F490E
+971C FE01; FSung-Academic; FS102447 # Term: FS102447
+971C FE02; FSung-Academic; FS102448 # Term: FS102448

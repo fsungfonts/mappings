@@ -1,0 +1,3 @@
+6368 FE00; FSung-Academic; FS10010D # Term: FS10010D
+6368 FE01; FSung-Academic; FS10010E # Term: FS10010E
+6368 FE02; FSung-Academic; FS10010F # Term: FS10010F

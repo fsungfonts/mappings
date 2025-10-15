@@ -1,0 +1,4 @@
+7D7A FE00; FSung-Academic; FS0FDB9F # Term: FS0FDB9F
+7D7A FE01; FSung-Academic; FS103228 # Term: FS103228
+7D7A FE02; FSung-Academic; FS103229 # Term: FS103229
+7D7A FE03; FSung-Academic; FS10322A # Term: FS10322A

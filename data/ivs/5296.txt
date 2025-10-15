@@ -1,0 +1,4 @@
+5296 FE00; FSung-Academic; FS0F192A # Term: FS0F192A
+5296 FE01; FSung-Academic; FS102A01 # Term: FS102A01
+5296 FE02; FSung-Academic; FS102A02 # Term: FS102A02
+5296 FE03; FSung-Academic; FS102A03 # Term: FS102A03

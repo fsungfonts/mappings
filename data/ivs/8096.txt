@@ -1,0 +1,2 @@
+8096 FE00; FSung-Academic; FS0F09CB # Term: FS0F09CB
+8096 FE01; FSung-Academic; FS0FA995 # Term: FS0FA995

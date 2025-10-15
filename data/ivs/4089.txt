@@ -1,0 +1,2 @@
+4089 FE00; FSung-Academic; FS0FD30E # Term: FS0FD30E
+4089 FE01; FSung-Academic; FS1048D9 # Term: FS1048D9

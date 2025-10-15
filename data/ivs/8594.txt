@@ -1,0 +1,4 @@
+8594 FE00; FSung-Academic; FS0F327E # Term: FS0F327E
+8594 FE01; FSung-Academic; FS1018F2 # Term: FS1018F2
+8594 FE02; FSung-Academic; FS1018F3 # Term: FS1018F3
+8594 FE03; FSung-Academic; FS1018F4 # Term: FS1018F4

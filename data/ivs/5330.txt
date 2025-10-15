@@ -1,0 +1,2 @@
+5330 FE00; FSung-Academic; FS102A0F # Term: FS102A0F
+5330 FE01; FSung-Academic; FS102A10 # Term: FS102A10

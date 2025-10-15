@@ -1,0 +1,2 @@
+8E20 FE00; FSung-Academic; FS10368C # Term: FS10368C
+8E20 FE01; FSung-Academic; FS10368D # Term: FS10368D

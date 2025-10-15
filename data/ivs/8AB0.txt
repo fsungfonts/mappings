@@ -1,0 +1,2 @@
+8AB0 FE00; FSung-Academic; FS101C7B # Term: FS101C7B
+8AB0 FE01; FSung-Academic; FS101C7C # Term: FS101C7C

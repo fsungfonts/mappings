@@ -1,0 +1,2 @@
+5243 FE00; FSung-Academic; FS0F1928 # Term: FS0F1928
+5243 FE01; FSung-Academic; FS0F5490 # Term: FS0F5490

@@ -1,0 +1,3 @@
+9C12 FE00; FSung-Academic; FS0F0C3B # Term: FS0F0C3B
+9C12 FE01; FSung-Academic; FS103DEA # Term: FS103DEA
+9C12 FE02; FSung-Academic; FS103DEB # Term: FS103DEB

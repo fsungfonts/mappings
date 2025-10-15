@@ -1,0 +1,2 @@
+3A92 FE00; FSung-Academic; FS0F07AE # Term: FS0F07AE
+3A92 FE01; FSung-Academic; FS104491 # Term: FS104491

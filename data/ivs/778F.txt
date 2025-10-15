@@ -1,0 +1,4 @@
+778F FE00; FSung-Academic; FS0FAE66 # Term: FS0FAE66
+778F FE01; FSung-Academic; FS1030EE # Term: FS1030EE
+778F FE02; FSung-Academic; FS1030EF # Term: FS1030EF
+778F FE03; FSung-Academic; FS1030F0 # Term: FS1030F0

@@ -1,0 +1,3 @@
+540D FE00; FSung-Academic; FS0F3623 # Term: FS0F3623
+540D FE01; FSung-Academic; FS0F3627 # Term: FS0F3627
+540D FE02; FSung-Academic; FS0F3651 # Term: FS0F3651

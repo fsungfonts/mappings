@@ -1,0 +1,3 @@
+5BFA FE00; FSung-Academic; FS0F08CF # Term: FS0F08CF
+5BFA FE01; FSung-Academic; FS0F8199 # Term: FS0F8199
+5BFA FE02; FSung-Academic; FS0F8225 # Term: FS0F8225

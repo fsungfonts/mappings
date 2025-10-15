@@ -1,0 +1,4 @@
+404A FE00; FSung-Academic; FS10488F # Term: FS10488F
+404A FE01; FSung-Academic; FS104890 # Term: FS104890
+404A FE02; FSung-Academic; FS104891 # Term: FS104891
+404A FE03; FSung-Academic; FS104892 # Term: FS104892

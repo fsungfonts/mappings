@@ -1,0 +1,3 @@
+8664 FE00; FSung-Academic; FS0FD4D1 # Term: FS0FD4D1
+8664 FE01; FSung-Academic; FS0FD4DE # Term: FS0FD4DE
+8664 FE02; FSung-Academic; FS104DA0 # Term: FS104DA0

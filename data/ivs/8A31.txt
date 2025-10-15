@@ -1,0 +1,3 @@
+8A31 FE00; FSung-Academic; FS0F3C1A # Term: FS0F3C1A
+8A31 FE01; FSung-Academic; FS0FE2AF # Term: FS0FE2AF
+8A31 FE02; FSung-Academic; FS0FE2C5 # Term: FS0FE2C5

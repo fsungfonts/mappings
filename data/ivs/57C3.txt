@@ -1,0 +1,3 @@
+57C3 FE00; FSung-Academic; FS0F2C14 # Term: FS0F2C14
+57C3 FE01; FSung-Academic; FS0F5EFC # Term: FS0F5EFC
+57C3 FE02; FSung-Academic; FS0F5EFD # Term: FS0F5EFD

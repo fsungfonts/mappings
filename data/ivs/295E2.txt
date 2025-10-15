@@ -1,0 +1,2 @@
+295E2 FE00; FSung-Academic; FS1052D2 # Term: FS1052D2
+295E2 FE01; FSung-Academic; FS1052D3 # Term: FS1052D3

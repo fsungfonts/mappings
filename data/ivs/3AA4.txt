@@ -1,0 +1,2 @@
+3AA4 FE00; FSung-Academic; FS0FAB0E # Term: FS0FAB0E
+3AA4 FE01; FSung-Academic; FS0FAB20 # Term: FS0FAB20

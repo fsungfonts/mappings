@@ -1,0 +1,2 @@
+2588E FE00; FSung-Academic; FS1049BC # Term: FS1049BC
+2588E FE01; FSung-Academic; FS1049BD # Term: FS1049BD

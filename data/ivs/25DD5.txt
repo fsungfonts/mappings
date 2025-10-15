@@ -1,0 +1,2 @@
+25DD5 FE00; FSung-Academic; FS0FD765 # Term: FS0FD765
+25DD5 FE01; FSung-Academic; FS0FD766 # Term: FS0FD766

@@ -1,0 +1,2 @@
+49AA FE00; FSung-Academic; FS0FFCEF # Term: FS0FFCEF
+49AA FE01; FSung-Academic; FS105177 # Term: FS105177

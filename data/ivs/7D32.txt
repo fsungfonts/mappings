@@ -1,0 +1,3 @@
+7D32 FE00; FSung-Academic; FS0F9C7E # Term: FS0F9C7E
+7D32 FE01; FSung-Academic; FS0FDB44 # Term: FS0FDB44
+7D32 FE02; FSung-Academic; FS0FDBB3 # Term: FS0FDBB3

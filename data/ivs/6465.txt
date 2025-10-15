@@ -1,0 +1,3 @@
+6465 FE00; FSung-Academic; FS0FF191 # Term: FS0FF191
+6465 FE01; FSung-Academic; FS10443F # Term: FS10443F
+6465 FE02; FSung-Academic; FS104440 # Term: FS104440

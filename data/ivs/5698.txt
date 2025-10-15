@@ -1,0 +1,3 @@
+5698 FE00; FSung-Academic; FS102A8F # Term: FS102A8F
+5698 FE01; FSung-Academic; FS103AD9 # Term: FS103AD9
+5698 FE02; FSung-Academic; FS103ADA # Term: FS103ADA

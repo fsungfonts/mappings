@@ -1,0 +1,4 @@
+8411 FE00; FSung-Academic; FS0F3103 # Term: FS0F3103
+8411 FE01; FSung-Academic; FS0F6B4C # Term: FS0F6B4C
+8411 FE02; FSung-Academic; FS0FE65B # Term: FS0FE65B
+8411 FE03; FSung-Academic; FS1033AE # Term: FS1033AE

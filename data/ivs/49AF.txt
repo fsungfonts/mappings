@@ -1,0 +1,2 @@
+49AF FE00; FSung-Academic; FS105174 # Term: FS105174
+49AF FE01; FSung-Academic; FS105175 # Term: FS105175

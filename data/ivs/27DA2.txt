@@ -1,0 +1,2 @@
+27DA2 FE00; FSung-Academic; FS104F40 # Term: FS104F40
+27DA2 FE01; FSung-Academic; FS104F41 # Term: FS104F41

@@ -1,0 +1,3 @@
+532D FE00; FSung-Academic; FS0F17FA # Term: FS0F17FA
+532D FE01; FSung-Academic; FS0F619C # Term: FS0F619C
+532D FE02; FSung-Academic; FS102A0E # Term: FS102A0E

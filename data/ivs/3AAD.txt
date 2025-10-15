@@ -1,0 +1,3 @@
+3AAD FE00; FSung-Academic; FS0FBCA3 # Term: FS0FBCA3
+3AAD FE01; FSung-Academic; FS1044B3 # Term: FS1044B3
+3AAD FE02; FSung-Academic; FS1044B4 # Term: FS1044B4

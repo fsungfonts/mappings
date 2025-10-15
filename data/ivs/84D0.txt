@@ -1,0 +1,4 @@
+84D0 FE00; FSung-Academic; FS1033CB # Term: FS1033CB
+84D0 FE01; FSung-Academic; FS1033CC # Term: FS1033CC
+84D0 FE02; FSung-Academic; FS1033CD # Term: FS1033CD
+84D0 FE03; FSung-Academic; FS1033CE # Term: FS1033CE

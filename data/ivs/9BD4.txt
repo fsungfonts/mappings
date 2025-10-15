@@ -1,0 +1,2 @@
+9BD4 FE00; FSung-Academic; FS0F9469 # Term: FS0F9469
+9BD4 FE01; FSung-Academic; FS0FF662 # Term: FS0FF662

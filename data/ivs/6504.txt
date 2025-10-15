@@ -1,0 +1,2 @@
+6504 FE00; FSung-Academic; FS102CFF # Term: FS102CFF
+6504 FE01; FSung-Academic; FS102D00 # Term: FS102D00

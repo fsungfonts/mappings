@@ -1,0 +1,2 @@
+2A46D FE00; FSung-Academic; FS10576A # Term: FS10576A
+2A46D FE01; FSung-Academic; FS10576B # Term: FS10576B

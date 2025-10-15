@@ -1,0 +1,4 @@
+8CFE FE00; FSung-Academic; FS0F180D # Term: FS0F180D
+8CFE FE01; FSung-Academic; FS103661 # Term: FS103661
+8CFE FE02; FSung-Academic; FS103662 # Term: FS103662
+8CFE FE03; FSung-Academic; FS103663 # Term: FS103663

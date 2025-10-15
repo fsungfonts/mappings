@@ -1,0 +1,3 @@
+576D FE00; FSung-Academic; FS0FA76C # Term: FS0FA76C
+576D FE01; FSung-Academic; FS102AB0 # Term: FS102AB0
+576D FE02; FSung-Academic; FS102AB1 # Term: FS102AB1

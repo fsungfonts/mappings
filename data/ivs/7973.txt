@@ -1,0 +1,3 @@
+7973 FE00; FSung-Academic; FS0FC496 # Term: FS0FC496
+7973 FE01; FSung-Academic; FS103161 # Term: FS103161
+7973 FE02; FSung-Academic; FS103162 # Term: FS103162

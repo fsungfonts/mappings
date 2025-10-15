@@ -1,0 +1,4 @@
+5403 FE00; FSung-Academic; FS0F396D # Term: FS0F396D
+5403 FE01; FSung-Academic; FS0F39ED # Term: FS0F39ED
+5403 FE02; FSung-Academic; FS0F561D # Term: FS0F561D
+5403 FE03; FSung-Academic; FS0F561E # Term: FS0F561E

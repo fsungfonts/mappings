@@ -1,0 +1,2 @@
+760A FE00; FSung-Academic; FS0FCF5C # Term: FS0FCF5C
+760A FE01; FSung-Academic; FS10309E # Term: FS10309E

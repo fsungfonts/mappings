@@ -1,0 +1,2 @@
+27028 FE00; FSung-Academic; FS104D46 # Term: FS104D46
+27028 FE01; FSung-Academic; FS104D47 # Term: FS104D47

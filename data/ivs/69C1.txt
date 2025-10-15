@@ -1,0 +1,2 @@
+69C1 FE00; FSung-Academic; FS0F755B # Term: FS0F755B
+69C1 FE01; FSung-Academic; FS1005BC # Term: FS1005BC

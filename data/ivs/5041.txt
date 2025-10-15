@@ -1,0 +1,3 @@
+5041 FE00; FSung-Academic; FS0F1A99 # Term: FS0F1A99
+5041 FE01; FSung-Academic; FS102984 # Term: FS102984
+5041 FE02; FSung-Academic; FS102985 # Term: FS102985

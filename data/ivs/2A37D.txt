@@ -1,0 +1,2 @@
+2A37D FE00; FSung-Academic; FS1056F1 # Term: FS1056F1
+2A37D FE01; FSung-Academic; FS1056F2 # Term: FS1056F2

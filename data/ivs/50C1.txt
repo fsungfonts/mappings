@@ -1,0 +1,2 @@
+50C1 FE00; FSung-Academic; FS0F1A88 # Term: FS0F1A88
+50C1 FE01; FSung-Academic; FS0F1B77 # Term: FS0F1B77

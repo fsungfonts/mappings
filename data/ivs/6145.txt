@@ -1,0 +1,3 @@
+6145 FE00; FSung-Academic; FS102C3A # Term: FS102C3A
+6145 FE01; FSung-Academic; FS102C3B # Term: FS102C3B
+6145 FE02; FSung-Academic; FS102C3C # Term: FS102C3C

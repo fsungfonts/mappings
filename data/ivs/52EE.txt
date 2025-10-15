@@ -1,0 +1,2 @@
+52EE FE00; FSung-Academic; FS0F29A9 # Term: FS0F29A9
+52EE FE01; FSung-Academic; FS10404D # Term: FS10404D

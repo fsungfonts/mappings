@@ -1,0 +1,2 @@
+9ABB FE00; FSung-Academic; FS1053EF # Term: FS1053EF
+9ABB FE01; FSung-Academic; FS1053F0 # Term: FS1053F0

@@ -1,0 +1,2 @@
+9802 FE00; FSung-Academic; FS0FDF39 # Term: FS0FDF39
+9802 FE01; FSung-Academic; FS0FEA0A # Term: FS0FEA0A

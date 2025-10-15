@@ -1,0 +1,3 @@
+72D2 FE00; FSung-Academic; FS102FC9 # Term: FS102FC9
+72D2 FE01; FSung-Academic; FS102FCA # Term: FS102FCA
+72D2 FE02; FSung-Academic; FS102FCB # Term: FS102FCB

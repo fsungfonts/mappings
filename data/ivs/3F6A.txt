@@ -1,0 +1,2 @@
+3F6A FE00; FSung-Academic; FS0F0972 # Term: FS0F0972
+3F6A FE01; FSung-Academic; FS1047DE # Term: FS1047DE

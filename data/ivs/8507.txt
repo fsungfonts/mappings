@@ -1,0 +1,2 @@
+8507 FE00; FSung-Academic; FS0F0801 # Term: FS0F0801
+8507 FE01; FSung-Academic; FS1033BB # Term: FS1033BB

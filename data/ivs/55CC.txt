@@ -1,0 +1,3 @@
+55CC FE00; FSung-Academic; FS0F3A11 # Term: FS0F3A11
+55CC FE01; FSung-Academic; FS102A55 # Term: FS102A55
+55CC FE02; FSung-Academic; FS102A56 # Term: FS102A56

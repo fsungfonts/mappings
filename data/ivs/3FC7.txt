@@ -1,0 +1,2 @@
+3FC7 FE00; FSung-Academic; FS10480F # Term: FS10480F
+3FC7 FE01; FSung-Academic; FS104810 # Term: FS104810

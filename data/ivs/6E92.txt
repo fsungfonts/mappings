@@ -1,0 +1,2 @@
+6E92 FE00; FSung-Academic; FS0F4455 # Term: FS0F4455
+6E92 FE01; FSung-Academic; FS10460B # Term: FS10460B

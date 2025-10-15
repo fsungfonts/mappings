@@ -1,0 +1,3 @@
+4E4F FE00; FSung-Academic; FS0F6753 # Term: FS0F6753
+4E4F FE01; FSung-Academic; FS0F6754 # Term: FS0F6754
+4E4F FE02; FSung-Academic; FS0F6755 # Term: FS0F6755

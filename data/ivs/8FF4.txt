@@ -1,0 +1,3 @@
+8FF4 FE00; FSung-Academic; FS101FF6 # Term: FS101FF6
+8FF4 FE01; FSung-Academic; FS101FF7 # Term: FS101FF7
+8FF4 FE02; FSung-Academic; FS101FF8 # Term: FS101FF8

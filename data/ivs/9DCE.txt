@@ -1,0 +1,2 @@
+9DCE FE00; FSung-Academic; FS0FED6B # Term: FS0FED6B
+9DCE FE01; FSung-Academic; FS103E56 # Term: FS103E56

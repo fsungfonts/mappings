@@ -1,0 +1,2 @@
+4D60 FE00; FSung-Academic; FS105723 # Term: FS105723
+4D60 FE01; FSung-Academic; FS105724 # Term: FS105724

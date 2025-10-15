@@ -1,0 +1,2 @@
+21EDE FE00; FSung-Academic; FS0FF266 # Term: FS0FF266
+21EDE FE01; FSung-Academic; FS104264 # Term: FS104264

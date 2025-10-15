@@ -1,0 +1,2 @@
+6EF7 FE00; FSung-Academic; FS102F0E # Term: FS102F0E
+6EF7 FE01; FSung-Academic; FS102F0F # Term: FS102F0F

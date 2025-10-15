@@ -1,0 +1,2 @@
+251A6 FE00; FSung-Academic; FS0F0956 # Term: FS0F0956
+251A6 FE01; FSung-Academic; FS10487E # Term: FS10487E

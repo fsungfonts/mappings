@@ -1,0 +1,3 @@
+72D6 FE00; FSung-Academic; FS0F40AA # Term: FS0F40AA
+72D6 FE01; FSung-Academic; FS102FC6 # Term: FS102FC6
+72D6 FE02; FSung-Academic; FS102FC7 # Term: FS102FC7

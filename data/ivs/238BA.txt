@@ -1,0 +1,2 @@
+238BA FE00; FSung-Academic; FS0F08EF # Term: FS0F08EF
+238BA FE01; FSung-Academic; FS0FC065 # Term: FS0FC065

@@ -1,0 +1,2 @@
+7509 FE00; FSung-Academic; FS1047AA # Term: FS1047AA
+7509 FE01; FSung-Academic; FS1047AB # Term: FS1047AB

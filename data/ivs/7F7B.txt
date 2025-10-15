@@ -1,0 +1,2 @@
+7F7B FE00; FSung-Academic; FS1032C5 # Term: FS1032C5
+7F7B FE01; FSung-Academic; FS1032C6 # Term: FS1032C6

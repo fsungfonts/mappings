@@ -1,0 +1,2 @@
+7647 FE00; FSung-Academic; FS0FC8E8 # Term: FS0FC8E8
+7647 FE01; FSung-Academic; FS0FC8E9 # Term: FS0FC8E9

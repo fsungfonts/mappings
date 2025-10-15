@@ -1,0 +1,3 @@
+3C73 FE00; FSung-Academic; FS0F116B # Term: FS0F116B
+3C73 FE01; FSung-Academic; FS1045B3 # Term: FS1045B3
+3C73 FE02; FSung-Academic; FS1045B4 # Term: FS1045B4

@@ -1,0 +1,4 @@
+86C7 FE00; FSung-Academic; FS0FD507 # Term: FS0FD507
+86C7 FE01; FSung-Academic; FS101A07 # Term: FS101A07
+86C7 FE02; FSung-Academic; FS101A08 # Term: FS101A08
+86C7 FE03; FSung-Academic; FS101A09 # Term: FS101A09

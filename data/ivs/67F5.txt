@@ -1,0 +1,3 @@
+67F5 FE00; FSung-Academic; FS0FB17A # Term: FS0FB17A
+67F5 FE01; FSung-Academic; FS1004CE # Term: FS1004CE
+67F5 FE02; FSung-Academic; FS1004CF # Term: FS1004CF

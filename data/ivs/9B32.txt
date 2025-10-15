@@ -1,0 +1,3 @@
+9B32 FE00; FSung-Academic; FS0F0541 # Term: FS0F0541
+9B32 FE01; FSung-Academic; FS0F0543 # Term: FS0F0543
+9B32 FE02; FSung-Academic; FS0F0C04 # Term: FS0F0C04

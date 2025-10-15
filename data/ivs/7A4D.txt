@@ -1,0 +1,4 @@
+7A4D FE00; FSung-Academic; FS0FC50D # Term: FS0FC50D
+7A4D FE01; FSung-Academic; FS0FCDDA # Term: FS0FCDDA
+7A4D FE02; FSung-Academic; FS101032 # Term: FS101032
+7A4D FE03; FSung-Academic; FS101034 # Term: FS101034

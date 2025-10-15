@@ -1,0 +1,2 @@
+822B FE00; FSung-Academic; FS1016C5 # Term: FS1016C5
+822B FE01; FSung-Academic; FS1016C6 # Term: FS1016C6

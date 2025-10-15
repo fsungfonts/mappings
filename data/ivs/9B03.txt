@@ -1,0 +1,2 @@
+9B03 FE00; FSung-Academic; FS1026CA # Term: FS1026CA
+9B03 FE01; FSung-Academic; FS1026CB # Term: FS1026CB

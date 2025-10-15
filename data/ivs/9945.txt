@@ -1,0 +1,3 @@
+9945 FE00; FSung-Academic; FS10261A # Term: FS10261A
+9945 FE01; FSung-Academic; FS10261B # Term: FS10261B
+9945 FE02; FSung-Academic; FS10261C # Term: FS10261C

@@ -1,0 +1,3 @@
+566E FE00; FSung-Academic; FS102A7E # Term: FS102A7E
+566E FE01; FSung-Academic; FS102A7F # Term: FS102A7F
+566E FE02; FSung-Academic; FS102A80 # Term: FS102A80

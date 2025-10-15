@@ -1,0 +1,4 @@
+7580 FE00; FSung-Academic; FS0F1110 # Term: FS0F1110
+7580 FE01; FSung-Academic; FS0FAF4C # Term: FS0FAF4C
+7580 FE02; FSung-Academic; FS0FCB3E # Term: FS0FCB3E
+7580 FE03; FSung-Academic; FS10308B # Term: FS10308B

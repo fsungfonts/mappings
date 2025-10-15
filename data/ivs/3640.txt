@@ -1,0 +1,2 @@
+3640 FE00; FSung-Academic; FS0F2C8F # Term: FS0F2C8F
+3640 FE01; FSung-Academic; FS10410A # Term: FS10410A

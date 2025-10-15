@@ -1,0 +1,2 @@
+25F7D FE00; FSung-Academic; FS104AD1 # Term: FS104AD1
+25F7D FE01; FSung-Academic; FS104AD2 # Term: FS104AD2

@@ -1,0 +1,2 @@
+8010 FE00; FSung-Academic; FS0F349D # Term: FS0F349D
+8010 FE01; FSung-Academic; FS101451 # Term: FS101451

@@ -1,0 +1,2 @@
+811B FE00; FSung-Academic; FS0FE0E5 # Term: FS0FE0E5
+811B FE01; FSung-Academic; FS103344 # Term: FS103344

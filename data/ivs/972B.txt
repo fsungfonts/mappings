@@ -1,0 +1,2 @@
+972B FE00; FSung-Academic; FS103BCB # Term: FS103BCB
+972B FE01; FSung-Academic; FS103BCC # Term: FS103BCC

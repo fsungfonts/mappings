@@ -1,0 +1,2 @@
+9462 FE00; FSung-Academic; FS1037FE # Term: FS1037FE
+9462 FE01; FSung-Academic; FS1037FF # Term: FS1037FF

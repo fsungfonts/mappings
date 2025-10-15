@@ -1,0 +1,3 @@
+9F46 FE00; FSung-Academic; FS0FAF53 # Term: FS0FAF53
+9F46 FE01; FSung-Academic; FS0FAF55 # Term: FS0FAF55
+9F46 FE02; FSung-Academic; FS105869 # Term: FS105869

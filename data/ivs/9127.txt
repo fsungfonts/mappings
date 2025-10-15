@@ -1,0 +1,4 @@
+9127 FE00; FSung-Academic; FS0F27E5 # Term: FS0F27E5
+9127 FE01; FSung-Academic; FS0FDE8D # Term: FS0FDE8D
+9127 FE02; FSung-Academic; FS0FE194 # Term: FS0FE194
+9127 FE03; FSung-Academic; FS10215D # Term: FS10215D

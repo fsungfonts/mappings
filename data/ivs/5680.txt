@@ -1,0 +1,4 @@
+5680 FE00; FSung-Academic; FS0F38F7 # Term: FS0F38F7
+5680 FE01; FSung-Academic; FS0F576A # Term: FS0F576A
+5680 FE02; FSung-Academic; FS0F576B # Term: FS0F576B
+5680 FE03; FSung-Academic; FS103992 # Term: FS103992

@@ -1,0 +1,4 @@
+78CB FE00; FSung-Academic; FS100EC5 # Term: FS100EC5
+78CB FE01; FSung-Academic; FS100EC6 # Term: FS100EC6
+78CB FE02; FSung-Academic; FS100EC7 # Term: FS100EC7
+78CB FE03; FSung-Academic; FS100EC8 # Term: FS100EC8

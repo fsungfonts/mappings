@@ -1,0 +1,3 @@
+8517 FE00; FSung-Academic; FS0F9628 # Term: FS0F9628
+8517 FE01; FSung-Academic; FS101866 # Term: FS101866
+8517 FE02; FSung-Academic; FS101867 # Term: FS101867

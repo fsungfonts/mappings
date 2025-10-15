@@ -1,0 +1,2 @@
+97C6 FE00; FSung-Academic; FS102500 # Term: FS102500
+97C6 FE01; FSung-Academic; FS102501 # Term: FS102501

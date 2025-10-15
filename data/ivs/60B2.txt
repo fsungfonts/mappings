@@ -1,0 +1,2 @@
+60B2 FE00; FSung-Academic; FS0FC56D # Term: FS0FC56D
+60B2 FE01; FSung-Academic; FS0FFE97 # Term: FS0FFE97

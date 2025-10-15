@@ -1,0 +1,2 @@
+51B6 FE00; FSung-Academic; FS0F542F # Term: FS0F542F
+51B6 FE01; FSung-Academic; FS0F5430 # Term: FS0F5430

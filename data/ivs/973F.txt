@@ -1,0 +1,2 @@
+973F FE00; FSung-Academic; FS0FE554 # Term: FS0FE554
+973F FE01; FSung-Academic; FS103BCE # Term: FS103BCE

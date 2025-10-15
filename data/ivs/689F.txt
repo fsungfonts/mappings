@@ -1,0 +1,3 @@
+689F FE00; FSung-Academic; FS100548 # Term: FS100548
+689F FE01; FSung-Academic; FS10054A # Term: FS10054A
+689F FE02; FSung-Academic; FS10054B # Term: FS10054B

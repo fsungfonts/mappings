@@ -1,0 +1,4 @@
+64B0 FE00; FSung-Academic; FS0F8E2A # Term: FS0F8E2A
+64B0 FE01; FSung-Academic; FS10017C # Term: FS10017C
+64B0 FE02; FSung-Academic; FS10017D # Term: FS10017D
+64B0 FE03; FSung-Academic; FS10017E # Term: FS10017E

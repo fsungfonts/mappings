@@ -1,0 +1,4 @@
+8AE6 FE00; FSung-Academic; FS0FE361 # Term: FS0FE361
+8AE6 FE01; FSung-Academic; FS101C83 # Term: FS101C83
+8AE6 FE02; FSung-Academic; FS101C84 # Term: FS101C84
+8AE6 FE03; FSung-Academic; FS101C85 # Term: FS101C85

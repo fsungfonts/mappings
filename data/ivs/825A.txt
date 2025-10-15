@@ -1,0 +1,3 @@
+825A FE00; FSung-Academic; FS0F0A30 # Term: FS0F0A30
+825A FE01; FSung-Academic; FS104C5E # Term: FS104C5E
+825A FE02; FSung-Academic; FS104C5F # Term: FS104C5F

@@ -1,0 +1,2 @@
+986E FE00; FSung-Academic; FS0F117B # Term: FS0F117B
+986E FE01; FSung-Academic; FS1052C3 # Term: FS1052C3

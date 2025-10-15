@@ -1,0 +1,4 @@
+75F4 FE00; FSung-Academic; FS0FFE68 # Term: FS0FFE68
+75F4 FE01; FSung-Academic; FS100D3B # Term: FS100D3B
+75F4 FE02; FSung-Academic; FS100D3C # Term: FS100D3C
+75F4 FE03; FSung-Academic; FS100D3D # Term: FS100D3D

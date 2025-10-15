@@ -1,0 +1,2 @@
+9033 FE00; FSung-Academic; FS0FE1F9 # Term: FS0FE1F9
+9033 FE01; FSung-Academic; FS10501A # Term: FS10501A

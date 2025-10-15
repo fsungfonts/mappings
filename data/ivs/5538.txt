@@ -1,0 +1,3 @@
+5538 FE00; FSung-Academic; FS0F08EC # Term: FS0F08EC
+5538 FE01; FSung-Academic; FS0F569F # Term: FS0F569F
+5538 FE02; FSung-Academic; FS0F56A0 # Term: FS0F56A0

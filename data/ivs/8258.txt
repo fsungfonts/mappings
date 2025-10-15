@@ -1,0 +1,3 @@
+8258 FE00; FSung-Academic; FS0FB266 # Term: FS0FB266
+8258 FE01; FSung-Academic; FS0FD870 # Term: FS0FD870
+8258 FE02; FSung-Academic; FS1016D8 # Term: FS1016D8

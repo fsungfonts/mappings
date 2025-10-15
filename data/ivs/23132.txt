@@ -1,0 +1,2 @@
+23132 FE00; FSung-Academic; FS1038CE # Term: FS1038CE
+23132 FE01; FSung-Academic; FS1038CF # Term: FS1038CF

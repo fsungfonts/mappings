@@ -1,0 +1,2 @@
+56A6 FE00; FSung-Academic; FS0F3A19 # Term: FS0F3A19
+56A6 FE01; FSung-Academic; FS0F5D7F # Term: FS0F5D7F

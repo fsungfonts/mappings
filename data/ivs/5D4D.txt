@@ -1,0 +1,3 @@
+5D4D FE00; FSung-Academic; FS0FD2FE # Term: FS0FD2FE
+5D4D FE01; FSung-Academic; FS104257 # Term: FS104257
+5D4D FE02; FSung-Academic; FS104258 # Term: FS104258

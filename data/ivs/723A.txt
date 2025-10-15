@@ -1,0 +1,2 @@
+723A FE00; FSung-Academic; FS0FE1BE # Term: FS0FE1BE
+723A FE01; FSung-Academic; FS100ADD # Term: FS100ADD

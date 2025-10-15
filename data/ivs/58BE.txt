@@ -1,0 +1,3 @@
+58BE FE00; FSung-Academic; FS0F2D3E # Term: FS0F2D3E
+58BE FE01; FSung-Academic; FS0F6012 # Term: FS0F6012
+58BE FE02; FSung-Academic; FS0F6014 # Term: FS0F6014

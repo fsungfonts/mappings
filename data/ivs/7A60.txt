@@ -1,0 +1,2 @@
+7A60 FE00; FSung-Academic; FS1031A0 # Term: FS1031A0
+7A60 FE01; FSung-Academic; FS1031A1 # Term: FS1031A1

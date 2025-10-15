@@ -1,0 +1,4 @@
+9F38 FE00; FSung-Academic; FS103F65 # Term: FS103F65
+9F38 FE01; FSung-Academic; FS103F66 # Term: FS103F66
+9F38 FE02; FSung-Academic; FS103F67 # Term: FS103F67
+9F38 FE03; FSung-Academic; FS103F68 # Term: FS103F68

@@ -1,0 +1,2 @@
+50D6 FE00; FSung-Academic; FS0F69E2 # Term: FS0F69E2
+50D6 FE01; FSung-Academic; FS103955 # Term: FS103955

@@ -1,0 +1,2 @@
+7DCE FE00; FSung-Academic; FS0FDB85 # Term: FS0FDB85
+7DCE FE01; FSung-Academic; FS0FDB8C # Term: FS0FDB8C

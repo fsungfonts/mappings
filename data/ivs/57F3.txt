@@ -1,0 +1,3 @@
+57F3 FE00; FSung-Academic; FS102AD2 # Term: FS102AD2
+57F3 FE01; FSung-Academic; FS102AD3 # Term: FS102AD3
+57F3 FE02; FSung-Academic; FS102AD4 # Term: FS102AD4

@@ -1,0 +1,4 @@
+9B1C FE00; FSung-Academic; FS0FEBF7 # Term: FS0FEBF7
+9B1C FE01; FSung-Academic; FS105473 # Term: FS105473
+9B1C FE02; FSung-Academic; FS1054A3 # Term: FS1054A3
+9B1C FE03; FSung-Academic; FS1054A4 # Term: FS1054A4

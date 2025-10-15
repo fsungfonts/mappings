@@ -1,0 +1,2 @@
+5955 FE00; FSung-Academic; FS0F0673 # Term: FS0F0673
+5955 FE01; FSung-Academic; FS0F6429 # Term: FS0F6429

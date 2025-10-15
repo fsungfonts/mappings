@@ -1,0 +1,3 @@
+474F FE00; FSung-Academic; FS104F1A # Term: FS104F1A
+474F FE01; FSung-Academic; FS104F1B # Term: FS104F1B
+474F FE02; FSung-Academic; FS104F1C # Term: FS104F1C

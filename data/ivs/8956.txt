@@ -1,0 +1,2 @@
+8956 FE00; FSung-Academic; FS101B6B # Term: FS101B6B
+8956 FE01; FSung-Academic; FS101B6C # Term: FS101B6C

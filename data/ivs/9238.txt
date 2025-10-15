@@ -1,0 +1,3 @@
+9238 FE00; FSung-Academic; FS0F9EC7 # Term: FS0F9EC7
+9238 FE01; FSung-Academic; FS0FF89C # Term: FS0FF89C
+9238 FE02; FSung-Academic; FS1021E9 # Term: FS1021E9

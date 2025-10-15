@@ -1,0 +1,2 @@
+23A61 FE00; FSung-Academic; FS0FB4D3 # Term: FS0FB4D3
+23A61 FE01; FSung-Academic; FS0FC8E7 # Term: FS0FC8E7

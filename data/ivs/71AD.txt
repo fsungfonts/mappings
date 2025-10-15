@@ -1,0 +1,4 @@
+71AD FE00; FSung-Academic; FS0F32FF # Term: FS0F32FF
+71AD FE01; FSung-Academic; FS1046A8 # Term: FS1046A8
+71AD FE02; FSung-Academic; FS1046A9 # Term: FS1046A9
+71AD FE03; FSung-Academic; FS1046AA # Term: FS1046AA

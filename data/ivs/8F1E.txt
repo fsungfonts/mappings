@@ -1,0 +1,3 @@
+8F1E FE00; FSung-Academic; FS0FDDC8 # Term: FS0FDDC8
+8F1E FE01; FSung-Academic; FS1036DC # Term: FS1036DC
+8F1E FE02; FSung-Academic; FS1036DD # Term: FS1036DD

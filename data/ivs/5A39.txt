@@ -1,0 +1,2 @@
+5A39 FE00; FSung-Academic; FS10417D # Term: FS10417D
+5A39 FE01; FSung-Academic; FS10417E # Term: FS10417E

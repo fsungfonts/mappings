@@ -1,0 +1,2 @@
+716A FE00; FSung-Academic; FS0FC25B # Term: FS0FC25B
+716A FE01; FSung-Academic; FS10469D # Term: FS10469D

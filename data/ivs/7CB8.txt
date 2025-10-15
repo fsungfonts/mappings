@@ -1,0 +1,2 @@
+7CB8 FE00; FSung-Academic; FS104AB2 # Term: FS104AB2
+7CB8 FE01; FSung-Academic; FS104AB3 # Term: FS104AB3

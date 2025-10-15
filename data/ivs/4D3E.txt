@@ -1,0 +1,3 @@
+4D3E FE00; FSung-Academic; FS1056DE # Term: FS1056DE
+4D3E FE01; FSung-Academic; FS1056DF # Term: FS1056DF
+4D3E FE02; FSung-Academic; FS1056E0 # Term: FS1056E0

@@ -1,0 +1,2 @@
+271FF FE00; FSung-Academic; FS104DA2 # Term: FS104DA2
+271FF FE01; FSung-Academic; FS104DA3 # Term: FS104DA3

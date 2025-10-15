@@ -1,0 +1,2 @@
+76EC FE00; FSung-Academic; FS0FD40A # Term: FS0FD40A
+76EC FE01; FSung-Academic; FS1030D9 # Term: FS1030D9

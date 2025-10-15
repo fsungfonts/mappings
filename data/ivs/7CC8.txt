@@ -1,0 +1,2 @@
+7CC8 FE00; FSung-Academic; FS103205 # Term: FS103205
+7CC8 FE01; FSung-Academic; FS103206 # Term: FS103206

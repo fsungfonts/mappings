@@ -1,0 +1,2 @@
+8394 FE00; FSung-Academic; FS0F3409 # Term: FS0F3409
+8394 FE01; FSung-Academic; FS0F6166 # Term: FS0F6166

@@ -1,0 +1,3 @@
+854A FE00; FSung-Academic; FS1018B8 # Term: FS1018B8
+854A FE01; FSung-Academic; FS1018B9 # Term: FS1018B9
+854A FE02; FSung-Academic; FS1018BA # Term: FS1018BA

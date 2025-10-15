@@ -1,0 +1,2 @@
+861E FE00; FSung-Academic; FS0F705C # Term: FS0F705C
+861E FE01; FSung-Academic; FS103466 # Term: FS103466

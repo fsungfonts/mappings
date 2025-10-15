@@ -1,0 +1,3 @@
+5392 FE00; FSung-Academic; FS102A16 # Term: FS102A16
+5392 FE01; FSung-Academic; FS102A17 # Term: FS102A17
+5392 FE02; FSung-Academic; FS102A19 # Term: FS102A19

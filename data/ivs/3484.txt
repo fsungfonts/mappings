@@ -1,0 +1,2 @@
+3484 FE00; FSung-Academic; FS0F1BF8 # Term: FS0F1BF8
+3484 FE01; FSung-Academic; FS103FDE # Term: FS103FDE

@@ -1,0 +1,3 @@
+490D FE00; FSung-Academic; FS0FDECE # Term: FS0FDECE
+490D FE01; FSung-Academic; FS105099 # Term: FS105099
+490D FE02; FSung-Academic; FS10509A # Term: FS10509A

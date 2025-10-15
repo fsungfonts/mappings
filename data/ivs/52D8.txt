@@ -1,0 +1,4 @@
+52D8 FE00; FSung-Academic; FS0F5508 # Term: FS0F5508
+52D8 FE01; FSung-Academic; FS0F5509 # Term: FS0F5509
+52D8 FE02; FSung-Academic; FS0F550A # Term: FS0F550A
+52D8 FE03; FSung-Academic; FS0F6134 # Term: FS0F6134

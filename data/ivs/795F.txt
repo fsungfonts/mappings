@@ -1,0 +1,4 @@
+795F FE00; FSung-Academic; FS0FF58B # Term: FS0FF58B
+795F FE01; FSung-Academic; FS100F0F # Term: FS100F0F
+795F FE02; FSung-Academic; FS100F10 # Term: FS100F10
+795F FE03; FSung-Academic; FS100F11 # Term: FS100F11

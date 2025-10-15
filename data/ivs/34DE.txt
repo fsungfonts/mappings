@@ -1,0 +1,3 @@
+34DE FE00; FSung-Academic; FS0F15F4 # Term: FS0F15F4
+34DE FE01; FSung-Academic; FS0F2941 # Term: FS0F2941
+34DE FE02; FSung-Academic; FS0F8D79 # Term: FS0F8D79

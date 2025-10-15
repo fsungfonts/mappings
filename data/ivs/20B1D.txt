@@ -1,0 +1,2 @@
+20B1D FE00; FSung-Academic; FS0F079E # Term: FS0F079E
+20B1D FE01; FSung-Academic; FS0F29DC # Term: FS0F29DC

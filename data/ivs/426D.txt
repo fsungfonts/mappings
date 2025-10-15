@@ -1,0 +1,3 @@
+426D FE00; FSung-Academic; FS104A8D # Term: FS104A8D
+426D FE01; FSung-Academic; FS104A8E # Term: FS104A8E
+426D FE02; FSung-Academic; FS104A8F # Term: FS104A8F

@@ -1,0 +1,2 @@
+7755 FE00; FSung-Academic; FS1030E4 # Term: FS1030E4
+7755 FE01; FSung-Academic; FS1030E5 # Term: FS1030E5

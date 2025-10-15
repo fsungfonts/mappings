@@ -1,0 +1,3 @@
+56B3 FE00; FSung-Academic; FS0F7180 # Term: FS0F7180
+56B3 FE01; FSung-Academic; FS102A9D # Term: FS102A9D
+56B3 FE02; FSung-Academic; FS102A9E # Term: FS102A9E

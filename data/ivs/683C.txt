@@ -1,0 +1,2 @@
+683C FE00; FSung-Academic; FS0FB19C # Term: FS0FB19C
+683C FE01; FSung-Academic; FS0FB1D2 # Term: FS0FB1D2

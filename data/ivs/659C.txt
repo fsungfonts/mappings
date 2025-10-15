@@ -1,0 +1,2 @@
+659C FE00; FSung-Academic; FS0F1F10 # Term: FS0F1F10
+659C FE01; FSung-Academic; FS0F1F3D # Term: FS0F1F3D

@@ -1,0 +1,2 @@
+775E FE00; FSung-Academic; FS100E36 # Term: FS100E36
+775E FE01; FSung-Academic; FS100E37 # Term: FS100E37

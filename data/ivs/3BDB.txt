@@ -1,0 +1,3 @@
+3BDB FE00; FSung-Academic; FS0FB273 # Term: FS0FB273
+3BDB FE01; FSung-Academic; FS0FB2AE # Term: FS0FB2AE
+3BDB FE02; FSung-Academic; FS1044F0 # Term: FS1044F0

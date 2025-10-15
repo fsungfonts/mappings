@@ -1,0 +1,4 @@
+6DEA FE00; FSung-Academic; FS0F447E # Term: FS0F447E
+6DEA FE01; FSung-Academic; FS0F4481 # Term: FS0F4481
+6DEA FE02; FSung-Academic; FS0F6CC8 # Term: FS0F6CC8
+6DEA FE03; FSung-Academic; FS0F6D06 # Term: FS0F6D06

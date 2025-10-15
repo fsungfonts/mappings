@@ -1,0 +1,4 @@
+7F63 FE00; FSung-Academic; FS1032AE # Term: FS1032AE
+7F63 FE01; FSung-Academic; FS1032AF # Term: FS1032AF
+7F63 FE02; FSung-Academic; FS1032B0 # Term: FS1032B0
+7F63 FE03; FSung-Academic; FS1032B1 # Term: FS1032B1

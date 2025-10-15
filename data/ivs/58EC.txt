@@ -1,0 +1,2 @@
+58EC FE00; FSung-Academic; FS0F1594 # Term: FS0F1594
+58EC FE01; FSung-Academic; FS0FAAEE # Term: FS0FAAEE

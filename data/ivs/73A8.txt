@@ -1,0 +1,2 @@
+73A8 FE00; FSung-Academic; FS0F6ADA # Term: FS0F6ADA
+73A8 FE01; FSung-Academic; FS0FC0FF # Term: FS0FC0FF

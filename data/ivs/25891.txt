@@ -1,0 +1,2 @@
+25891 FE00; FSung-Academic; FS0FCDB7 # Term: FS0FCDB7
+25891 FE01; FSung-Academic; FS1049C2 # Term: FS1049C2

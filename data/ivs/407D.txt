@@ -1,0 +1,3 @@
+407D FE00; FSung-Academic; FS1048CD # Term: FS1048CD
+407D FE01; FSung-Academic; FS1048CE # Term: FS1048CE
+407D FE02; FSung-Academic; FS1048CF # Term: FS1048CF

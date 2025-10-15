@@ -1,0 +1,2 @@
+4A34 FE00; FSung-Academic; FS0F66CB # Term: FS0F66CB
+4A34 FE01; FSung-Academic; FS105202 # Term: FS105202

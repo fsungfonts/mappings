@@ -1,0 +1,2 @@
+582B FE00; FSung-Academic; FS0F2CC4 # Term: FS0F2CC4
+582B FE01; FSung-Academic; FS0F2CEB # Term: FS0F2CEB

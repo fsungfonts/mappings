@@ -1,0 +1,2 @@
+22FDE FE00; FSung-Academic; FS0FBC7A # Term: FS0FBC7A
+22FDE FE01; FSung-Academic; FS1044A6 # Term: FS1044A6

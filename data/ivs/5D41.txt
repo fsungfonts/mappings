@@ -1,0 +1,2 @@
+5D41 FE00; FSung-Academic; FS0F069C # Term: FS0F069C
+5D41 FE01; FSung-Academic; FS103B19 # Term: FS103B19

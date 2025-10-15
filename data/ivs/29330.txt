@@ -1,0 +1,2 @@
+29330 FE00; FSung-Academic; FS0FF6A1 # Term: FS0FF6A1
+29330 FE01; FSung-Academic; FS10525F # Term: FS10525F

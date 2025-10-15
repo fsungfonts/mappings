@@ -1,0 +1,3 @@
+7633 FE00; FSung-Academic; FS1030A9 # Term: FS1030A9
+7633 FE01; FSung-Academic; FS1030AA # Term: FS1030AA
+7633 FE02; FSung-Academic; FS1030AB # Term: FS1030AB

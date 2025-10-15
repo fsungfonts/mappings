@@ -1,0 +1,2 @@
+26E90 FE00; FSung-Academic; FS104CF9 # Term: FS104CF9
+26E90 FE01; FSung-Academic; FS104CFA # Term: FS104CFA

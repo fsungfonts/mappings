@@ -1,0 +1,4 @@
+845A FE00; FSung-Academic; FS1033B5 # Term: FS1033B5
+845A FE01; FSung-Academic; FS1033B6 # Term: FS1033B6
+845A FE02; FSung-Academic; FS1033B7 # Term: FS1033B7
+845A FE03; FSung-Academic; FS1033B8 # Term: FS1033B8

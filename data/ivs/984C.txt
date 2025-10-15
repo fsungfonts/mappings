@@ -1,0 +1,2 @@
+984C FE00; FSung-Academic; FS0FE99D # Term: FS0FE99D
+984C FE01; FSung-Academic; FS10255E # Term: FS10255E

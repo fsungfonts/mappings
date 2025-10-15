@@ -1,0 +1,2 @@
+69B1 FE00; FSung-Academic; FS102DC8 # Term: FS102DC8
+69B1 FE01; FSung-Academic; FS103B76 # Term: FS103B76

@@ -1,0 +1,3 @@
+85E4 FE00; FSung-Academic; FS101949 # Term: FS101949
+85E4 FE01; FSung-Academic; FS10194A # Term: FS10194A
+85E4 FE02; FSung-Academic; FS10194B # Term: FS10194B

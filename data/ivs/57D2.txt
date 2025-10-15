@@ -1,0 +1,2 @@
+57D2 FE00; FSung-Academic; FS0F0647 # Term: FS0F0647
+57D2 FE01; FSung-Academic; FS0F2BF9 # Term: FS0F2BF9

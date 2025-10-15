@@ -1,0 +1,3 @@
+7E17 FE00; FSung-Academic; FS10324E # Term: FS10324E
+7E17 FE01; FSung-Academic; FS10324F # Term: FS10324F
+7E17 FE02; FSung-Academic; FS103B84 # Term: FS103B84

@@ -1,0 +1,4 @@
+81DA FE00; FSung-Academic; FS0FBFF3 # Term: FS0FBFF3
+81DA FE01; FSung-Academic; FS0FBFFE # Term: FS0FBFFE
+81DA FE02; FSung-Academic; FS1015FB # Term: FS1015FB
+81DA FE03; FSung-Academic; FS1015FC # Term: FS1015FC

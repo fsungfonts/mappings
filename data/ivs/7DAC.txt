@@ -1,0 +1,3 @@
+7DAC FE00; FSung-Academic; FS0FDC2C # Term: FS0FDC2C
+7DAC FE01; FSung-Academic; FS103236 # Term: FS103236
+7DAC FE02; FSung-Academic; FS103237 # Term: FS103237

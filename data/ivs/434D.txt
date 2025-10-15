@@ -1,0 +1,4 @@
+434D FE00; FSung-Academic; FS0F1183 # Term: FS0F1183
+434D FE01; FSung-Academic; FS0FC0FC # Term: FS0FC0FC
+434D FE02; FSung-Academic; FS0FC10A # Term: FS0FC10A
+434D FE03; FSung-Academic; FS104B24 # Term: FS104B24

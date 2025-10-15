@@ -1,0 +1,2 @@
+87AB FE00; FSung-Academic; FS101A6B # Term: FS101A6B
+87AB FE01; FSung-Academic; FS101A6C # Term: FS101A6C

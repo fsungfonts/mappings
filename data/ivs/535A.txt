@@ -1,0 +1,4 @@
+535A FE00; FSung-Academic; FS0F557B # Term: FS0F557B
+535A FE01; FSung-Academic; FS0F557C # Term: FS0F557C
+535A FE02; FSung-Academic; FS0F557D # Term: FS0F557D
+535A FE03; FSung-Academic; FS0F557E # Term: FS0F557E

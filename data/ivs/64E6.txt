@@ -1,0 +1,3 @@
+64E6 FE00; FSung-Academic; FS1001E7 # Term: FS1001E7
+64E6 FE01; FSung-Academic; FS1001E8 # Term: FS1001E8
+64E6 FE02; FSung-Academic; FS1001E9 # Term: FS1001E9

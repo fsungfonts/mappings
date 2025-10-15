@@ -1,0 +1,3 @@
+6BEC FE00; FSung-Academic; FS102E85 # Term: FS102E85
+6BEC FE01; FSung-Academic; FS102E86 # Term: FS102E86
+6BEC FE02; FSung-Academic; FS102E87 # Term: FS102E87

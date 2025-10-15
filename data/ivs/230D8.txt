@@ -1,0 +1,2 @@
+230D8 FE00; FSung-Academic; FS1038C8 # Term: FS1038C8
+230D8 FE01; FSung-Academic; FS1038C9 # Term: FS1038C9

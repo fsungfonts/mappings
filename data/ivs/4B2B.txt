@@ -1,0 +1,3 @@
+4B2B FE00; FSung-Academic; FS10530A # Term: FS10530A
+4B2B FE01; FSung-Academic; FS10530B # Term: FS10530B
+4B2B FE02; FSung-Academic; FS10530C # Term: FS10530C

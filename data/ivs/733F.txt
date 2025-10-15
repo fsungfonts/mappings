@@ -1,0 +1,4 @@
+733F FE00; FSung-Academic; FS0F6691 # Term: FS0F6691
+733F FE01; FSung-Academic; FS100B7A # Term: FS100B7A
+733F FE02; FSung-Academic; FS100B7B # Term: FS100B7B
+733F FE03; FSung-Academic; FS100B7C # Term: FS100B7C

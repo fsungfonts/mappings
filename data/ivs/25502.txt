@@ -1,0 +1,2 @@
+25502 FE00; FSung-Academic; FS1048FA # Term: FS1048FA
+25502 FE01; FSung-Academic; FS1048FB # Term: FS1048FB

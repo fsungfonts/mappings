@@ -1,0 +1,3 @@
+3A93 FE00; FSung-Academic; FS10448E # Term: FS10448E
+3A93 FE01; FSung-Academic; FS10448F # Term: FS10448F
+3A93 FE02; FSung-Academic; FS104490 # Term: FS104490

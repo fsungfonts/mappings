@@ -1,0 +1,2 @@
+22001 FE00; FSung-Academic; FS0FAF42 # Term: FS0FAF42
+22001 FE01; FSung-Academic; FS0FAF44 # Term: FS0FAF44

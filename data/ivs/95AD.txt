@@ -1,0 +1,2 @@
+95AD FE00; FSung-Academic; FS1022E4 # Term: FS1022E4
+95AD FE01; FSung-Academic; FS1022E5 # Term: FS1022E5

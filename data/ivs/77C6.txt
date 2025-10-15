@@ -1,0 +1,3 @@
+77C6 FE00; FSung-Academic; FS0FCA45 # Term: FS0FCA45
+77C6 FE01; FSung-Academic; FS0FCA6F # Term: FS0FCA6F
+77C6 FE02; FSung-Academic; FS1048C5 # Term: FS1048C5

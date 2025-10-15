@@ -1,0 +1,2 @@
+3424 FE00; FSung-Academic; FS0F20DE # Term: FS0F20DE
+3424 FE01; FSung-Academic; FS103FC1 # Term: FS103FC1

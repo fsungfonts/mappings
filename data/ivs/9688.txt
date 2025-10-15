@@ -1,0 +1,3 @@
+9688 FE00; FSung-Academic; FS0F0BC5 # Term: FS0F0BC5
+9688 FE01; FSung-Academic; FS0F0BC6 # Term: FS0F0BC6
+9688 FE02; FSung-Academic; FS103BAD # Term: FS103BAD

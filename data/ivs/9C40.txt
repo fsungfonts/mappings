@@ -1,0 +1,3 @@
+9C40 FE00; FSung-Academic; FS103DED # Term: FS103DED
+9C40 FE01; FSung-Academic; FS103DEE # Term: FS103DEE
+9C40 FE02; FSung-Academic; FS103DEF # Term: FS103DEF

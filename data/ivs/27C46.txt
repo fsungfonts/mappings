@@ -1,0 +1,2 @@
+27C46 FE00; FSung-Academic; FS0F66BE # Term: FS0F66BE
+27C46 FE01; FSung-Academic; FS0FF894 # Term: FS0FF894

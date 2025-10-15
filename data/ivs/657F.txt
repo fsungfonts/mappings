@@ -1,0 +1,2 @@
+657F FE00; FSung-Academic; FS0FBC53 # Term: FS0FBC53
+657F FE01; FSung-Academic; FS102D29 # Term: FS102D29

@@ -1,0 +1,3 @@
+758C FE00; FSung-Academic; FS0F05AF # Term: FS0F05AF
+758C FE01; FSung-Academic; FS0F05F2 # Term: FS0F05F2
+758C FE02; FSung-Academic; FS0F196F # Term: FS0F196F

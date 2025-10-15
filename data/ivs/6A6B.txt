@@ -1,0 +1,4 @@
+6A6B FE00; FSung-Academic; FS0F300B # Term: FS0F300B
+6A6B FE01; FSung-Academic; FS100607 # Term: FS100607
+6A6B FE02; FSung-Academic; FS100608 # Term: FS100608
+6A6B FE03; FSung-Academic; FS100609 # Term: FS100609

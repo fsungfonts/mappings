@@ -1,0 +1,3 @@
+8ECF FE00; FSung-Academic; FS0FF07B # Term: FS0FF07B
+8ECF FE01; FSung-Academic; FS0FF07C # Term: FS0FF07C
+8ECF FE02; FSung-Academic; FS1036CB # Term: FS1036CB

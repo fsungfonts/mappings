@@ -1,0 +1,2 @@
+7947 FE00; FSung-Academic; FS0F7ADB # Term: FS0F7ADB
+7947 FE01; FSung-Academic; FS100F09 # Term: FS100F09

@@ -1,0 +1,3 @@
+7CFE FE00; FSung-Academic; FS0FA806 # Term: FS0FA806
+7CFE FE01; FSung-Academic; FS0FDB3D # Term: FS0FDB3D
+7CFE FE02; FSung-Academic; FS1011DC # Term: FS1011DC

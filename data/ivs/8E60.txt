@@ -1,0 +1,2 @@
+8E60 FE00; FSung-Academic; FS10369E # Term: FS10369E
+8E60 FE01; FSung-Academic; FS10369F # Term: FS10369F

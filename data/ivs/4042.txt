@@ -1,0 +1,2 @@
+4042 FE00; FSung-Academic; FS0FC94E # Term: FS0FC94E
+4042 FE01; FSung-Academic; FS10488B # Term: FS10488B

@@ -1,0 +1,2 @@
+22848 FE00; FSung-Academic; FS0FC6A8 # Term: FS0FC6A8
+22848 FE01; FSung-Academic; FS0FC791 # Term: FS0FC791

@@ -1,0 +1,4 @@
+66F3 FE00; FSung-Academic; FS0F1407 # Term: FS0F1407
+66F3 FE01; FSung-Academic; FS0FEEC2 # Term: FS0FEEC2
+66F3 FE02; FSung-Academic; FS100426 # Term: FS100426
+66F3 FE03; FSung-Academic; FS100427 # Term: FS100427

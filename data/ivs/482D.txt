@@ -1,0 +1,3 @@
+482D FE00; FSung-Academic; FS0FE175 # Term: FS0FE175
+482D FE01; FSung-Academic; FS104FD9 # Term: FS104FD9
+482D FE02; FSung-Academic; FS104FDA # Term: FS104FDA

@@ -1,0 +1,4 @@
+6069 FE00; FSung-Academic; FS0FC59E # Term: FS0FC59E
+6069 FE01; FSung-Academic; FS0FC59F # Term: FS0FC59F
+6069 FE02; FSung-Academic; FS0FC5C2 # Term: FS0FC5C2
+6069 FE03; FSung-Academic; FS0FC5C4 # Term: FS0FC5C4

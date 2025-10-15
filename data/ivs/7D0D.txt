@@ -1,0 +1,2 @@
+7D0D FE00; FSung-Academic; FS0F1613 # Term: FS0F1613
+7D0D FE01; FSung-Academic; FS0FAB1D # Term: FS0FAB1D

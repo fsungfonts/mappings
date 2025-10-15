@@ -1,0 +1,2 @@
+995B FE00; FSung-Academic; FS103CA7 # Term: FS103CA7
+995B FE01; FSung-Academic; FS103CA8 # Term: FS103CA8

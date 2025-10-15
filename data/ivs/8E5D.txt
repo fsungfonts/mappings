@@ -1,0 +1,3 @@
+8E5D FE00; FSung-Academic; FS1036A9 # Term: FS1036A9
+8E5D FE01; FSung-Academic; FS1036AA # Term: FS1036AA
+8E5D FE02; FSung-Academic; FS1036AB # Term: FS1036AB

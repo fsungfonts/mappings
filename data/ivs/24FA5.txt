@@ -1,0 +1,2 @@
+24FA5 FE00; FSung-Academic; FS0FB935 # Term: FS0FB935
+24FA5 FE01; FSung-Academic; FS0FB958 # Term: FS0FB958

@@ -1,0 +1,2 @@
+9CF4 FE00; FSung-Academic; FS0F3946 # Term: FS0F3946
+9CF4 FE01; FSung-Academic; FS0F3957 # Term: FS0F3957

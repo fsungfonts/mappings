@@ -1,0 +1,2 @@
+7141 FE00; FSung-Academic; FS0FC264 # Term: FS0FC264
+7141 FE01; FSung-Academic; FS102F7E # Term: FS102F7E

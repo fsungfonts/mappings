@@ -1,0 +1,2 @@
+88A4 FE00; FSung-Academic; FS0FEF1F # Term: FS0FEF1F
+88A4 FE01; FSung-Academic; FS103557 # Term: FS103557

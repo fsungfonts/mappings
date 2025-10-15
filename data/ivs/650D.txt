@@ -1,0 +1,4 @@
+650D FE00; FSung-Academic; FS0FF16D # Term: FS0FF16D
+650D FE01; FSung-Academic; FS102D07 # Term: FS102D07
+650D FE02; FSung-Academic; FS102D08 # Term: FS102D08
+650D FE03; FSung-Academic; FS102D09 # Term: FS102D09

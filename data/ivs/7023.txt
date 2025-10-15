@@ -1,0 +1,4 @@
+7023 FE00; FSung-Academic; FS0F0829 # Term: FS0F0829
+7023 FE01; FSung-Academic; FS0F463E # Term: FS0F463E
+7023 FE02; FSung-Academic; FS102F52 # Term: FS102F52
+7023 FE03; FSung-Academic; FS102F53 # Term: FS102F53

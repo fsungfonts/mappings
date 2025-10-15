@@ -1,0 +1,3 @@
+9100 FE00; FSung-Academic; FS0F27B2 # Term: FS0F27B2
+9100 FE01; FSung-Academic; FS10372F # Term: FS10372F
+9100 FE02; FSung-Academic; FS103730 # Term: FS103730

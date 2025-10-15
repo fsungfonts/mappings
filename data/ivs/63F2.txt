@@ -1,0 +1,2 @@
+63F2 FE00; FSung-Academic; FS102CBF # Term: FS102CBF
+63F2 FE01; FSung-Academic; FS102CC0 # Term: FS102CC0

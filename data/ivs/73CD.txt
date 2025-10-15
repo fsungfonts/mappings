@@ -1,0 +1,4 @@
+73CD FE00; FSung-Academic; FS0F649C # Term: FS0F649C
+73CD FE01; FSung-Academic; FS0FAF6F # Term: FS0FAF6F
+73CD FE02; FSung-Academic; FS0FAF8B # Term: FS0FAF8B
+73CD FE03; FSung-Academic; FS100BF8 # Term: FS100BF8

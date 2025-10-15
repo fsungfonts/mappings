@@ -1,0 +1,2 @@
+3892 FE00; FSung-Academic; FS1042EA # Term: FS1042EA
+3892 FE01; FSung-Academic; FS1042EB # Term: FS1042EB

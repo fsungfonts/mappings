@@ -1,0 +1,4 @@
+7A69 FE00; FSung-Academic; FS0F06EE # Term: FS0F06EE
+7A69 FE01; FSung-Academic; FS0F06FE # Term: FS0F06FE
+7A69 FE02; FSung-Academic; FS0F0CD3 # Term: FS0F0CD3
+7A69 FE03; FSung-Academic; FS101063 # Term: FS101063

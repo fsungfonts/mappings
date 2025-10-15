@@ -1,0 +1,2 @@
+28D4F FE00; FSung-Academic; FS10516C # Term: FS10516C
+28D4F FE01; FSung-Academic; FS10516D # Term: FS10516D

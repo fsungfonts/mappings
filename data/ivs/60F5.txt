@@ -1,0 +1,3 @@
+60F5 FE00; FSung-Academic; FS0F473B # Term: FS0F473B
+60F5 FE01; FSung-Academic; FS102C2A # Term: FS102C2A
+60F5 FE02; FSung-Academic; FS102C2B # Term: FS102C2B

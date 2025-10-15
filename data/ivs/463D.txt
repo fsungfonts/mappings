@@ -1,0 +1,2 @@
+463D FE00; FSung-Academic; FS104E24 # Term: FS104E24
+463D FE01; FSung-Academic; FS104E25 # Term: FS104E25

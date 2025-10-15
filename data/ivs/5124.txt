@@ -1,0 +1,3 @@
+5124 FE00; FSung-Academic; FS1029CA # Term: FS1029CA
+5124 FE01; FSung-Academic; FS1029CB # Term: FS1029CB
+5124 FE02; FSung-Academic; FS1029CC # Term: FS1029CC

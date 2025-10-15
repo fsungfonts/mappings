@@ -1,0 +1,3 @@
+96AA FE00; FSung-Academic; FS0F530E # Term: FS0F530E
+96AA FE01; FSung-Academic; FS0F7632 # Term: FS0F7632
+96AA FE02; FSung-Academic; FS1023A4 # Term: FS1023A4

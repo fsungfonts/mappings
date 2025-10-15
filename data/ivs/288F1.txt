@@ -1,0 +1,2 @@
+288F1 FE00; FSung-Academic; FS1050B3 # Term: FS1050B3
+288F1 FE01; FSung-Academic; FS1050B4 # Term: FS1050B4

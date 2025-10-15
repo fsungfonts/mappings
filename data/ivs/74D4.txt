@@ -1,0 +1,2 @@
+74D4 FE00; FSung-Academic; FS0FB085 # Term: FS0FB085
+74D4 FE01; FSung-Academic; FS0FC74B # Term: FS0FC74B

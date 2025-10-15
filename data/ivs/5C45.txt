@@ -1,0 +1,4 @@
+5C45 FE00; FSung-Academic; FS0F36CC # Term: FS0F36CC
+5C45 FE01; FSung-Academic; FS0F4C86 # Term: FS0F4C86
+5C45 FE02; FSung-Academic; FS0F4C9D # Term: FS0F4C9D
+5C45 FE03; FSung-Academic; FS0FFB2F # Term: FS0FFB2F

@@ -1,0 +1,2 @@
+570D FE00; FSung-Academic; FS0F3AF1 # Term: FS0F3AF1
+570D FE01; FSung-Academic; FS0F57D1 # Term: FS0F57D1

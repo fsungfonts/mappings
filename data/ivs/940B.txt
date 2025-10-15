@@ -1,0 +1,2 @@
+940B FE00; FSung-Academic; FS1037ED # Term: FS1037ED
+940B FE01; FSung-Academic; FS1037EE # Term: FS1037EE

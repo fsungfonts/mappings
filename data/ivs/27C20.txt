@@ -1,0 +1,2 @@
+27C20 FE00; FSung-Academic; FS104F0E # Term: FS104F0E
+27C20 FE01; FSung-Academic; FS104F0F # Term: FS104F0F

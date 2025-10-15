@@ -1,0 +1,3 @@
+7422 FE00; FSung-Academic; FS0FB073 # Term: FS0FB073
+7422 FE01; FSung-Academic; FS0FC71D # Term: FS0FC71D
+7422 FE02; FSung-Academic; FS100C06 # Term: FS100C06

@@ -1,0 +1,2 @@
+7719 FE00; FSung-Academic; FS1030DB # Term: FS1030DB
+7719 FE01; FSung-Academic; FS1030DC # Term: FS1030DC

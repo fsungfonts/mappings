@@ -1,0 +1,3 @@
+6756 FE00; FSung-Academic; FS0F7BCF # Term: FS0F7BCF
+6756 FE01; FSung-Academic; FS1004B2 # Term: FS1004B2
+6756 FE02; FSung-Academic; FS1004B3 # Term: FS1004B3

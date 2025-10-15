@@ -1,0 +1,4 @@
+55FE FE00; FSung-Academic; FS0F3863 # Term: FS0F3863
+55FE FE01; FSung-Academic; FS0F571A # Term: FS0F571A
+55FE FE02; FSung-Academic; FS0F571B # Term: FS0F571B
+55FE FE03; FSung-Academic; FS0F571C # Term: FS0F571C

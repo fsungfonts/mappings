@@ -1,0 +1,2 @@
+54C7 FE00; FSung-Academic; FS0F566A # Term: FS0F566A
+54C7 FE01; FSung-Academic; FS0F566B # Term: FS0F566B

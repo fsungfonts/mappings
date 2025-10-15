@@ -1,0 +1,3 @@
+8606 FE00; FSung-Academic; FS0F611D # Term: FS0F611D
+8606 FE01; FSung-Academic; FS10195F # Term: FS10195F
+8606 FE02; FSung-Academic; FS101960 # Term: FS101960

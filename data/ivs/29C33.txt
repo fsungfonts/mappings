@@ -1,0 +1,2 @@
+29C33 FE00; FSung-Academic; FS1054E2 # Term: FS1054E2
+29C33 FE01; FSung-Academic; FS1054E3 # Term: FS1054E3

@@ -1,0 +1,3 @@
+3D74 FE00; FSung-Academic; FS0F0814 # Term: FS0F0814
+3D74 FE01; FSung-Academic; FS10463D # Term: FS10463D
+3D74 FE02; FSung-Academic; FS10463E # Term: FS10463E

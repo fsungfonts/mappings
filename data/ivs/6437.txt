@@ -1,0 +1,3 @@
+6437 FE00; FSung-Academic; FS0F2FB5 # Term: FS0F2FB5
+6437 FE01; FSung-Academic; FS0F9DB0 # Term: FS0F9DB0
+6437 FE02; FSung-Academic; FS102CD1 # Term: FS102CD1

@@ -1,0 +1,2 @@
+5704 FE00; FSung-Academic; FS102AA9 # Term: FS102AA9
+5704 FE01; FSung-Academic; FS102AAA # Term: FS102AAA

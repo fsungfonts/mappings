@@ -1,0 +1,2 @@
+5770 FE00; FSung-Academic; FS102AB2 # Term: FS102AB2
+5770 FE01; FSung-Academic; FS102AB3 # Term: FS102AB3

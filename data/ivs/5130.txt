@@ -1,0 +1,2 @@
+5130 FE00; FSung-Academic; FS0F0610 # Term: FS0F0610
+5130 FE01; FSung-Academic; FS1029B4 # Term: FS1029B4

@@ -1,0 +1,2 @@
+69C5 FE00; FSung-Academic; FS1044C8 # Term: FS1044C8
+69C5 FE01; FSung-Academic; FS1044C9 # Term: FS1044C9

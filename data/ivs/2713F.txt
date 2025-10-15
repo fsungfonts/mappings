@@ -1,0 +1,2 @@
+2713F FE00; FSung-Academic; FS104D64 # Term: FS104D64
+2713F FE01; FSung-Academic; FS104D65 # Term: FS104D65

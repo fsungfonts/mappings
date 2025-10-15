@@ -1,0 +1,3 @@
+60BC FE00; FSung-Academic; FS0F473A # Term: FS0F473A
+60BC FE01; FSung-Academic; FS0FFE83 # Term: FS0FFE83
+60BC FE02; FSung-Academic; FS0FFE84 # Term: FS0FFE84

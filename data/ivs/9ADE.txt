@@ -1,0 +1,2 @@
+9ADE FE00; FSung-Academic; FS10540B # Term: FS10540B
+9ADE FE01; FSung-Academic; FS10540C # Term: FS10540C

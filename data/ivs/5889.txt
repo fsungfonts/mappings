@@ -1,0 +1,3 @@
+5889 FE00; FSung-Academic; FS102AFD # Term: FS102AFD
+5889 FE01; FSung-Academic; FS102AFE # Term: FS102AFE
+5889 FE02; FSung-Academic; FS102AFF # Term: FS102AFF

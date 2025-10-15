@@ -1,0 +1,2 @@
+2166E FE00; FSung-Academic; FS0FB592 # Term: FS0FB592
+2166E FE01; FSung-Academic; FS10415F # Term: FS10415F

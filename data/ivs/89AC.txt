@@ -1,0 +1,2 @@
+89AC FE00; FSung-Academic; FS0F0B51 # Term: FS0F0B51
+89AC FE01; FSung-Academic; FS0FE031 # Term: FS0FE031

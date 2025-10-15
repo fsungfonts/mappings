@@ -1,0 +1,2 @@
+78A7 FE00; FSung-Academic; FS0F50FD # Term: FS0F50FD
+78A7 FE01; FSung-Academic; FS100EC3 # Term: FS100EC3

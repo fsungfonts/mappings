@@ -1,0 +1,2 @@
+6EFA FE00; FSung-Academic; FS0F9B33 # Term: FS0F9B33
+6EFA FE01; FSung-Academic; FS0FC5F7 # Term: FS0FC5F7

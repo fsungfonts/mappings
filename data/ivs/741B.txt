@@ -1,0 +1,3 @@
+741B FE00; FSung-Academic; FS0F072B # Term: FS0F072B
+741B FE01; FSung-Academic; FS0FAFFD # Term: FS0FAFFD
+741B FE02; FSung-Academic; FS0FC72A # Term: FS0FC72A

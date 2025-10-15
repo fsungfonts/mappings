@@ -1,0 +1,2 @@
+22152 FE00; FSung-Academic; FS1042C3 # Term: FS1042C3
+22152 FE01; FSung-Academic; FS1042C4 # Term: FS1042C4

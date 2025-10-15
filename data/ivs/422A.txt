@@ -1,0 +1,3 @@
+422A FE00; FSung-Academic; FS104A2D # Term: FS104A2D
+422A FE01; FSung-Academic; FS104A2E # Term: FS104A2E
+422A FE02; FSung-Academic; FS104A2F # Term: FS104A2F

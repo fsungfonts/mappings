@@ -1,0 +1,3 @@
+554D FE00; FSung-Academic; FS102A3F # Term: FS102A3F
+554D FE01; FSung-Academic; FS103AD2 # Term: FS103AD2
+554D FE02; FSung-Academic; FS103AD3 # Term: FS103AD3

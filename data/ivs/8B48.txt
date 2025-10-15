@@ -1,0 +1,3 @@
+8B48 FE00; FSung-Academic; FS0FE414 # Term: FS0FE414
+8B48 FE01; FSung-Academic; FS1035EE # Term: FS1035EE
+8B48 FE02; FSung-Academic; FS1035EF # Term: FS1035EF

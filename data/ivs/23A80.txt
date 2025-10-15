@@ -1,0 +1,2 @@
+23A80 FE00; FSung-Academic; FS0FB4E4 # Term: FS0FB4E4
+23A80 FE01; FSung-Academic; FS1045C2 # Term: FS1045C2

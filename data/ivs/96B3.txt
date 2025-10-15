@@ -1,0 +1,3 @@
+96B3 FE00; FSung-Academic; FS0F3614 # Term: FS0F3614
+96B3 FE01; FSung-Academic; FS0FC903 # Term: FS0FC903
+96B3 FE02; FSung-Academic; FS0FC907 # Term: FS0FC907

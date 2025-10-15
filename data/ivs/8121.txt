@@ -1,0 +1,2 @@
+8121 FE00; FSung-Academic; FS0FBEA9 # Term: FS0FBEA9
+8121 FE01; FSung-Academic; FS103345 # Term: FS103345

@@ -1,0 +1,3 @@
+8823 FE00; FSung-Academic; FS101A8A # Term: FS101A8A
+8823 FE01; FSung-Academic; FS101A8B # Term: FS101A8B
+8823 FE02; FSung-Academic; FS101A8C # Term: FS101A8C

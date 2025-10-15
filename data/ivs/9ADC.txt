@@ -1,0 +1,2 @@
+9ADC FE00; FSung-Academic; FS0FAD5C # Term: FS0FAD5C
+9ADC FE01; FSung-Academic; FS105405 # Term: FS105405

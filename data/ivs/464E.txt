@@ -1,0 +1,2 @@
+464E FE00; FSung-Academic; FS0F0AF3 # Term: FS0F0AF3
+464E FE01; FSung-Academic; FS104E2E # Term: FS104E2E

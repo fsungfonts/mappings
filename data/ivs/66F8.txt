@@ -1,0 +1,2 @@
+66F8 FE00; FSung-Academic; FS100431 # Term: FS100431
+66F8 FE01; FSung-Academic; FS100432 # Term: FS100432

@@ -1,0 +1,2 @@
+6AD4 FE00; FSung-Academic; FS0F5435 # Term: FS0F5435
+6AD4 FE01; FSung-Academic; FS104527 # Term: FS104527

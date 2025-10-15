@@ -1,0 +1,4 @@
+55C0 FE00; FSung-Academic; FS0F08FA # Term: FS0F08FA
+55C0 FE01; FSung-Academic; FS0F0CBD # Term: FS0F0CBD
+55C0 FE02; FSung-Academic; FS0FC100 # Term: FS0FC100
+55C0 FE03; FSung-Academic; FS102A59 # Term: FS102A59

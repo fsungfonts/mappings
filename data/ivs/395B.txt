@@ -1,0 +1,3 @@
+395B FE00; FSung-Academic; FS0F474E # Term: FS0F474E
+395B FE01; FSung-Academic; FS10437E # Term: FS10437E
+395B FE02; FSung-Academic; FS10437F # Term: FS10437F

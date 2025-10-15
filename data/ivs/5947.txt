@@ -1,0 +1,3 @@
+5947 FE00; FSung-Academic; FS0F3523 # Term: FS0F3523
+5947 FE01; FSung-Academic; FS0F3648 # Term: FS0F3648
+5947 FE02; FSung-Academic; FS0F6417 # Term: FS0F6417

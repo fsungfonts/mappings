@@ -1,0 +1,4 @@
+87FE FE00; FSung-Academic; FS0FD5A1 # Term: FS0FD5A1
+87FE FE01; FSung-Academic; FS10351D # Term: FS10351D
+87FE FE02; FSung-Academic; FS10351E # Term: FS10351E
+87FE FE03; FSung-Academic; FS10351F # Term: FS10351F

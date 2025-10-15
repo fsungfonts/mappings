@@ -1,0 +1,2 @@
+41D4 FE00; FSung-Academic; FS104A0B # Term: FS104A0B
+41D4 FE01; FSung-Academic; FS104A0C # Term: FS104A0C

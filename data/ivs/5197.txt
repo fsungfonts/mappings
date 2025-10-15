@@ -1,0 +1,2 @@
+5197 FE00; FSung-Academic; FS0F05C9 # Term: FS0F05C9
+5197 FE01; FSung-Academic; FS0F06D6 # Term: FS0F06D6

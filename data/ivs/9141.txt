@@ -1,0 +1,3 @@
+9141 FE00; FSung-Academic; FS0F0B7C # Term: FS0F0B7C
+9141 FE01; FSung-Academic; FS0F2811 # Term: FS0F2811
+9141 FE02; FSung-Academic; FS103756 # Term: FS103756

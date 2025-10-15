@@ -1,0 +1,2 @@
+703C FE00; FSung-Academic; FS102F54 # Term: FS102F54
+703C FE01; FSung-Academic; FS102F55 # Term: FS102F55

@@ -1,0 +1,3 @@
+9474 FE00; FSung-Academic; FS0FE80E # Term: FS0FE80E
+9474 FE01; FSung-Academic; FS10380A # Term: FS10380A
+9474 FE02; FSung-Academic; FS10380B # Term: FS10380B

@@ -1,0 +1,4 @@
+71A0 FE00; FSung-Academic; FS102F8B # Term: FS102F8B
+71A0 FE01; FSung-Academic; FS102F8C # Term: FS102F8C
+71A0 FE02; FSung-Academic; FS102F8D # Term: FS102F8D
+71A0 FE03; FSung-Academic; FS102F8E # Term: FS102F8E

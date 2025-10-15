@@ -1,0 +1,2 @@
+8075 FE00; FSung-Academic; FS0FD3D4 # Term: FS0FD3D4
+8075 FE01; FSung-Academic; FS0FD3EE # Term: FS0FD3EE

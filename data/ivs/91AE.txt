@@ -1,0 +1,3 @@
+91AE FE00; FSung-Academic; FS0FC3D4 # Term: FS0FC3D4
+91AE FE01; FSung-Academic; FS10378E # Term: FS10378E
+91AE FE02; FSung-Academic; FS10378F # Term: FS10378F

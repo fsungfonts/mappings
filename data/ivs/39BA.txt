@@ -1,0 +1,4 @@
+39BA FE00; FSung-Academic; FS1043F4 # Term: FS1043F4
+39BA FE01; FSung-Academic; FS1043F5 # Term: FS1043F5
+39BA FE02; FSung-Academic; FS1043F6 # Term: FS1043F6
+39BA FE03; FSung-Academic; FS1043F7 # Term: FS1043F7

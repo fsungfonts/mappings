@@ -1,0 +1,2 @@
+24A8E FE00; FSung-Academic; FS10477E # Term: FS10477E
+24A8E FE01; FSung-Academic; FS10477F # Term: FS10477F

@@ -1,0 +1,2 @@
+97E0 FE00; FSung-Academic; FS1058DF # Term: FS1058DF
+97E0 FE01; FSung-Academic; FS1058E0 # Term: FS1058E0

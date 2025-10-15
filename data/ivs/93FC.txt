@@ -1,0 +1,2 @@
+93FC FE00; FSung-Academic; FS0FE80B # Term: FS0FE80B
+93FC FE01; FSung-Academic; FS1050F8 # Term: FS1050F8

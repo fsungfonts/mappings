@@ -1,0 +1,2 @@
+85B0 FE00; FSung-Academic; FS0F924F # Term: FS0F924F
+85B0 FE01; FSung-Academic; FS101923 # Term: FS101923

@@ -1,0 +1,2 @@
+2A49F FE00; FSung-Academic; FS10578E # Term: FS10578E
+2A49F FE01; FSung-Academic; FS10578F # Term: FS10578F

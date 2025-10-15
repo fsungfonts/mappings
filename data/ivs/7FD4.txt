@@ -1,0 +1,2 @@
+7FD4 FE00; FSung-Academic; FS1013F6 # Term: FS1013F6
+7FD4 FE01; FSung-Academic; FS1013F7 # Term: FS1013F7

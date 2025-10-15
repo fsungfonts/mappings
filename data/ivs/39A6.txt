@@ -1,0 +1,3 @@
+39A6 FE00; FSung-Academic; FS1043E1 # Term: FS1043E1
+39A6 FE01; FSung-Academic; FS1043E2 # Term: FS1043E2
+39A6 FE02; FSung-Academic; FS1043E3 # Term: FS1043E3

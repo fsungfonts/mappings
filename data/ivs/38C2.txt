@@ -1,0 +1,3 @@
+38C2 FE00; FSung-Academic; FS10430D # Term: FS10430D
+38C2 FE01; FSung-Academic; FS10430E # Term: FS10430E
+38C2 FE02; FSung-Academic; FS10430F # Term: FS10430F

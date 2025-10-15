@@ -1,0 +1,2 @@
+8A62 FE00; FSung-Academic; FS0FE3E0 # Term: FS0FE3E0
+8A62 FE01; FSung-Academic; FS101C3F # Term: FS101C3F

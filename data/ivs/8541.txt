@@ -1,0 +1,3 @@
+8541 FE00; FSung-Academic; FS0F32F6 # Term: FS0F32F6
+8541 FE01; FSung-Academic; FS1033FF # Term: FS1033FF
+8541 FE02; FSung-Academic; FS103400 # Term: FS103400

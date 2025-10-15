@@ -1,0 +1,2 @@
+4ECA FE00; FSung-Academic; FS0F05C7 # Term: FS0F05C7
+4ECA FE01; FSung-Academic; FS0F6818 # Term: FS0F6818

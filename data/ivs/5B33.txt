@@ -1,0 +1,3 @@
+5B33 FE00; FSung-Academic; FS1041D6 # Term: FS1041D6
+5B33 FE01; FSung-Academic; FS1041D7 # Term: FS1041D7
+5B33 FE02; FSung-Academic; FS1041D8 # Term: FS1041D8

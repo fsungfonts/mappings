@@ -1,0 +1,2 @@
+6AF9 FE00; FSung-Academic; FS102E29 # Term: FS102E29
+6AF9 FE01; FSung-Academic; FS102E2A # Term: FS102E2A

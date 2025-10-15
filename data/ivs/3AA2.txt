@@ -1,0 +1,2 @@
+3AA2 FE00; FSung-Academic; FS104492 # Term: FS104492
+3AA2 FE01; FSung-Academic; FS104493 # Term: FS104493

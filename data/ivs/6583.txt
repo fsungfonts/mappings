@@ -1,0 +1,2 @@
+6583 FE00; FSung-Academic; FS1002ED # Term: FS1002ED
+6583 FE01; FSung-Academic; FS1002EE # Term: FS1002EE

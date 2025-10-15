@@ -1,0 +1,3 @@
+42DF FE00; FSung-Academic; FS0F0ADB # Term: FS0F0ADB
+42DF FE01; FSung-Academic; FS104ADB # Term: FS104ADB
+42DF FE02; FSung-Academic; FS104ADC # Term: FS104ADC

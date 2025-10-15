@@ -1,0 +1,2 @@
+5708 FE00; FSung-Academic; FS0F57C8 # Term: FS0F57C8
+5708 FE01; FSung-Academic; FS0F57C9 # Term: FS0F57C9

@@ -1,0 +1,2 @@
+8256 FE00; FSung-Academic; FS104C59 # Term: FS104C59
+8256 FE01; FSung-Academic; FS104C5A # Term: FS104C5A

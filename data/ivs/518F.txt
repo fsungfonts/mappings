@@ -1,0 +1,3 @@
+518F FE00; FSung-Academic; FS0F3560 # Term: FS0F3560
+518F FE01; FSung-Academic; FS1029E5 # Term: FS1029E5
+518F FE02; FSung-Academic; FS1029E6 # Term: FS1029E6

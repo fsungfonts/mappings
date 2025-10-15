@@ -1,0 +1,2 @@
+9C68 FE00; FSung-Academic; FS103E0B # Term: FS103E0B
+9C68 FE01; FSung-Academic; FS103E0C # Term: FS103E0C

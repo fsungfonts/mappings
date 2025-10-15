@@ -1,0 +1,2 @@
+8CDC FE00; FSung-Academic; FS101E03 # Term: FS101E03
+8CDC FE01; FSung-Academic; FS101E04 # Term: FS101E04

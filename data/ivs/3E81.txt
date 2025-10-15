@@ -1,0 +1,3 @@
+3E81 FE00; FSung-Academic; FS0F1040 # Term: FS0F1040
+3E81 FE01; FSung-Academic; FS104729 # Term: FS104729
+3E81 FE02; FSung-Academic; FS10472A # Term: FS10472A

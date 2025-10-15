@@ -1,0 +1,3 @@
+73FD FE00; FSung-Academic; FS0F78E7 # Term: FS0F78E7
+73FD FE01; FSung-Academic; FS0FAFA6 # Term: FS0FAFA6
+73FD FE02; FSung-Academic; FS10301B # Term: FS10301B

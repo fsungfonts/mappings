@@ -1,0 +1,4 @@
+7590 FE00; FSung-Academic; FS0FD288 # Term: FS0FD288
+7590 FE01; FSung-Academic; FS10308C # Term: FS10308C
+7590 FE02; FSung-Academic; FS10308D # Term: FS10308D
+7590 FE03; FSung-Academic; FS10308E # Term: FS10308E

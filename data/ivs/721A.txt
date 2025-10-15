@@ -1,0 +1,2 @@
+721A FE00; FSung-Academic; FS0FC28B # Term: FS0FC28B
+721A FE01; FSung-Academic; FS0FCE77 # Term: FS0FCE77

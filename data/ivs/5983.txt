@@ -1,0 +1,3 @@
+5983 FE00; FSung-Academic; FS0F5CB3 # Term: FS0F5CB3
+5983 FE01; FSung-Academic; FS0F647F # Term: FS0F647F
+5983 FE02; FSung-Academic; FS0FAA12 # Term: FS0FAA12

@@ -1,0 +1,2 @@
+79E1 FE00; FSung-Academic; FS10498B # Term: FS10498B
+79E1 FE01; FSung-Academic; FS10498C # Term: FS10498C

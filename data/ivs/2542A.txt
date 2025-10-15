@@ -1,0 +1,2 @@
+2542A FE00; FSung-Academic; FS1048E6 # Term: FS1048E6
+2542A FE01; FSung-Academic; FS1048E7 # Term: FS1048E7

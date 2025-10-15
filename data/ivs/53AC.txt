@@ -1,0 +1,2 @@
+53AC FE00; FSung-Academic; FS102A1E # Term: FS102A1E
+53AC FE01; FSung-Academic; FS102A1F # Term: FS102A1F

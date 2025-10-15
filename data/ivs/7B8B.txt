@@ -1,0 +1,3 @@
+7B8B FE00; FSung-Academic; FS10113D # Term: FS10113D
+7B8B FE01; FSung-Academic; FS10113E # Term: FS10113E
+7B8B FE02; FSung-Academic; FS10113F # Term: FS10113F

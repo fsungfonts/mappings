@@ -1,0 +1,2 @@
+64FB FE00; FSung-Academic; FS0F0882 # Term: FS0F0882
+64FB FE01; FSung-Academic; FS100201 # Term: FS100201

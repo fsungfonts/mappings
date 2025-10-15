@@ -1,0 +1,3 @@
+858A FE00; FSung-Academic; FS10342F # Term: FS10342F
+858A FE01; FSung-Academic; FS103430 # Term: FS103430
+858A FE02; FSung-Academic; FS103431 # Term: FS103431

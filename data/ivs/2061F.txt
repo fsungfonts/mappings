@@ -1,0 +1,2 @@
+2061F FE00; FSung-Academic; FS0F2502 # Term: FS0F2502
+2061F FE01; FSung-Academic; FS10401A # Term: FS10401A

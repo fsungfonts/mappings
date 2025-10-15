@@ -1,0 +1,2 @@
+601B FE00; FSung-Academic; FS0F46E0 # Term: FS0F46E0
+601B FE01; FSung-Academic; FS102C15 # Term: FS102C15

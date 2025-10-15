@@ -1,0 +1,3 @@
+4D82 FE00; FSung-Academic; FS1057E5 # Term: FS1057E5
+4D82 FE01; FSung-Academic; FS1057E6 # Term: FS1057E6
+4D82 FE02; FSung-Academic; FS1057E7 # Term: FS1057E7

@@ -1,0 +1,3 @@
+7382 FE00; FSung-Academic; FS10300D # Term: FS10300D
+7382 FE01; FSung-Academic; FS10300E # Term: FS10300E
+7382 FE02; FSung-Academic; FS10300F # Term: FS10300F

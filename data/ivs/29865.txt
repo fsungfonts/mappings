@@ -1,0 +1,2 @@
+29865 FE00; FSung-Academic; FS1053A6 # Term: FS1053A6
+29865 FE01; FSung-Academic; FS1053A7 # Term: FS1053A7

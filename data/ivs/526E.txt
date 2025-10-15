@@ -1,0 +1,2 @@
+526E FE00; FSung-Academic; FS0F3622 # Term: FS0F3622
+526E FE01; FSung-Academic; FS0F81EB # Term: FS0F81EB

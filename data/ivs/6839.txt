@@ -1,0 +1,3 @@
+6839 FE00; FSung-Academic; FS0FB1FC # Term: FS0FB1FC
+6839 FE01; FSung-Academic; FS0FC71A # Term: FS0FC71A
+6839 FE02; FSung-Academic; FS1004E9 # Term: FS1004E9

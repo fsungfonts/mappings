@@ -1,0 +1,2 @@
+290FA FE00; FSung-Academic; FS0FE512 # Term: FS0FE512
+290FA FE01; FSung-Academic; FS1051EA # Term: FS1051EA

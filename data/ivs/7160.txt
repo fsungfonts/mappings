@@ -1,0 +1,3 @@
+7160 FE00; FSung-Academic; FS0FC244 # Term: FS0FC244
+7160 FE01; FSung-Academic; FS102F7C # Term: FS102F7C
+7160 FE02; FSung-Academic; FS102F7D # Term: FS102F7D

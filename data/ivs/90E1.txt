@@ -1,0 +1,3 @@
+90E1 FE00; FSung-Academic; FS0F279E # Term: FS0F279E
+90E1 FE01; FSung-Academic; FS102125 # Term: FS102125
+90E1 FE02; FSung-Academic; FS102126 # Term: FS102126

@@ -1,0 +1,4 @@
+9E93 FE00; FSung-Academic; FS0F0771 # Term: FS0F0771
+9E93 FE01; FSung-Academic; FS0F0A94 # Term: FS0F0A94
+9E93 FE02; FSung-Academic; FS0FB2FE # Term: FS0FB2FE
+9E93 FE03; FSung-Academic; FS1027FB # Term: FS1027FB

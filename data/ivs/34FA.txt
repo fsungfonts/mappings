@@ -1,0 +1,3 @@
+34FA FE00; FSung-Academic; FS103879 # Term: FS103879
+34FA FE01; FSung-Academic; FS10402D # Term: FS10402D
+34FA FE02; FSung-Academic; FS10402E # Term: FS10402E

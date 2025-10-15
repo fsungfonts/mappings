@@ -1,0 +1,4 @@
+58FC FE00; FSung-Academic; FS102B1B # Term: FS102B1B
+58FC FE01; FSung-Academic; FS102B1C # Term: FS102B1C
+58FC FE02; FSung-Academic; FS102B1D # Term: FS102B1D
+58FC FE03; FSung-Academic; FS102B1E # Term: FS102B1E

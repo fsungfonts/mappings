@@ -1,0 +1,3 @@
+8587 FE00; FSung-Academic; FS1018F7 # Term: FS1018F7
+8587 FE01; FSung-Academic; FS1018F8 # Term: FS1018F8
+8587 FE02; FSung-Academic; FS1018F9 # Term: FS1018F9

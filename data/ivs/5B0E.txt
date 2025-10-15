@@ -1,0 +1,2 @@
+5B0E FE00; FSung-Academic; FS103AF6 # Term: FS103AF6
+5B0E FE01; FSung-Academic; FS103AF7 # Term: FS103AF7

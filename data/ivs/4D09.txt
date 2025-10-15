@@ -1,0 +1,3 @@
+4D09 FE00; FSung-Academic; FS10567A # Term: FS10567A
+4D09 FE01; FSung-Academic; FS10567B # Term: FS10567B
+4D09 FE02; FSung-Academic; FS10567C # Term: FS10567C

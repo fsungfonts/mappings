@@ -1,0 +1,2 @@
+74AE FE00; FSung-Academic; FS0F72B0 # Term: FS0F72B0
+74AE FE01; FSung-Academic; FS104772 # Term: FS104772

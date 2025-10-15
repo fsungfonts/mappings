@@ -1,0 +1,3 @@
+8C54 FE00; FSung-Academic; FS101D4C # Term: FS101D4C
+8C54 FE01; FSung-Academic; FS101D4D # Term: FS101D4D
+8C54 FE02; FSung-Academic; FS101D4E # Term: FS101D4E

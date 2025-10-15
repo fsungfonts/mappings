@@ -1,0 +1,2 @@
+972E FE00; FSung-Academic; FS0FE561 # Term: FS0FE561
+972E FE01; FSung-Academic; FS0FE566 # Term: FS0FE566

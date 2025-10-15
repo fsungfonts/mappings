@@ -1,0 +1,2 @@
+405B FE00; FSung-Academic; FS0F095E # Term: FS0F095E
+405B FE01; FSung-Academic; FS1048A0 # Term: FS1048A0

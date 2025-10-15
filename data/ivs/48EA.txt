@@ -1,0 +1,4 @@
+48EA FE00; FSung-Academic; FS0FDE9E # Term: FS0FDE9E
+48EA FE01; FSung-Academic; FS0FDEA2 # Term: FS0FDEA2
+48EA FE02; FSung-Academic; FS10506A # Term: FS10506A
+48EA FE03; FSung-Academic; FS10506B # Term: FS10506B

@@ -1,0 +1,4 @@
+8604 FE00; FSung-Academic; FS0F6E34 # Term: FS0F6E34
+8604 FE01; FSung-Academic; FS103458 # Term: FS103458
+8604 FE02; FSung-Academic; FS103459 # Term: FS103459
+8604 FE03; FSung-Academic; FS103B88 # Term: FS103B88

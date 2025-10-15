@@ -1,0 +1,2 @@
+68AD FE00; FSung-Academic; FS10052C # Term: FS10052C
+68AD FE01; FSung-Academic; FS10052D # Term: FS10052D

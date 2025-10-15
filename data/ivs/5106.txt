@@ -1,0 +1,2 @@
+5106 FE00; FSung-Academic; FS1029B5 # Term: FS1029B5
+5106 FE01; FSung-Academic; FS1029B6 # Term: FS1029B6

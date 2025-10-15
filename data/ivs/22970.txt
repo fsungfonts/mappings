@@ -1,0 +1,2 @@
+22970 FE00; FSung-Academic; FS0F0A05 # Term: FS0F0A05
+22970 FE01; FSung-Academic; FS0F0CEB # Term: FS0F0CEB

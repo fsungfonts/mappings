@@ -1,0 +1,4 @@
+8CBD FE00; FSung-Academic; FS0FDF8E # Term: FS0FDF8E
+8CBD FE01; FSung-Academic; FS101DCE # Term: FS101DCE
+8CBD FE02; FSung-Academic; FS101DCF # Term: FS101DCF
+8CBD FE03; FSung-Academic; FS101DD0 # Term: FS101DD0

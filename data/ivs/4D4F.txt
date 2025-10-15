@@ -1,0 +1,3 @@
+4D4F FE00; FSung-Academic; FS10570D # Term: FS10570D
+4D4F FE01; FSung-Academic; FS10570E # Term: FS10570E
+4D4F FE02; FSung-Academic; FS10570F # Term: FS10570F

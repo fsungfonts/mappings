@@ -1,0 +1,2 @@
+860A FE00; FSung-Academic; FS0F3353 # Term: FS0F3353
+860A FE01; FSung-Academic; FS10196C # Term: FS10196C

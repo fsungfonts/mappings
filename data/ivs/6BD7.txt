@@ -1,0 +1,4 @@
+6BD7 FE00; FSung-Academic; FS0F5266 # Term: FS0F5266
+6BD7 FE01; FSung-Academic; FS10077F # Term: FS10077F
+6BD7 FE02; FSung-Academic; FS100780 # Term: FS100780
+6BD7 FE03; FSung-Academic; FS100781 # Term: FS100781

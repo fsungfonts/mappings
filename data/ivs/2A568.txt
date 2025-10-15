@@ -1,0 +1,2 @@
+2A568 FE00; FSung-Academic; FS10582C # Term: FS10582C
+2A568 FE01; FSung-Academic; FS10582D # Term: FS10582D

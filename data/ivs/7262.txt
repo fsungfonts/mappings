@@ -1,0 +1,2 @@
+7262 FE00; FSung-Academic; FS0F1D79 # Term: FS0F1D79
+7262 FE01; FSung-Academic; FS0F2516 # Term: FS0F2516

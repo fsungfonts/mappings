@@ -1,0 +1,2 @@
+77AC FE00; FSung-Academic; FS100E5C # Term: FS100E5C
+77AC FE01; FSung-Academic; FS100E5D # Term: FS100E5D

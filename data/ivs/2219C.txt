@@ -1,0 +1,2 @@
+2219C FE00; FSung-Academic; FS1042D6 # Term: FS1042D6
+2219C FE01; FSung-Academic; FS1042D7 # Term: FS1042D7

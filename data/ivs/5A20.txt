@@ -1,0 +1,4 @@
+5A20 FE00; FSung-Academic; FS0F64E7 # Term: FS0F64E7
+5A20 FE01; FSung-Academic; FS0F64EA # Term: FS0F64EA
+5A20 FE02; FSung-Academic; FS0F64EC # Term: FS0F64EC
+5A20 FE03; FSung-Academic; FS1039A1 # Term: FS1039A1

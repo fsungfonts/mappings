@@ -1,0 +1,2 @@
+29C84 FE00; FSung-Academic; FS105511 # Term: FS105511
+29C84 FE01; FSung-Academic; FS105512 # Term: FS105512

@@ -1,0 +1,2 @@
+25906 FE00; FSung-Academic; FS1049D0 # Term: FS1049D0
+25906 FE01; FSung-Academic; FS1049D1 # Term: FS1049D1

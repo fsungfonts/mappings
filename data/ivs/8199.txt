@@ -1,0 +1,3 @@
+8199 FE00; FSung-Academic; FS0F0CBA # Term: FS0F0CBA
+8199 FE01; FSung-Academic; FS104BE7 # Term: FS104BE7
+8199 FE02; FSung-Academic; FS104BE8 # Term: FS104BE8

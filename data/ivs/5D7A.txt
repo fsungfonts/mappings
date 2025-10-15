@@ -1,0 +1,2 @@
+5D7A FE00; FSung-Academic; FS103B33 # Term: FS103B33
+5D7A FE01; FSung-Academic; FS103B34 # Term: FS103B34
