@@ -16,11 +16,18 @@ HEX_RE = re.compile(r'^[0-9A-F]{6}\.md$', re.IGNORECASE)
 def parse_md_file(md_path):
     if not HEX_RE.match(md_path.name):
         return None
-    
+
     term_hex = md_path.stem.upper()
     try:
         with md_path.open('r', encoding='utf-8', errors='ignore') as f:
             content = f.read(129)  # Read up to avg size
+            
+            # Check for ivs flag first (early exit if missing)
+            ivs_match = re.search(r'ivs:\s*1', content, re.IGNORECASE)
+            if not ivs_match:
+                return None
+            
+            # Existing tags parsing (now gated by ivs)
             if 'tags:' in content:
                 tags_start = content.find('[') + 1
                 tags_end = content.find(']', tags_start)
