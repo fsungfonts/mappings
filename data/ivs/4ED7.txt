@@ -1,2 +1,2 @@
-4ED7 FE00; FSung-Academic; FS0F682C # Term: FS0F682C
-4ED7 FE01; FSung-Academic; FS0F682D # Term: FS0F682D
+4ED7 FE00; FSung-Academic; FS0F682C
+4ED7 FE01; FSung-Academic; FS0F682D

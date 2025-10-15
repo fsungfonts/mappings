@@ -1,2 +1,2 @@
-903D FE00; FSung-Academic; FS105025 # Term: FS105025
-903D FE01; FSung-Academic; FS105026 # Term: FS105026
+903D FE00; FSung-Academic; FS105025
+903D FE01; FSung-Academic; FS105026

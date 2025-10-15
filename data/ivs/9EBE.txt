@@ -1,2 +1,2 @@
-9EBE FE00; FSung-Academic; FS102822 # Term: FS102822
-9EBE FE01; FSung-Academic; FS102823 # Term: FS102823
+9EBE FE00; FSung-Academic; FS102822
+9EBE FE01; FSung-Academic; FS102823

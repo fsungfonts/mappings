@@ -1,2 +1,2 @@
-9A29 FE00; FSung-Academic; FS103CCC # Term: FS103CCC
-9A29 FE01; FSung-Academic; FS103CCD # Term: FS103CCD
+9A29 FE00; FSung-Academic; FS103CCC
+9A29 FE01; FSung-Academic; FS103CCD

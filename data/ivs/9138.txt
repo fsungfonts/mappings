@@ -1,2 +1,2 @@
-9138 FE00; FSung-Academic; FS103751 # Term: FS103751
-9138 FE01; FSung-Academic; FS103752 # Term: FS103752
+9138 FE00; FSung-Academic; FS103751
+9138 FE01; FSung-Academic; FS103752

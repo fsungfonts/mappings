@@ -1,2 +1,2 @@
-8F64 FE00; FSung-Academic; FS0FDE5D # Term: FS0FDE5D
-8F64 FE01; FSung-Academic; FS1036F5 # Term: FS1036F5
+8F64 FE00; FSung-Academic; FS0FDE5D
+8F64 FE01; FSung-Academic; FS1036F5

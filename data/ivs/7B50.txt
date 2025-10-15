@@ -1,2 +1,2 @@
-7B50 FE00; FSung-Academic; FS10111B # Term: FS10111B
-7B50 FE01; FSung-Academic; FS10111D # Term: FS10111D
+7B50 FE00; FSung-Academic; FS10111B
+7B50 FE01; FSung-Academic; FS10111D

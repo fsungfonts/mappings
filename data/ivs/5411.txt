@@ -1,2 +1,2 @@
-5411 FE00; FSung-Academic; FS0F561B # Term: FS0F561B
-5411 FE01; FSung-Academic; FS10397F # Term: FS10397F
+5411 FE00; FSung-Academic; FS0F561B
+5411 FE01; FSung-Academic; FS10397F

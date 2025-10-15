@@ -1,2 +1,2 @@
-65EC FE00; FSung-Academic; FS100386 # Term: FS100386
-65EC FE01; FSung-Academic; FS100387 # Term: FS100387
+65EC FE00; FSung-Academic; FS100386
+65EC FE01; FSung-Academic; FS100387

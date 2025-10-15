@@ -1,2 +1,2 @@
-85AA FE00; FSung-Academic; FS1018EB # Term: FS1018EB
-85AA FE01; FSung-Academic; FS1018EC # Term: FS1018EC
+85AA FE00; FSung-Academic; FS1018EB
+85AA FE01; FSung-Academic; FS1018EC

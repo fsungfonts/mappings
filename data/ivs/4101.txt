@@ -1,2 +1,2 @@
-4101 FE00; FSung-Academic; FS0FC450 # Term: FS0FC450
-4101 FE01; FSung-Academic; FS104936 # Term: FS104936
+4101 FE00; FSung-Academic; FS0FC450
+4101 FE01; FSung-Academic; FS104936

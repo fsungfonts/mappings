@@ -1,2 +1,2 @@
-6705 FE00; FSung-Academic; FS0F2D1F # Term: FS0F2D1F
-6705 FE01; FSung-Academic; FS0F2DA2 # Term: FS0F2DA2
+6705 FE00; FSung-Academic; FS0F2D1F
+6705 FE01; FSung-Academic; FS0F2DA2

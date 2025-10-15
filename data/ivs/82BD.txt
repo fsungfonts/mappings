@@ -1,2 +1,2 @@
-82BD FE00; FSung-Academic; FS101701 # Term: FS101701
-82BD FE01; FSung-Academic; FS101702 # Term: FS101702
+82BD FE00; FSung-Academic; FS101701
+82BD FE01; FSung-Academic; FS101702

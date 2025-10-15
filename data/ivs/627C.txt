@@ -1,2 +1,2 @@
-627C FE00; FSung-Academic; FS10005D # Term: FS10005D
-627C FE01; FSung-Academic; FS10005E # Term: FS10005E
+627C FE00; FSung-Academic; FS10005D
+627C FE01; FSung-Academic; FS10005E

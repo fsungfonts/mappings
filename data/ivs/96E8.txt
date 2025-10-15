@@ -1,2 +1,2 @@
-96E8 FE00; FSung-Academic; FS0F05B8 # Term: FS0F05B8
-96E8 FE01; FSung-Academic; FS0F05BE # Term: FS0F05BE
+96E8 FE00; FSung-Academic; FS0F05B8
+96E8 FE01; FSung-Academic; FS0F05BE

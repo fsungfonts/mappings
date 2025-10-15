@@ -1,2 +1,2 @@
-7405 FE00; FSung-Academic; FS100C04 # Term: FS100C04
-7405 FE01; FSung-Academic; FS100C05 # Term: FS100C05
+7405 FE00; FSung-Academic; FS100C04
+7405 FE01; FSung-Academic; FS100C05

@@ -1,2 +1,2 @@
-9117 FE00; FSung-Academic; FS103732 # Term: FS103732
-9117 FE01; FSung-Academic; FS103733 # Term: FS103733
+9117 FE00; FSung-Academic; FS103732
+9117 FE01; FSung-Academic; FS103733

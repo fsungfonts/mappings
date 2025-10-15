@@ -1,2 +1,2 @@
-38CE FE00; FSung-Academic; FS0F06C1 # Term: FS0F06C1
-38CE FE01; FSung-Academic; FS0F0EBF # Term: FS0F0EBF
+38CE FE00; FSung-Academic; FS0F06C1
+38CE FE01; FSung-Academic; FS0F0EBF

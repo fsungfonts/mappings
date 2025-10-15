@@ -1,2 +1,2 @@
-645F FE00; FSung-Academic; FS0FB265 # Term: FS0FB265
-645F FE01; FSung-Academic; FS100168 # Term: FS100168
+645F FE00; FSung-Academic; FS0FB265
+645F FE01; FSung-Academic; FS100168

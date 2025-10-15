@@ -1,2 +1,2 @@
-96CB FE00; FSung-Academic; FS0F0509 # Term: FS0F0509
-96CB FE01; FSung-Academic; FS0F0BA9 # Term: FS0F0BA9
+96CB FE00; FSung-Academic; FS0F0509
+96CB FE01; FSung-Academic; FS0F0BA9

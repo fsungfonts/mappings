@@ -1,2 +1,2 @@
-48FC FE00; FSung-Academic; FS0F0B2F # Term: FS0F0B2F
-48FC FE01; FSung-Academic; FS10507A # Term: FS10507A
+48FC FE00; FSung-Academic; FS0F0B2F
+48FC FE01; FSung-Academic; FS10507A

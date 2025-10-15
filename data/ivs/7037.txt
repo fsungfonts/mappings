@@ -1,2 +1,2 @@
-7037 FE00; FSung-Academic; FS0F24DF # Term: FS0F24DF
-7037 FE01; FSung-Academic; FS102F59 # Term: FS102F59
+7037 FE00; FSung-Academic; FS0F24DF
+7037 FE01; FSung-Academic; FS102F59

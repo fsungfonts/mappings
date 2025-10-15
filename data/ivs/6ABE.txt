@@ -1,2 +1,2 @@
-6ABE FE00; FSung-Academic; FS104523 # Term: FS104523
-6ABE FE01; FSung-Academic; FS104524 # Term: FS104524
+6ABE FE00; FSung-Academic; FS104523
+6ABE FE01; FSung-Academic; FS104524

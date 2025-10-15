@@ -1,2 +1,2 @@
-7C97 FE00; FSung-Academic; FS0F8C06 # Term: FS0F8C06
-7C97 FE01; FSung-Academic; FS0FDA1B # Term: FS0FDA1B
+7C97 FE00; FSung-Academic; FS0F8C06
+7C97 FE01; FSung-Academic; FS0FDA1B

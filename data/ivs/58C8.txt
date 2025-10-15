@@ -1,2 +1,2 @@
-58C8 FE00; FSung-Academic; FS102B15 # Term: FS102B15
-58C8 FE01; FSung-Academic; FS102B16 # Term: FS102B16
+58C8 FE00; FSung-Academic; FS102B15
+58C8 FE01; FSung-Academic; FS102B16

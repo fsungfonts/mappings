@@ -1,2 +1,2 @@
-9B19 FE00; FSung-Academic; FS103D43 # Term: FS103D43
-9B19 FE01; FSung-Academic; FS103D44 # Term: FS103D44
+9B19 FE00; FSung-Academic; FS103D43
+9B19 FE01; FSung-Academic; FS103D44

@@ -1,2 +1,2 @@
-82A5 FE00; FSung-Academic; FS0FDA70 # Term: FS0FDA70
-82A5 FE01; FSung-Academic; FS10170F # Term: FS10170F
+82A5 FE00; FSung-Academic; FS0FDA70
+82A5 FE01; FSung-Academic; FS10170F

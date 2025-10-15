@@ -1,2 +1,2 @@
-9C24 FE00; FSung-Academic; FS1055E1 # Term: FS1055E1
-9C24 FE01; FSung-Academic; FS1055E2 # Term: FS1055E2
+9C24 FE00; FSung-Academic; FS1055E1
+9C24 FE01; FSung-Academic; FS1055E2

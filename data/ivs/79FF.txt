@@ -1,2 +1,2 @@
-79FF FE00; FSung-Academic; FS104994 # Term: FS104994
-79FF FE01; FSung-Academic; FS104995 # Term: FS104995
+79FF FE00; FSung-Academic; FS104994
+79FF FE01; FSung-Academic; FS104995

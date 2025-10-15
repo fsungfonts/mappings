@@ -1,2 +1,2 @@
-54CF FE00; FSung-Academic; FS0F370A # Term: FS0F370A
-54CF FE01; FSung-Academic; FS0F3822 # Term: FS0F3822
+54CF FE00; FSung-Academic; FS0F370A
+54CF FE01; FSung-Academic; FS0F3822

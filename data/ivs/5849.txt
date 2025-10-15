@@ -1,2 +1,2 @@
-5849 FE00; FSung-Academic; FS0F2C89 # Term: FS0F2C89
-5849 FE01; FSung-Academic; FS102AF9 # Term: FS102AF9
+5849 FE00; FSung-Academic; FS0F2C89
+5849 FE01; FSung-Academic; FS102AF9

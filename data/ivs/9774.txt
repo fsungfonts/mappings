@@ -1,2 +1,2 @@
-9774 FE00; FSung-Academic; FS1024D0 # Term: FS1024D0
-9774 FE01; FSung-Academic; FS1024D1 # Term: FS1024D1
+9774 FE00; FSung-Academic; FS1024D0
+9774 FE01; FSung-Academic; FS1024D1

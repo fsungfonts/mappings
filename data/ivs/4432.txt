@@ -1,2 +1,2 @@
-4432 FE00; FSung-Academic; FS104BEA # Term: FS104BEA
-4432 FE01; FSung-Academic; FS104BEB # Term: FS104BEB
+4432 FE00; FSung-Academic; FS104BEA
+4432 FE01; FSung-Academic; FS104BEB

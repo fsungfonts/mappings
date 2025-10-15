@@ -1,2 +1,2 @@
-532F FE00; FSung-Academic; FS0F17FD # Term: FS0F17FD
-532F FE01; FSung-Academic; FS0F554E # Term: FS0F554E
+532F FE00; FSung-Academic; FS0F17FD
+532F FE01; FSung-Academic; FS0F554E

@@ -1,2 +1,2 @@
-768E FE00; FSung-Academic; FS100DA2 # Term: FS100DA2
-768E FE01; FSung-Academic; FS100DA3 # Term: FS100DA3
+768E FE00; FSung-Academic; FS100DA2
+768E FE01; FSung-Academic; FS100DA3

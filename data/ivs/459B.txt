@@ -1,2 +1,2 @@
-459B FE00; FSung-Academic; FS0FD4DF # Term: FS0FD4DF
-459B FE01; FSung-Academic; FS0FD4E1 # Term: FS0FD4E1
+459B FE00; FSung-Academic; FS0FD4DF
+459B FE01; FSung-Academic; FS0FD4E1

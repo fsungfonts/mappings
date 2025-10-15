@@ -1,2 +1,2 @@
-4C2C FE00; FSung-Academic; FS10557C # Term: FS10557C
-4C2C FE01; FSung-Academic; FS10557D # Term: FS10557D
+4C2C FE00; FSung-Academic; FS10557C
+4C2C FE01; FSung-Academic; FS10557D

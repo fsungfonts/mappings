@@ -1,2 +1,2 @@
-72C1 FE00; FSung-Academic; FS0F0626 # Term: FS0F0626
-72C1 FE01; FSung-Academic; FS0F400C # Term: FS0F400C
+72C1 FE00; FSung-Academic; FS0F0626
+72C1 FE01; FSung-Academic; FS0F400C

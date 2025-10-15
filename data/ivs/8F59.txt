@@ -1,2 +1,2 @@
-8F59 FE00; FSung-Academic; FS1036E6 # Term: FS1036E6
-8F59 FE01; FSung-Academic; FS1036E7 # Term: FS1036E7
+8F59 FE00; FSung-Academic; FS1036E6
+8F59 FE01; FSung-Academic; FS1036E7

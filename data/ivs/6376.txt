@@ -1,2 +1,2 @@
-6376 FE00; FSung-Academic; FS0F0857 # Term: FS0F0857
-6376 FE01; FSung-Academic; FS100128 # Term: FS100128
+6376 FE00; FSung-Academic; FS0F0857
+6376 FE01; FSung-Academic; FS100128

@@ -1,2 +1,2 @@
-41BE FE00; FSung-Academic; FS1049F7 # Term: FS1049F7
-41BE FE01; FSung-Academic; FS1049F8 # Term: FS1049F8
+41BE FE00; FSung-Academic; FS1049F7
+41BE FE01; FSung-Academic; FS1049F8

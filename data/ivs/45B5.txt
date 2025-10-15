@@ -1,2 +1,2 @@
-45B5 FE00; FSung-Academic; FS0FD55A # Term: FS0FD55A
-45B5 FE01; FSung-Academic; FS104DB5 # Term: FS104DB5
+45B5 FE00; FSung-Academic; FS0FD55A
+45B5 FE01; FSung-Academic; FS104DB5

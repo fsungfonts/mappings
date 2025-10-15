@@ -1,2 +1,2 @@
-78CC FE00; FSung-Academic; FS103126 # Term: FS103126
-78CC FE01; FSung-Academic; FS103127 # Term: FS103127
+78CC FE00; FSung-Academic; FS103126
+78CC FE01; FSung-Academic; FS103127

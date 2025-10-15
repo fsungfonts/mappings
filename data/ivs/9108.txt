@@ -1,2 +1,2 @@
-9108 FE00; FSung-Academic; FS10372B # Term: FS10372B
-9108 FE01; FSung-Academic; FS10372C # Term: FS10372C
+9108 FE00; FSung-Academic; FS10372B
+9108 FE01; FSung-Academic; FS10372C

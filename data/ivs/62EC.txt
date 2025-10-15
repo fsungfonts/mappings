@@ -1,2 +1,2 @@
-62EC FE00; FSung-Academic; FS1000A3 # Term: FS1000A3
-62EC FE01; FSung-Academic; FS1000A4 # Term: FS1000A4
+62EC FE00; FSung-Academic; FS1000A3
+62EC FE01; FSung-Academic; FS1000A4

@@ -1,2 +1,2 @@
-50CB FE00; FSung-Academic; FS0F1C22 # Term: FS0F1C22
-50CB FE01; FSung-Academic; FS1029AC # Term: FS1029AC
+50CB FE00; FSung-Academic; FS0F1C22
+50CB FE01; FSung-Academic; FS1029AC

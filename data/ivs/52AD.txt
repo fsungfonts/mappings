@@ -1,2 +1,2 @@
-52AD FE00; FSung-Academic; FS0F2840 # Term: FS0F2840
-52AD FE01; FSung-Academic; FS0F2952 # Term: FS0F2952
+52AD FE00; FSung-Academic; FS0F2840
+52AD FE01; FSung-Academic; FS0F2952

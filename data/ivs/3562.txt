@@ -1,2 +1,2 @@
-3562 FE00; FSung-Academic; FS0F2A46 # Term: FS0F2A46
-3562 FE01; FSung-Academic; FS0FDF7F # Term: FS0FDF7F
+3562 FE00; FSung-Academic; FS0F2A46
+3562 FE01; FSung-Academic; FS0FDF7F

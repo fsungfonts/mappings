@@ -1,2 +1,2 @@
-3DFE FE00; FSung-Academic; FS1046B9 # Term: FS1046B9
-3DFE FE01; FSung-Academic; FS1046BA # Term: FS1046BA
+3DFE FE00; FSung-Academic; FS1046B9
+3DFE FE01; FSung-Academic; FS1046BA

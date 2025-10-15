@@ -1,2 +1,2 @@
-58CE FE00; FSung-Academic; FS0F2DDC # Term: FS0F2DDC
-58CE FE01; FSung-Academic; FS0F8CC6 # Term: FS0F8CC6
+58CE FE00; FSung-Academic; FS0F2DDC
+58CE FE01; FSung-Academic; FS0F8CC6

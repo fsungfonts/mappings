@@ -1,2 +1,2 @@
-40F7 FE00; FSung-Academic; FS10492B # Term: FS10492B
-40F7 FE01; FSung-Academic; FS10492C # Term: FS10492C
+40F7 FE00; FSung-Academic; FS10492B
+40F7 FE01; FSung-Academic; FS10492C

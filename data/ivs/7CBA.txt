@@ -1,2 +1,2 @@
-7CBA FE00; FSung-Academic; FS103202 # Term: FS103202
-7CBA FE01; FSung-Academic; FS103203 # Term: FS103203
+7CBA FE00; FSung-Academic; FS103202
+7CBA FE01; FSung-Academic; FS103203

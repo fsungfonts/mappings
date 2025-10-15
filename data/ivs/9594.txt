@@ -1,2 +1,2 @@
-9594 FE00; FSung-Academic; FS1022C9 # Term: FS1022C9
-9594 FE01; FSung-Academic; FS1022CA # Term: FS1022CA
+9594 FE00; FSung-Academic; FS1022C9
+9594 FE01; FSung-Academic; FS1022CA

@@ -1,2 +1,2 @@
-4E19 FE00; FSung-Academic; FS0F6722 # Term: FS0F6722
-4E19 FE01; FSung-Academic; FS0F6723 # Term: FS0F6723
+4E19 FE00; FSung-Academic; FS0F6722
+4E19 FE01; FSung-Academic; FS0F6723

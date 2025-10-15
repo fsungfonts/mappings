@@ -1,2 +1,2 @@
-49EF FE00; FSung-Academic; FS1051CD # Term: FS1051CD
-49EF FE01; FSung-Academic; FS1051CE # Term: FS1051CE
+49EF FE00; FSung-Academic; FS1051CD
+49EF FE01; FSung-Academic; FS1051CE

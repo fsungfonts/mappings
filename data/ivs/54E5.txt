@@ -1,2 +1,2 @@
-54E5 FE00; FSung-Academic; FS0F3692 # Term: FS0F3692
-54E5 FE01; FSung-Academic; FS0F5673 # Term: FS0F5673
+54E5 FE00; FSung-Academic; FS0F3692
+54E5 FE01; FSung-Academic; FS0F5673

@@ -1,2 +1,2 @@
-7333 FE00; FSung-Academic; FS102FDE # Term: FS102FDE
-7333 FE01; FSung-Academic; FS102FDF # Term: FS102FDF
+7333 FE00; FSung-Academic; FS102FDE
+7333 FE01; FSung-Academic; FS102FDF

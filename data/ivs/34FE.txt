@@ -1,2 +1,2 @@
-34FE FE00; FSung-Academic; FS0F18D1 # Term: FS0F18D1
-34FE FE01; FSung-Academic; FS103881 # Term: FS103881
+34FE FE00; FSung-Academic; FS0F18D1
+34FE FE01; FSung-Academic; FS103881

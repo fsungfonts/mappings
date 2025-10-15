@@ -1,2 +1,2 @@
-80F2 FE00; FSung-Academic; FS103337 # Term: FS103337
-80F2 FE01; FSung-Academic; FS103338 # Term: FS103338
+80F2 FE00; FSung-Academic; FS103337
+80F2 FE01; FSung-Academic; FS103338

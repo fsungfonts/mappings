@@ -1,2 +1,2 @@
-80EF FE00; FSung-Academic; FS0F08CA # Term: FS0F08CA
-80EF FE01; FSung-Academic; FS0FBE51 # Term: FS0FBE51
+80EF FE00; FSung-Academic; FS0F08CA
+80EF FE01; FSung-Academic; FS0FBE51

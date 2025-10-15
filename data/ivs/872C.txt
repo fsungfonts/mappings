@@ -1,2 +1,2 @@
-872C FE00; FSung-Academic; FS0FD549 # Term: FS0FD549
-872C FE01; FSung-Academic; FS0FD552 # Term: FS0FD552
+872C FE00; FSung-Academic; FS0FD549
+872C FE01; FSung-Academic; FS0FD552

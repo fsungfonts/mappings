@@ -1,2 +1,2 @@
-8CAC FE00; FSung-Academic; FS0F0B3F # Term: FS0F0B3F
-8CAC FE01; FSung-Academic; FS101DBF # Term: FS101DBF
+8CAC FE00; FSung-Academic; FS0F0B3F
+8CAC FE01; FSung-Academic; FS101DBF

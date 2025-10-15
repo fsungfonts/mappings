@@ -1,2 +1,2 @@
-823C FE00; FSung-Academic; FS10337E # Term: FS10337E
-823C FE01; FSung-Academic; FS10337F # Term: FS10337F
+823C FE00; FSung-Academic; FS10337E
+823C FE01; FSung-Academic; FS10337F

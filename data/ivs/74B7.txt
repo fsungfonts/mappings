@@ -1,2 +1,2 @@
-74B7 FE00; FSung-Academic; FS104780 # Term: FS104780
-74B7 FE01; FSung-Academic; FS104781 # Term: FS104781
+74B7 FE00; FSung-Academic; FS104780
+74B7 FE01; FSung-Academic; FS104781

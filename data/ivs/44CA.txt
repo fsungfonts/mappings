@@ -1,2 +1,2 @@
-44CA FE00; FSung-Academic; FS104C92 # Term: FS104C92
-44CA FE01; FSung-Academic; FS104C93 # Term: FS104C93
+44CA FE00; FSung-Academic; FS104C92
+44CA FE01; FSung-Academic; FS104C93

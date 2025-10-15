@@ -1,2 +1,2 @@
-63E0 FE00; FSung-Academic; FS0F2FD0 # Term: FS0F2FD0
-63E0 FE01; FSung-Academic; FS102CBE # Term: FS102CBE
+63E0 FE00; FSung-Academic; FS0F2FD0
+63E0 FE01; FSung-Academic; FS102CBE

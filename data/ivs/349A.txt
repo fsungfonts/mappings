@@ -1,2 +1,2 @@
-349A FE00; FSung-Academic; FS0F1BB0 # Term: FS0F1BB0
-349A FE01; FSung-Academic; FS10386E # Term: FS10386E
+349A FE00; FSung-Academic; FS0F1BB0
+349A FE01; FSung-Academic; FS10386E

@@ -1,2 +1,2 @@
-4C30 FE00; FSung-Academic; FS10559F # Term: FS10559F
-4C30 FE01; FSung-Academic; FS1055A0 # Term: FS1055A0
+4C30 FE00; FSung-Academic; FS10559F
+4C30 FE01; FSung-Academic; FS1055A0

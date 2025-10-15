@@ -1,2 +1,2 @@
-3F12 FE00; FSung-Academic; FS10478C # Term: FS10478C
-3F12 FE01; FSung-Academic; FS10478D # Term: FS10478D
+3F12 FE00; FSung-Academic; FS10478C
+3F12 FE01; FSung-Academic; FS10478D

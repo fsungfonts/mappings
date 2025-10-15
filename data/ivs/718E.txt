@@ -1,2 +1,2 @@
-718E FE00; FSung-Academic; FS0F780B # Term: FS0F780B
-718E FE01; FSung-Academic; FS1046A2 # Term: FS1046A2
+718E FE00; FSung-Academic; FS0F780B
+718E FE01; FSung-Academic; FS1046A2

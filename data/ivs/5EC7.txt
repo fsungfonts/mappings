@@ -1,2 +1,2 @@
-5EC7 FE00; FSung-Academic; FS0F06CC # Term: FS0F06CC
-5EC7 FE01; FSung-Academic; FS102BD1 # Term: FS102BD1
+5EC7 FE00; FSung-Academic; FS0F06CC
+5EC7 FE01; FSung-Academic; FS102BD1

@@ -1,2 +1,2 @@
-97C2 FE00; FSung-Academic; FS10526D # Term: FS10526D
-97C2 FE01; FSung-Academic; FS10526E # Term: FS10526E
+97C2 FE00; FSung-Academic; FS10526D
+97C2 FE01; FSung-Academic; FS10526E

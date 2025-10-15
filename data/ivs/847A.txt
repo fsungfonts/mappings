@@ -1,2 +1,2 @@
-847A FE00; FSung-Academic; FS0F31CE # Term: FS0F31CE
-847A FE01; FSung-Academic; FS0F320A # Term: FS0F320A
+847A FE00; FSung-Academic; FS0F31CE
+847A FE01; FSung-Academic; FS0F320A

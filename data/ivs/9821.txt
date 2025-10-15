@@ -1,2 +1,2 @@
-9821 FE00; FSung-Academic; FS102538 # Term: FS102538
-9821 FE01; FSung-Academic; FS102539 # Term: FS102539
+9821 FE00; FSung-Academic; FS102538
+9821 FE01; FSung-Academic; FS102539

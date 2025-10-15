@@ -1,2 +1,2 @@
-458A FE00; FSung-Academic; FS0F2A16 # Term: FS0F2A16
-458A FE01; FSung-Academic; FS104D89 # Term: FS104D89
+458A FE00; FSung-Academic; FS0F2A16
+458A FE01; FSung-Academic; FS104D89

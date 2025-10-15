@@ -1,2 +1,2 @@
-71CE FE00; FSung-Academic; FS0FAC22 # Term: FS0FAC22
-71CE FE01; FSung-Academic; FS0FFFC2 # Term: FS0FFFC2
+71CE FE00; FSung-Academic; FS0FAC22
+71CE FE01; FSung-Academic; FS0FFFC2

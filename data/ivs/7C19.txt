@@ -1,2 +1,2 @@
-7C19 FE00; FSung-Academic; FS1031E8 # Term: FS1031E8
-7C19 FE01; FSung-Academic; FS1031E9 # Term: FS1031E9
+7C19 FE00; FSung-Academic; FS1031E8
+7C19 FE01; FSung-Academic; FS1031E9

@@ -1,2 +1,2 @@
-9E9A FE00; FSung-Academic; FS103EA9 # Term: FS103EA9
-9E9A FE01; FSung-Academic; FS103EAA # Term: FS103EAA
+9E9A FE00; FSung-Academic; FS103EA9
+9E9A FE01; FSung-Academic; FS103EAA

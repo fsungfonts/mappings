@@ -1,2 +1,2 @@
-3512 FE00; FSung-Academic; FS0F1919 # Term: FS0F1919
-3512 FE01; FSung-Academic; FS0F1935 # Term: FS0F1935
+3512 FE00; FSung-Academic; FS0F1919
+3512 FE01; FSung-Academic; FS0F1935

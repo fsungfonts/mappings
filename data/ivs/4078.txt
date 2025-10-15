@@ -1,2 +1,2 @@
-4078 FE00; FSung-Academic; FS1048BA # Term: FS1048BA
-4078 FE01; FSung-Academic; FS1048BB # Term: FS1048BB
+4078 FE00; FSung-Academic; FS1048BA
+4078 FE01; FSung-Academic; FS1048BB

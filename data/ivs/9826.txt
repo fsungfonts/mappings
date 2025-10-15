@@ -1,2 +1,2 @@
-9826 FE00; FSung-Academic; FS0FE941 # Term: FS0FE941
-9826 FE01; FSung-Academic; FS0FE964 # Term: FS0FE964
+9826 FE00; FSung-Academic; FS0FE941
+9826 FE01; FSung-Academic; FS0FE964

@@ -1,2 +1,2 @@
-6110 FE00; FSung-Academic; FS0FEA2C # Term: FS0FEA2C
-6110 FE01; FSung-Academic; FS104380 # Term: FS104380
+6110 FE00; FSung-Academic; FS0FEA2C
+6110 FE01; FSung-Academic; FS104380

@@ -1,2 +1,2 @@
-5903 FE00; FSung-Academic; FS0FEECD # Term: FS0FEECD
-5903 FE01; FSung-Academic; FS102B20 # Term: FS102B20
+5903 FE00; FSung-Academic; FS0FEECD
+5903 FE01; FSung-Academic; FS102B20

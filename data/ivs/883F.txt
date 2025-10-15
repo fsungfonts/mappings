@@ -1,2 +1,2 @@
-883F FE00; FSung-Academic; FS103540 # Term: FS103540
-883F FE01; FSung-Academic; FS103541 # Term: FS103541
+883F FE00; FSung-Academic; FS103540
+883F FE01; FSung-Academic; FS103541

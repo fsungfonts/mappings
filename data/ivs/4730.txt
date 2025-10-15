@@ -1,2 +1,2 @@
-4730 FE00; FSung-Academic; FS0FE21C # Term: FS0FE21C
-4730 FE01; FSung-Academic; FS0FE21D # Term: FS0FE21D
+4730 FE00; FSung-Academic; FS0FE21C
+4730 FE01; FSung-Academic; FS0FE21D

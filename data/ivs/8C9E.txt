@@ -1,2 +1,2 @@
-8C9E FE00; FSung-Academic; FS0F1975 # Term: FS0F1975
-8C9E FE01; FSung-Academic; FS101DB7 # Term: FS101DB7
+8C9E FE00; FSung-Academic; FS0F1975
+8C9E FE01; FSung-Academic; FS101DB7

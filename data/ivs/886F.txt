@@ -1,2 +1,2 @@
-886F FE00; FSung-Academic; FS0FC45A # Term: FS0FC45A
-886F FE01; FSung-Academic; FS0FD1B0 # Term: FS0FD1B0
+886F FE00; FSung-Academic; FS0FC45A
+886F FE01; FSung-Academic; FS0FD1B0

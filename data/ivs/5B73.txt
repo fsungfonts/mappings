@@ -1,2 +1,2 @@
-5B73 FE00; FSung-Academic; FS0F218D # Term: FS0F218D
-5B73 FE01; FSung-Academic; FS0FF527 # Term: FS0FF527
+5B73 FE00; FSung-Academic; FS0F218D
+5B73 FE01; FSung-Academic; FS0FF527

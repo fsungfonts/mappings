@@ -1,2 +1,2 @@
-9F5C FE00; FSung-Academic; FS1028E4 # Term: FS1028E4
-9F5C FE01; FSung-Academic; FS1028E5 # Term: FS1028E5
+9F5C FE00; FSung-Academic; FS1028E4
+9F5C FE01; FSung-Academic; FS1028E5

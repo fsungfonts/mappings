@@ -1,2 +1,2 @@
-4E3B FE00; FSung-Academic; FS0F6743 # Term: FS0F6743
-4E3B FE01; FSung-Academic; FS0F6744 # Term: FS0F6744
+4E3B FE00; FSung-Academic; FS0F6743
+4E3B FE01; FSung-Academic; FS0F6744

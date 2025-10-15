@@ -1,2 +1,2 @@
-7AF5 FE00; FSung-Academic; FS104A09 # Term: FS104A09
-7AF5 FE01; FSung-Academic; FS104A0A # Term: FS104A0A
+7AF5 FE00; FSung-Academic; FS104A09
+7AF5 FE01; FSung-Academic; FS104A0A

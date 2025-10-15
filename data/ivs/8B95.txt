@@ -1,2 +1,2 @@
-8B95 FE00; FSung-Academic; FS103613 # Term: FS103613
-8B95 FE01; FSung-Academic; FS103614 # Term: FS103614
+8B95 FE00; FSung-Academic; FS103613
+8B95 FE01; FSung-Academic; FS103614

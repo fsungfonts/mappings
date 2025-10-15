@@ -1,2 +1,2 @@
-4C12 FE00; FSung-Academic; FS1054BA # Term: FS1054BA
-4C12 FE01; FSung-Academic; FS1054BB # Term: FS1054BB
+4C12 FE00; FSung-Academic; FS1054BA
+4C12 FE01; FSung-Academic; FS1054BB

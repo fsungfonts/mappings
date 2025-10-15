@@ -1,2 +1,2 @@
-542E FE00; FSung-Academic; FS0F365C # Term: FS0F365C
-542E FE01; FSung-Academic; FS0FA78E # Term: FS0FA78E
+542E FE00; FSung-Academic; FS0F365C
+542E FE01; FSung-Academic; FS0FA78E

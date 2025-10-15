@@ -1,2 +1,2 @@
-5718 FE00; FSung-Academic; FS0F3AE6 # Term: FS0F3AE6
-5718 FE01; FSung-Academic; FS0F57F0 # Term: FS0F57F0
+5718 FE00; FSung-Academic; FS0F3AE6
+5718 FE01; FSung-Academic; FS0F57F0

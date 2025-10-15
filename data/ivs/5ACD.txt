@@ -1,2 +1,2 @@
-5ACD FE00; FSung-Academic; FS10419E # Term: FS10419E
-5ACD FE01; FSung-Academic; FS10419F # Term: FS10419F
+5ACD FE00; FSung-Academic; FS10419E
+5ACD FE01; FSung-Academic; FS10419F

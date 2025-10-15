@@ -1,2 +1,2 @@
-68C8 FE00; FSung-Academic; FS0FB1E2 # Term: FS0FB1E2
-68C8 FE01; FSung-Academic; FS10391C # Term: FS10391C
+68C8 FE00; FSung-Academic; FS0FB1E2
+68C8 FE01; FSung-Academic; FS10391C

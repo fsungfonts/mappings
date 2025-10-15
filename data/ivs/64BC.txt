@@ -1,2 +1,2 @@
-64BC FE00; FSung-Academic; FS1001B5 # Term: FS1001B5
-64BC FE01; FSung-Academic; FS1001B6 # Term: FS1001B6
+64BC FE00; FSung-Academic; FS1001B5
+64BC FE01; FSung-Academic; FS1001B6

@@ -1,2 +1,2 @@
-5279 FE00; FSung-Academic; FS0F668E # Term: FS0F668E
-5279 FE01; FSung-Academic; FS103A18 # Term: FS103A18
+5279 FE00; FSung-Academic; FS0F668E
+5279 FE01; FSung-Academic; FS103A18

@@ -1,2 +1,2 @@
-7B44 FE00; FSung-Academic; FS0FD684 # Term: FS0FD684
-7B44 FE01; FSung-Academic; FS1031BA # Term: FS1031BA
+7B44 FE00; FSung-Academic; FS0FD684
+7B44 FE01; FSung-Academic; FS1031BA

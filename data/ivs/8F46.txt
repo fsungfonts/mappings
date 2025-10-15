@@ -1,2 +1,2 @@
-8F46 FE00; FSung-Academic; FS0F5281 # Term: FS0F5281
-8F46 FE01; FSung-Academic; FS0FDE05 # Term: FS0FDE05
+8F46 FE00; FSung-Academic; FS0F5281
+8F46 FE01; FSung-Academic; FS0FDE05

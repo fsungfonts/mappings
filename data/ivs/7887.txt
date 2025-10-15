@@ -1,2 +1,2 @@
-7887 FE00; FSung-Academic; FS10311C # Term: FS10311C
-7887 FE01; FSung-Academic; FS10311D # Term: FS10311D
+7887 FE00; FSung-Academic; FS10311C
+7887 FE01; FSung-Academic; FS10311D

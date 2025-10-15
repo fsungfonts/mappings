@@ -1,2 +1,2 @@
-9181 FE00; FSung-Academic; FS0FDEBA # Term: FS0FDEBA
-9181 FE01; FSung-Academic; FS103773 # Term: FS103773
+9181 FE00; FSung-Academic; FS0FDEBA
+9181 FE01; FSung-Academic; FS103773

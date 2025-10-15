@@ -1,2 +1,2 @@
-5645 FE00; FSung-Academic; FS0FA2F4 # Term: FS0FA2F4
-5645 FE01; FSung-Academic; FS0FA744 # Term: FS0FA744
+5645 FE00; FSung-Academic; FS0FA2F4
+5645 FE01; FSung-Academic; FS0FA744

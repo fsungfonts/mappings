@@ -1,2 +1,2 @@
-8A7E FE00; FSung-Academic; FS0FE30C # Term: FS0FE30C
-8A7E FE01; FSung-Academic; FS10590C # Term: FS10590C
+8A7E FE00; FSung-Academic; FS0FE30C
+8A7E FE01; FSung-Academic; FS10590C

@@ -1,2 +1,2 @@
-7CF1 FE00; FSung-Academic; FS103213 # Term: FS103213
-7CF1 FE01; FSung-Academic; FS103214 # Term: FS103214
+7CF1 FE00; FSung-Academic; FS103213
+7CF1 FE01; FSung-Academic; FS103214

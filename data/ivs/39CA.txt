@@ -1,2 +1,2 @@
-39CA FE00; FSung-Academic; FS0FF098 # Term: FS0FF098
-39CA FE01; FSung-Academic; FS0FF0A3 # Term: FS0FF0A3
+39CA FE00; FSung-Academic; FS0FF098
+39CA FE01; FSung-Academic; FS0FF0A3

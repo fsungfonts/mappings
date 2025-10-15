@@ -1,2 +1,2 @@
-5851 FE00; FSung-Academic; FS0F5F7F # Term: FS0F5F7F
-5851 FE01; FSung-Academic; FS0F5F80 # Term: FS0F5F80
+5851 FE00; FSung-Academic; FS0F5F7F
+5851 FE01; FSung-Academic; FS0F5F80

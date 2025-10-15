@@ -1,2 +1,2 @@
-73E6 FE00; FSung-Academic; FS104754 # Term: FS104754
-73E6 FE01; FSung-Academic; FS104755 # Term: FS104755
+73E6 FE00; FSung-Academic; FS104754
+73E6 FE01; FSung-Academic; FS104755

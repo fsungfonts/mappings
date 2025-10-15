@@ -1,2 +1,2 @@
-71E3 FE00; FSung-Academic; FS1046B6 # Term: FS1046B6
-71E3 FE01; FSung-Academic; FS1046B7 # Term: FS1046B7
+71E3 FE00; FSung-Academic; FS1046B6
+71E3 FE01; FSung-Academic; FS1046B7

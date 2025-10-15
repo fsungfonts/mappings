@@ -1,2 +1,2 @@
-5DA7 FE00; FSung-Academic; FS1020A2 # Term: FS1020A2
-5DA7 FE01; FSung-Academic; FS103B4E # Term: FS103B4E
+5DA7 FE00; FSung-Academic; FS1020A2
+5DA7 FE01; FSung-Academic; FS103B4E

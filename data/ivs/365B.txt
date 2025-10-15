@@ -1,2 +1,2 @@
-365B FE00; FSung-Academic; FS10411D # Term: FS10411D
-365B FE01; FSung-Academic; FS10411E # Term: FS10411E
+365B FE00; FSung-Academic; FS10411D
+365B FE01; FSung-Academic; FS10411E

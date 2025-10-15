@@ -1,2 +1,2 @@
-67EF FE00; FSung-Academic; FS1004D7 # Term: FS1004D7
-67EF FE01; FSung-Academic; FS1004D8 # Term: FS1004D8
+67EF FE00; FSung-Academic; FS1004D7
+67EF FE01; FSung-Academic; FS1004D8

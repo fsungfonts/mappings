@@ -1,2 +1,2 @@
-689E FE00; FSung-Academic; FS0F0518 # Term: FS0F0518
-689E FE01; FSung-Academic; FS103910 # Term: FS103910
+689E FE00; FSung-Academic; FS0F0518
+689E FE01; FSung-Academic; FS103910

@@ -1,2 +1,2 @@
-5C64 FE00; FSung-Academic; FS0F8633 # Term: FS0F8633
-5C64 FE01; FSung-Academic; FS0FFB56 # Term: FS0FFB56
+5C64 FE00; FSung-Academic; FS0F8633
+5C64 FE01; FSung-Academic; FS0FFB56

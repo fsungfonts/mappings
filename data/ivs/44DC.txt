@@ -1,2 +1,2 @@
-44DC FE00; FSung-Academic; FS0FCBF3 # Term: FS0FCBF3
-44DC FE01; FSung-Academic; FS104CA5 # Term: FS104CA5
+44DC FE00; FSung-Academic; FS0FCBF3
+44DC FE01; FSung-Academic; FS104CA5

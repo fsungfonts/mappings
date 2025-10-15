@@ -1,2 +1,2 @@
-89AF FE00; FSung-Academic; FS103591 # Term: FS103591
-89AF FE01; FSung-Academic; FS103592 # Term: FS103592
+89AF FE00; FSung-Academic; FS103591
+89AF FE01; FSung-Academic; FS103592

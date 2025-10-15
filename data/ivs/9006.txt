@@ -1,2 +1,2 @@
-9006 FE00; FSung-Academic; FS0F4A80 # Term: FS0F4A80
-9006 FE01; FSung-Academic; FS101FE9 # Term: FS101FE9
+9006 FE00; FSung-Academic; FS0F4A80
+9006 FE01; FSung-Academic; FS101FE9

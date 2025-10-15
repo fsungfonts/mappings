@@ -1,2 +1,2 @@
-4B3D FE00; FSung-Academic; FS0FEAF1 # Term: FS0FEAF1
-4B3D FE01; FSung-Academic; FS10531B # Term: FS10531B
+4B3D FE00; FSung-Academic; FS0FEAF1
+4B3D FE01; FSung-Academic; FS10531B

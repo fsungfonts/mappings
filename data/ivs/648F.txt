@@ -1,2 +1,2 @@
-648F FE00; FSung-Academic; FS0FF19D # Term: FS0FF19D
-648F FE01; FSung-Academic; FS102CF4 # Term: FS102CF4
+648F FE00; FSung-Academic; FS0FF19D
+648F FE01; FSung-Academic; FS102CF4

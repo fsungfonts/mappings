@@ -1,2 +1,2 @@
-4BDA FE00; FSung-Academic; FS0F0BDA # Term: FS0F0BDA
-4BDA FE01; FSung-Academic; FS1053F2 # Term: FS1053F2
+4BDA FE00; FSung-Academic; FS0F0BDA
+4BDA FE01; FSung-Academic; FS1053F2

@@ -1,2 +1,2 @@
-5E6F FE00; FSung-Academic; FS1042C5 # Term: FS1042C5
-5E6F FE01; FSung-Academic; FS1042C6 # Term: FS1042C6
+5E6F FE00; FSung-Academic; FS1042C5
+5E6F FE01; FSung-Academic; FS1042C6

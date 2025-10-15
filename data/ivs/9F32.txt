@@ -1,2 +1,2 @@
-9F32 FE00; FSung-Academic; FS103F63 # Term: FS103F63
-9F32 FE01; FSung-Academic; FS103F64 # Term: FS103F64
+9F32 FE00; FSung-Academic; FS103F63
+9F32 FE01; FSung-Academic; FS103F64

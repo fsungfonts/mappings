@@ -1,2 +1,2 @@
-3F09 FE00; FSung-Academic; FS0F09A1 # Term: FS0F09A1
-3F09 FE01; FSung-Academic; FS10478B # Term: FS10478B
+3F09 FE00; FSung-Academic; FS0F09A1
+3F09 FE01; FSung-Academic; FS10478B

@@ -1,2 +1,2 @@
-7E97 FE00; FSung-Academic; FS103285 # Term: FS103285
-7E97 FE01; FSung-Academic; FS103286 # Term: FS103286
+7E97 FE00; FSung-Academic; FS103285
+7E97 FE01; FSung-Academic; FS103286

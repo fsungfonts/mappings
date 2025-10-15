@@ -1,2 +1,2 @@
-4AA4 FE00; FSung-Academic; FS10529D # Term: FS10529D
-4AA4 FE01; FSung-Academic; FS10529E # Term: FS10529E
+4AA4 FE00; FSung-Academic; FS10529D
+4AA4 FE01; FSung-Academic; FS10529E

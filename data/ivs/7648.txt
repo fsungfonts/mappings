@@ -1,2 +1,2 @@
-7648 FE00; FSung-Academic; FS0FADD4 # Term: FS0FADD4
-7648 FE01; FSung-Academic; FS1030B7 # Term: FS1030B7
+7648 FE00; FSung-Academic; FS0FADD4
+7648 FE01; FSung-Academic; FS1030B7

@@ -1,2 +1,2 @@
-5E68 FE00; FSung-Academic; FS0F3E15 # Term: FS0F3E15
-5E68 FE01; FSung-Academic; FS0F3E23 # Term: FS0F3E23
+5E68 FE00; FSung-Academic; FS0F3E15
+5E68 FE01; FSung-Academic; FS0F3E23

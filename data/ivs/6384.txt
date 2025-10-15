@@ -1,2 +1,2 @@
-6384 FE00; FSung-Academic; FS1000F9 # Term: FS1000F9
-6384 FE01; FSung-Academic; FS1000FA # Term: FS1000FA
+6384 FE00; FSung-Academic; FS1000F9
+6384 FE01; FSung-Academic; FS1000FA

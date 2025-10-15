@@ -1,2 +1,2 @@
-8A59 FE00; FSung-Academic; FS1035BF # Term: FS1035BF
-8A59 FE01; FSung-Academic; FS1035C0 # Term: FS1035C0
+8A59 FE00; FSung-Academic; FS1035BF
+8A59 FE01; FSung-Academic; FS1035C0

@@ -1,2 +1,2 @@
-7765 FE00; FSung-Academic; FS0F6B3E # Term: FS0F6B3E
-7765 FE01; FSung-Academic; FS100E45 # Term: FS100E45
+7765 FE00; FSung-Academic; FS0F6B3E
+7765 FE01; FSung-Academic; FS100E45

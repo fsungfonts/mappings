@@ -1,2 +1,2 @@
-79AC FE00; FSung-Academic; FS103181 # Term: FS103181
-79AC FE01; FSung-Academic; FS103182 # Term: FS103182
+79AC FE00; FSung-Academic; FS103181
+79AC FE01; FSung-Academic; FS103182

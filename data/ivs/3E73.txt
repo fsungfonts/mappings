@@ -1,2 +1,2 @@
-3E73 FE00; FSung-Academic; FS10471D # Term: FS10471D
-3E73 FE01; FSung-Academic; FS10471E # Term: FS10471E
+3E73 FE00; FSung-Academic; FS10471D
+3E73 FE01; FSung-Academic; FS10471E

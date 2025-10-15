@@ -1,2 +1,2 @@
-86D4 FE00; FSung-Academic; FS101A1B # Term: FS101A1B
-86D4 FE01; FSung-Academic; FS101A1C # Term: FS101A1C
+86D4 FE00; FSung-Academic; FS101A1B
+86D4 FE01; FSung-Academic; FS101A1C

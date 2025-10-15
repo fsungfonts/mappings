@@ -1,2 +1,2 @@
-9C77 FE00; FSung-Academic; FS0FEDD2 # Term: FS0FEDD2
-9C77 FE01; FSung-Academic; FS103AB1 # Term: FS103AB1
+9C77 FE00; FSung-Academic; FS0FEDD2
+9C77 FE01; FSung-Academic; FS103AB1

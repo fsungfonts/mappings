@@ -1,2 +1,2 @@
-3789 FE00; FSung-Academic; FS10422B # Term: FS10422B
-3789 FE01; FSung-Academic; FS10422C # Term: FS10422C
+3789 FE00; FSung-Academic; FS10422B
+3789 FE01; FSung-Academic; FS10422C

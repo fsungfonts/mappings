@@ -1,2 +1,2 @@
-833F FE00; FSung-Academic; FS0F3074 # Term: FS0F3074
-833F FE01; FSung-Academic; FS0FEF7C # Term: FS0FEF7C
+833F FE00; FSung-Academic; FS0F3074
+833F FE01; FSung-Academic; FS0FEF7C

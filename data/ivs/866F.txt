@@ -1,2 +1,2 @@
-866F FE00; FSung-Academic; FS0F20D6 # Term: FS0F20D6
-866F FE01; FSung-Academic; FS10348D # Term: FS10348D
+866F FE00; FSung-Academic; FS0F20D6
+866F FE01; FSung-Academic; FS10348D

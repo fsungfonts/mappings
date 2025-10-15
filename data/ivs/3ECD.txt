@@ -1,2 +1,2 @@
-3ECD FE00; FSung-Academic; FS104759 # Term: FS104759
-3ECD FE01; FSung-Academic; FS10475A # Term: FS10475A
+3ECD FE00; FSung-Academic; FS104759
+3ECD FE01; FSung-Academic; FS10475A

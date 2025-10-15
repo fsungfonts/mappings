@@ -1,2 +1,2 @@
-4EDE FE00; FSung-Academic; FS0F6836 # Term: FS0F6836
-4EDE FE01; FSung-Academic; FS0F6837 # Term: FS0F6837
+4EDE FE00; FSung-Academic; FS0F6836
+4EDE FE01; FSung-Academic; FS0F6837

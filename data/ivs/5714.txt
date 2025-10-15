@@ -1,2 +1,2 @@
-5714 FE00; FSung-Academic; FS0F3B0C # Term: FS0F3B0C
-5714 FE01; FSung-Academic; FS0F3B10 # Term: FS0F3B10
+5714 FE00; FSung-Academic; FS0F3B0C
+5714 FE01; FSung-Academic; FS0F3B10

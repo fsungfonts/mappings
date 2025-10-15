@@ -1,2 +1,2 @@
-6B49 FE00; FSung-Academic; FS100681 # Term: FS100681
-6B49 FE01; FSung-Academic; FS100682 # Term: FS100682
+6B49 FE00; FSung-Academic; FS100681
+6B49 FE01; FSung-Academic; FS100682

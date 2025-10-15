@@ -1,2 +1,2 @@
-67BB FE00; FSung-Academic; FS0F52D6 # Term: FS0F52D6
-67BB FE01; FSung-Academic; FS0FB11F # Term: FS0FB11F
+67BB FE00; FSung-Academic; FS0F52D6
+67BB FE01; FSung-Academic; FS0FB11F

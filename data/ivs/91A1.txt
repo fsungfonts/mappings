@@ -1,2 +1,2 @@
-91A1 FE00; FSung-Academic; FS10508A # Term: FS10508A
-91A1 FE01; FSung-Academic; FS10508B # Term: FS10508B
+91A1 FE00; FSung-Academic; FS10508A
+91A1 FE01; FSung-Academic; FS10508B

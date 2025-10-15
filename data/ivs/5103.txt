@@ -1,2 +1,2 @@
-5103 FE00; FSung-Academic; FS1029B1 # Term: FS1029B1
-5103 FE01; FSung-Academic; FS1029B2 # Term: FS1029B2
+5103 FE00; FSung-Academic; FS1029B1
+5103 FE01; FSung-Academic; FS1029B2

@@ -1,2 +1,2 @@
-617E FE00; FSung-Academic; FS0FC67C # Term: FS0FC67C
-617E FE01; FSung-Academic; FS0FFF42 # Term: FS0FFF42
+617E FE00; FSung-Academic; FS0FC67C
+617E FE01; FSung-Academic; FS0FFF42

@@ -1,2 +1,2 @@
-68E7 FE00; FSung-Academic; FS100560 # Term: FS100560
-68E7 FE01; FSung-Academic; FS100561 # Term: FS100561
+68E7 FE00; FSung-Academic; FS100560
+68E7 FE01; FSung-Academic; FS100561

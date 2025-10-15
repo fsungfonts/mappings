@@ -1,2 +1,2 @@
-5412 FE00; FSung-Academic; FS0F364E # Term: FS0F364E
-5412 FE01; FSung-Academic; FS0F36C4 # Term: FS0F36C4
+5412 FE00; FSung-Academic; FS0F364E
+5412 FE01; FSung-Academic; FS0F36C4

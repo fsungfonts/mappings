@@ -1,2 +1,2 @@
-7B19 FE00; FSung-Academic; FS0F0A0C # Term: FS0F0A0C
-7B19 FE01; FSung-Academic; FS101106 # Term: FS101106
+7B19 FE00; FSung-Academic; FS0F0A0C
+7B19 FE01; FSung-Academic; FS101106

@@ -1,2 +1,2 @@
-909B FE00; FSung-Academic; FS10371E # Term: FS10371E
-909B FE01; FSung-Academic; FS10371F # Term: FS10371F
+909B FE00; FSung-Academic; FS10371E
+909B FE01; FSung-Academic; FS10371F

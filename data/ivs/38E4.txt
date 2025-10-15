@@ -1,2 +1,2 @@
-38E4 FE00; FSung-Academic; FS104338 # Term: FS104338
-38E4 FE01; FSung-Academic; FS104339 # Term: FS104339
+38E4 FE00; FSung-Academic; FS104338
+38E4 FE01; FSung-Academic; FS104339

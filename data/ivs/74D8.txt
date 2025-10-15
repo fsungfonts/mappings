@@ -1,2 +1,2 @@
-74D8 FE00; FSung-Academic; FS0FC757 # Term: FS0FC757
-74D8 FE01; FSung-Academic; FS103049 # Term: FS103049
+74D8 FE00; FSung-Academic; FS0FC757
+74D8 FE01; FSung-Academic; FS103049

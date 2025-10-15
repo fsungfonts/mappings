@@ -1,2 +1,2 @@
-9C78 FE00; FSung-Academic; FS102777 # Term: FS102777
-9C78 FE01; FSung-Academic; FS102778 # Term: FS102778
+9C78 FE00; FSung-Academic; FS102777
+9C78 FE01; FSung-Academic; FS102778

@@ -1,2 +1,2 @@
-8DCC FE00; FSung-Academic; FS101E8A # Term: FS101E8A
-8DCC FE01; FSung-Academic; FS101E8B # Term: FS101E8B
+8DCC FE00; FSung-Academic; FS101E8A
+8DCC FE01; FSung-Academic; FS101E8B

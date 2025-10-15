@@ -1,2 +1,2 @@
-916A FE00; FSung-Academic; FS10217B # Term: FS10217B
-916A FE01; FSung-Academic; FS10217C # Term: FS10217C
+916A FE00; FSung-Academic; FS10217B
+916A FE01; FSung-Academic; FS10217C

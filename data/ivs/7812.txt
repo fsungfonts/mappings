@@ -1,2 +1,2 @@
-7812 FE00; FSung-Academic; FS10310A # Term: FS10310A
-7812 FE01; FSung-Academic; FS10310B # Term: FS10310B
+7812 FE00; FSung-Academic; FS10310A
+7812 FE01; FSung-Academic; FS10310B

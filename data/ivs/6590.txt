@@ -1,2 +1,2 @@
-6590 FE00; FSung-Academic; FS1002F2 # Term: FS1002F2
-6590 FE01; FSung-Academic; FS1002F3 # Term: FS1002F3
+6590 FE00; FSung-Academic; FS1002F2
+6590 FE01; FSung-Academic; FS1002F3

@@ -1,2 +1,2 @@
-7A84 FE00; FSung-Academic; FS101073 # Term: FS101073
-7A84 FE01; FSung-Academic; FS101074 # Term: FS101074
+7A84 FE00; FSung-Academic; FS101073
+7A84 FE01; FSung-Academic; FS101074

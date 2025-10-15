@@ -1,2 +1,2 @@
-4821 FE00; FSung-Academic; FS0FE139 # Term: FS0FE139
-4821 FE01; FSung-Academic; FS104FBF # Term: FS104FBF
+4821 FE00; FSung-Academic; FS0FE139
+4821 FE01; FSung-Academic; FS104FBF

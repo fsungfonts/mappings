@@ -1,2 +1,2 @@
-3B6D FE00; FSung-Academic; FS103905 # Term: FS103905
-3B6D FE01; FSung-Academic; FS103911 # Term: FS103911
+3B6D FE00; FSung-Academic; FS103905
+3B6D FE01; FSung-Academic; FS103911

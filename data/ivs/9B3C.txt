@@ -1,2 +1,2 @@
-9B3C FE00; FSung-Academic; FS0F0BDC # Term: FS0F0BDC
-9B3C FE01; FSung-Academic; FS0FFD19 # Term: FS0FFD19
+9B3C FE00; FSung-Academic; FS0F0BDC
+9B3C FE01; FSung-Academic; FS0FFD19

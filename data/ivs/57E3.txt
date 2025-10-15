@@ -1,2 +1,2 @@
-57E3 FE00; FSung-Academic; FS0F2DC7 # Term: FS0F2DC7
-57E3 FE01; FSung-Academic; FS10410D # Term: FS10410D
+57E3 FE00; FSung-Academic; FS0F2DC7
+57E3 FE01; FSung-Academic; FS10410D

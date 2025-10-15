@@ -1,2 +1,2 @@
-5030 FE00; FSung-Academic; FS0F1A69 # Term: FS0F1A69
-5030 FE01; FSung-Academic; FS102976 # Term: FS102976
+5030 FE00; FSung-Academic; FS0F1A69
+5030 FE01; FSung-Academic; FS102976

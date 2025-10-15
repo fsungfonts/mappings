@@ -1,2 +1,2 @@
-95B0 FE00; FSung-Academic; FS10515F # Term: FS10515F
-95B0 FE01; FSung-Academic; FS105160 # Term: FS105160
+95B0 FE00; FSung-Academic; FS10515F
+95B0 FE01; FSung-Academic; FS105160

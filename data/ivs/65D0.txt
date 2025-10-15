@@ -1,2 +1,2 @@
-65D0 FE00; FSung-Academic; FS0F226F # Term: FS0F226F
-65D0 FE01; FSung-Academic; FS0F51DA # Term: FS0F51DA
+65D0 FE00; FSung-Academic; FS0F226F
+65D0 FE01; FSung-Academic; FS0F51DA

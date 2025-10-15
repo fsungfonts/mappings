@@ -1,2 +1,2 @@
-8D79 FE00; FSung-Academic; FS0F0AFB # Term: FS0F0AFB
-8D79 FE01; FSung-Academic; FS0FB687 # Term: FS0FB687
+8D79 FE00; FSung-Academic; FS0F0AFB
+8D79 FE01; FSung-Academic; FS0FB687

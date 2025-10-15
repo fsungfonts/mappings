@@ -1,2 +1,2 @@
-8F48 FE00; FSung-Academic; FS0F0B17 # Term: FS0F0B17
-8F48 FE01; FSung-Academic; FS0FDE1D # Term: FS0FDE1D
+8F48 FE00; FSung-Academic; FS0F0B17
+8F48 FE01; FSung-Academic; FS0FDE1D

@@ -1,2 +1,2 @@
-5832 FE00; FSung-Academic; FS102AC4 # Term: FS102AC4
-5832 FE01; FSung-Academic; FS102AC5 # Term: FS102AC5
+5832 FE00; FSung-Academic; FS102AC4
+5832 FE01; FSung-Academic; FS102AC5

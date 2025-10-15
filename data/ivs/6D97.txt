@@ -1,2 +1,2 @@
-6D97 FE00; FSung-Academic; FS0F0F92 # Term: FS0F0F92
-6D97 FE01; FSung-Academic; FS102EBF # Term: FS102EBF
+6D97 FE00; FSung-Academic; FS0F0F92
+6D97 FE01; FSung-Academic; FS102EBF

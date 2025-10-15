@@ -1,2 +1,2 @@
-4FEF FE00; FSung-Academic; FS0F68F6 # Term: FS0F68F6
-4FEF FE01; FSung-Academic; FS0F68F7 # Term: FS0F68F7
+4FEF FE00; FSung-Academic; FS0F68F6
+4FEF FE01; FSung-Academic; FS0F68F7

@@ -1,2 +1,2 @@
-3D81 FE00; FSung-Academic; FS0F0824 # Term: FS0F0824
-3D81 FE01; FSung-Academic; FS10595E # Term: FS10595E
+3D81 FE00; FSung-Academic; FS0F0824
+3D81 FE01; FSung-Academic; FS10595E

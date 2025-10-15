@@ -1,2 +1,2 @@
-666C FE00; FSung-Academic; FS0F07CB # Term: FS0F07CB
-666C FE01; FSung-Academic; FS102D61 # Term: FS102D61
+666C FE00; FSung-Academic; FS0F07CB
+666C FE01; FSung-Academic; FS102D61

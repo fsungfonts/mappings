@@ -1,2 +1,2 @@
-6A88 FE00; FSung-Academic; FS10450A # Term: FS10450A
-6A88 FE01; FSung-Academic; FS10450B # Term: FS10450B
+6A88 FE00; FSung-Academic; FS10450A
+6A88 FE01; FSung-Academic; FS10450B

@@ -1,2 +1,2 @@
-9742 FE00; FSung-Academic; FS0F5D81 # Term: FS0F5D81
-9742 FE01; FSung-Academic; FS0F6FA5 # Term: FS0F6FA5
+9742 FE00; FSung-Academic; FS0F5D81
+9742 FE01; FSung-Academic; FS0F6FA5

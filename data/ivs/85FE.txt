@@ -1,2 +1,2 @@
-85FE FE00; FSung-Academic; FS103453 # Term: FS103453
-85FE FE01; FSung-Academic; FS103454 # Term: FS103454
+85FE FE00; FSung-Academic; FS103453
+85FE FE01; FSung-Academic; FS103454

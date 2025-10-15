@@ -1,2 +1,2 @@
-47E1 FE00; FSung-Academic; FS0F0B58 # Term: FS0F0B58
-47E1 FE01; FSung-Academic; FS104F9E # Term: FS104F9E
+47E1 FE00; FSung-Academic; FS0F0B58
+47E1 FE01; FSung-Academic; FS104F9E

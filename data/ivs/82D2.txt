@@ -1,2 +1,2 @@
-82D2 FE00; FSung-Academic; FS10172B # Term: FS10172B
-82D2 FE01; FSung-Academic; FS10172C # Term: FS10172C
+82D2 FE00; FSung-Academic; FS10172B
+82D2 FE01; FSung-Academic; FS10172C

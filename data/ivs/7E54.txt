@@ -1,2 +1,2 @@
-7E54 FE00; FSung-Academic; FS0F500A # Term: FS0F500A
-7E54 FE01; FSung-Academic; FS1012B3 # Term: FS1012B3
+7E54 FE00; FSung-Academic; FS0F500A
+7E54 FE01; FSung-Academic; FS1012B3

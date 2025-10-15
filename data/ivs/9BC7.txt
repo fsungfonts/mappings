@@ -1,2 +1,2 @@
-9BC7 FE00; FSung-Academic; FS103DDC # Term: FS103DDC
-9BC7 FE01; FSung-Academic; FS103DDD # Term: FS103DDD
+9BC7 FE00; FSung-Academic; FS103DDC
+9BC7 FE01; FSung-Academic; FS103DDD

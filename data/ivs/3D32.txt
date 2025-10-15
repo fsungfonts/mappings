@@ -1,2 +1,2 @@
-3D32 FE00; FSung-Academic; FS104613 # Term: FS104613
-3D32 FE01; FSung-Academic; FS104614 # Term: FS104614
+3D32 FE00; FSung-Academic; FS104613
+3D32 FE01; FSung-Academic; FS104614

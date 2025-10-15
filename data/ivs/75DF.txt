@@ -1,2 +1,2 @@
-75DF FE00; FSung-Academic; FS103095 # Term: FS103095
-75DF FE01; FSung-Academic; FS103096 # Term: FS103096
+75DF FE00; FSung-Academic; FS103095
+75DF FE01; FSung-Academic; FS103096

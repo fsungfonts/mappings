@@ -1,2 +1,2 @@
-75B6 FE00; FSung-Academic; FS0FCEE1 # Term: FS0FCEE1
-75B6 FE01; FSung-Academic; FS1047F0 # Term: FS1047F0
+75B6 FE00; FSung-Academic; FS0FCEE1
+75B6 FE01; FSung-Academic; FS1047F0

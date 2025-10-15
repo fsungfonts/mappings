@@ -1,2 +1,2 @@
-5AB7 FE00; FSung-Academic; FS10419B # Term: FS10419B
-5AB7 FE01; FSung-Academic; FS10419C # Term: FS10419C
+5AB7 FE00; FSung-Academic; FS10419B
+5AB7 FE01; FSung-Academic; FS10419C

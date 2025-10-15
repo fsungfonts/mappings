@@ -1,2 +1,2 @@
-8578 FE00; FSung-Academic; FS10341C # Term: FS10341C
-8578 FE01; FSung-Academic; FS10341D # Term: FS10341D
+8578 FE00; FSung-Academic; FS10341C
+8578 FE01; FSung-Academic; FS10341D

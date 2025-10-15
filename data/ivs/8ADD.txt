@@ -1,2 +1,2 @@
-8ADD FE00; FSung-Academic; FS0F4754 # Term: FS0F4754
-8ADD FE01; FSung-Academic; FS1035D2 # Term: FS1035D2
+8ADD FE00; FSung-Academic; FS0F4754
+8ADD FE01; FSung-Academic; FS1035D2

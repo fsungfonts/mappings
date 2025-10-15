@@ -1,2 +1,2 @@
-4058 FE00; FSung-Academic; FS0F7644 # Term: FS0F7644
-4058 FE01; FSung-Academic; FS10489F # Term: FS10489F
+4058 FE00; FSung-Academic; FS0F7644
+4058 FE01; FSung-Academic; FS10489F

@@ -1,2 +1,2 @@
-95B6 FE00; FSung-Academic; FS103823 # Term: FS103823
-95B6 FE01; FSung-Academic; FS103824 # Term: FS103824
+95B6 FE00; FSung-Academic; FS103823
+95B6 FE01; FSung-Academic; FS103824

@@ -1,2 +1,2 @@
-936E FE00; FSung-Academic; FS0F877C # Term: FS0F877C
-936E FE01; FSung-Academic; FS1050D6 # Term: FS1050D6
+936E FE00; FSung-Academic; FS0F877C
+936E FE01; FSung-Academic; FS1050D6

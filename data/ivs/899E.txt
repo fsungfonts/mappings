@@ -1,2 +1,2 @@
-899E FE00; FSung-Academic; FS104E64 # Term: FS104E64
-899E FE01; FSung-Academic; FS104E65 # Term: FS104E65
+899E FE00; FSung-Academic; FS104E64
+899E FE01; FSung-Academic; FS104E65

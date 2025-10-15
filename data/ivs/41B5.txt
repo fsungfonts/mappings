@@ -1,2 +1,2 @@
-41B5 FE00; FSung-Academic; FS0FD17C # Term: FS0FD17C
-41B5 FE01; FSung-Academic; FS1049F1 # Term: FS1049F1
+41B5 FE00; FSung-Academic; FS0FD17C
+41B5 FE01; FSung-Academic; FS1049F1

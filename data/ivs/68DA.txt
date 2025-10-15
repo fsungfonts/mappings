@@ -1,2 +1,2 @@
-68DA FE00; FSung-Academic; FS0FB294 # Term: FS0FB294
-68DA FE01; FSung-Academic; FS100571 # Term: FS100571
+68DA FE00; FSung-Academic; FS0FB294
+68DA FE01; FSung-Academic; FS100571

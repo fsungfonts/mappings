@@ -1,2 +1,2 @@
-9644 FE00; FSung-Academic; FS0F262D # Term: FS0F262D
-9644 FE01; FSung-Academic; FS102322 # Term: FS102322
+9644 FE00; FSung-Academic; FS0F262D
+9644 FE01; FSung-Academic; FS102322

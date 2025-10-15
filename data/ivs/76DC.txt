@@ -1,2 +1,2 @@
-76DC FE00; FSung-Academic; FS0F2A1B # Term: FS0F2A1B
-76DC FE01; FSung-Academic; FS100DD0 # Term: FS100DD0
+76DC FE00; FSung-Academic; FS0F2A1B
+76DC FE01; FSung-Academic; FS100DD0

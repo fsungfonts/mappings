@@ -1,2 +1,2 @@
-675F FE00; FSung-Academic; FS1004AB # Term: FS1004AB
-675F FE01; FSung-Academic; FS1004AC # Term: FS1004AC
+675F FE00; FSung-Academic; FS1004AB
+675F FE01; FSung-Academic; FS1004AC

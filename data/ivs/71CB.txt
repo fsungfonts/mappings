@@ -1,2 +1,2 @@
-71CB FE00; FSung-Academic; FS0FACA2 # Term: FS0FACA2
-71CB FE01; FSung-Academic; FS102F9B # Term: FS102F9B
+71CB FE00; FSung-Academic; FS0FACA2
+71CB FE01; FSung-Academic; FS102F9B

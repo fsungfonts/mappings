@@ -1,2 +1,2 @@
-8431 FE00; FSung-Academic; FS0F5905 # Term: FS0F5905
-8431 FE01; FSung-Academic; FS1017F1 # Term: FS1017F1
+8431 FE00; FSung-Academic; FS0F5905
+8431 FE01; FSung-Academic; FS1017F1

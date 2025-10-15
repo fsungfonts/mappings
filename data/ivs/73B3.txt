@@ -1,2 +1,2 @@
-73B3 FE00; FSung-Academic; FS100BFA # Term: FS100BFA
-73B3 FE01; FSung-Academic; FS1045CD # Term: FS1045CD
+73B3 FE00; FSung-Academic; FS100BFA
+73B3 FE01; FSung-Academic; FS1045CD

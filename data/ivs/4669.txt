@@ -1,2 +1,2 @@
-4669 FE00; FSung-Academic; FS104E4F # Term: FS104E4F
-4669 FE01; FSung-Academic; FS104E50 # Term: FS104E50
+4669 FE00; FSung-Academic; FS104E4F
+4669 FE01; FSung-Academic; FS104E50

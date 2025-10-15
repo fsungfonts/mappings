@@ -1,2 +1,2 @@
-3E3B FE00; FSung-Academic; FS1046F7 # Term: FS1046F7
-3E3B FE01; FSung-Academic; FS1046F8 # Term: FS1046F8
+3E3B FE00; FSung-Academic; FS1046F7
+3E3B FE01; FSung-Academic; FS1046F8

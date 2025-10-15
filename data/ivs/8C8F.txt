@@ -1,2 +1,2 @@
-8C8F FE00; FSung-Academic; FS10363D # Term: FS10363D
-8C8F FE01; FSung-Academic; FS10363E # Term: FS10363E
+8C8F FE00; FSung-Academic; FS10363D
+8C8F FE01; FSung-Academic; FS10363E

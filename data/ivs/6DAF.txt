@@ -1,2 +1,2 @@
-6DAF FE00; FSung-Academic; FS0F6C66 # Term: FS0F6C66
-6DAF FE01; FSung-Academic; FS0F6CF3 # Term: FS0F6CF3
+6DAF FE00; FSung-Academic; FS0F6C66
+6DAF FE01; FSung-Academic; FS0F6CF3

@@ -1,2 +1,2 @@
-750C FE00; FSung-Academic; FS0F0C99 # Term: FS0F0C99
-750C FE01; FSung-Academic; FS100C9D # Term: FS100C9D
+750C FE00; FSung-Academic; FS0F0C99
+750C FE01; FSung-Academic; FS100C9D

@@ -1,2 +1,2 @@
-7D71 FE00; FSung-Academic; FS1011F4 # Term: FS1011F4
-7D71 FE01; FSung-Academic; FS1011F5 # Term: FS1011F5
+7D71 FE00; FSung-Academic; FS1011F4
+7D71 FE01; FSung-Academic; FS1011F5

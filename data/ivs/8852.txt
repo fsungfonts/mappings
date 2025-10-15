@@ -1,2 +1,2 @@
-8852 FE00; FSung-Academic; FS0FADBA # Term: FS0FADBA
-8852 FE01; FSung-Academic; FS10354C # Term: FS10354C
+8852 FE00; FSung-Academic; FS0FADBA
+8852 FE01; FSung-Academic; FS10354C

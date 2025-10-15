@@ -1,2 +1,2 @@
-3680 FE00; FSung-Academic; FS104141 # Term: FS104141
-3680 FE01; FSung-Academic; FS104142 # Term: FS104142
+3680 FE00; FSung-Academic; FS104141
+3680 FE01; FSung-Academic; FS104142

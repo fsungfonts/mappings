@@ -1,2 +1,2 @@
-993F FE00; FSung-Academic; FS0FEB25 # Term: FS0FEB25
-993F FE01; FSung-Academic; FS102616 # Term: FS102616
+993F FE00; FSung-Academic; FS0FEB25
+993F FE01; FSung-Academic; FS102616

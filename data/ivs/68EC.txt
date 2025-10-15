@@ -1,2 +1,2 @@
-68EC FE00; FSung-Academic; FS102DB4 # Term: FS102DB4
-68EC FE01; FSung-Academic; FS102DB5 # Term: FS102DB5
+68EC FE00; FSung-Academic; FS102DB4
+68EC FE01; FSung-Academic; FS102DB5

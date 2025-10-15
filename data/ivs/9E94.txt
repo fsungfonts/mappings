@@ -1,2 +1,2 @@
-9E94 FE00; FSung-Academic; FS103EA4 # Term: FS103EA4
-9E94 FE01; FSung-Academic; FS103EA5 # Term: FS103EA5
+9E94 FE00; FSung-Academic; FS103EA4
+9E94 FE01; FSung-Academic; FS103EA5

@@ -1,2 +1,2 @@
-9390 FE00; FSung-Academic; FS0FE770 # Term: FS0FE770
-9390 FE01; FSung-Academic; FS1050E2 # Term: FS1050E2
+9390 FE00; FSung-Academic; FS0FE770
+9390 FE01; FSung-Academic; FS1050E2

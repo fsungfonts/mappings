@@ -1,2 +1,2 @@
-9B39 FE00; FSung-Academic; FS1054F0 # Term: FS1054F0
-9B39 FE01; FSung-Academic; FS1054F1 # Term: FS1054F1
+9B39 FE00; FSung-Academic; FS1054F0
+9B39 FE01; FSung-Academic; FS1054F1

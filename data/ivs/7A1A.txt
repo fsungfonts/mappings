@@ -1,2 +1,2 @@
-7A1A FE00; FSung-Academic; FS0F97FC # Term: FS0F97FC
-7A1A FE01; FSung-Academic; FS100FDE # Term: FS100FDE
+7A1A FE00; FSung-Academic; FS0F97FC
+7A1A FE01; FSung-Academic; FS100FDE

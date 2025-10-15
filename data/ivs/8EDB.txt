@@ -1,2 +1,2 @@
-8EDB FE00; FSung-Academic; FS0F0B14 # Term: FS0F0B14
-8EDB FE01; FSung-Academic; FS101F14 # Term: FS101F14
+8EDB FE00; FSung-Academic; FS0F0B14
+8EDB FE01; FSung-Academic; FS101F14

@@ -1,2 +1,2 @@
-5A47 FE00; FSung-Academic; FS0F4F9D # Term: FS0F4F9D
-5A47 FE01; FSung-Academic; FS104180 # Term: FS104180
+5A47 FE00; FSung-Academic; FS0F4F9D
+5A47 FE01; FSung-Academic; FS104180

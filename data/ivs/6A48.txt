@@ -1,2 +1,2 @@
-6A48 FE00; FSung-Academic; FS0FB226 # Term: FS0FB226
-6A48 FE01; FSung-Academic; FS102DFA # Term: FS102DFA
+6A48 FE00; FSung-Academic; FS0FB226
+6A48 FE01; FSung-Academic; FS102DFA

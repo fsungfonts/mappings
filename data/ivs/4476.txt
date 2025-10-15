@@ -1,2 +1,2 @@
-4476 FE00; FSung-Academic; FS104C51 # Term: FS104C51
-4476 FE01; FSung-Academic; FS104C52 # Term: FS104C52
+4476 FE00; FSung-Academic; FS104C51
+4476 FE01; FSung-Academic; FS104C52

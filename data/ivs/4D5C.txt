@@ -1,2 +1,2 @@
-4D5C FE00; FSung-Academic; FS10571A # Term: FS10571A
-4D5C FE01; FSung-Academic; FS10571B # Term: FS10571B
+4D5C FE00; FSung-Academic; FS10571A
+4D5C FE01; FSung-Academic; FS10571B

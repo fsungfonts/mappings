@@ -1,2 +1,2 @@
-7A6E FE00; FSung-Academic; FS0FCDED # Term: FS0FCDED
-7A6E FE01; FSung-Academic; FS1031A3 # Term: FS1031A3
+7A6E FE00; FSung-Academic; FS0FCDED
+7A6E FE01; FSung-Academic; FS1031A3

@@ -1,2 +1,2 @@
-968E FE00; FSung-Academic; FS0F8E4A # Term: FS0F8E4A
-968E FE01; FSung-Academic; FS0FAE74 # Term: FS0FAE74
+968E FE00; FSung-Academic; FS0F8E4A
+968E FE01; FSung-Academic; FS0FAE74

@@ -1,2 +1,2 @@
-699B FE00; FSung-Academic; FS1005C5 # Term: FS1005C5
-699B FE01; FSung-Academic; FS1005C6 # Term: FS1005C6
+699B FE00; FSung-Academic; FS1005C5
+699B FE01; FSung-Academic; FS1005C6

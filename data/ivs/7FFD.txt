@@ -1,2 +1,2 @@
-7FFD FE00; FSung-Academic; FS10330A # Term: FS10330A
-7FFD FE01; FSung-Academic; FS10330B # Term: FS10330B
+7FFD FE00; FSung-Academic; FS10330A
+7FFD FE01; FSung-Academic; FS10330B

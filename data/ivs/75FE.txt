@@ -1,2 +1,2 @@
-75FE FE00; FSung-Academic; FS10309A # Term: FS10309A
-75FE FE01; FSung-Academic; FS10309B # Term: FS10309B
+75FE FE00; FSung-Academic; FS10309A
+75FE FE01; FSung-Academic; FS10309B

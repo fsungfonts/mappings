@@ -1,2 +1,2 @@
-4B82 FE00; FSung-Academic; FS1053AB # Term: FS1053AB
-4B82 FE01; FSung-Academic; FS1053AC # Term: FS1053AC
+4B82 FE00; FSung-Academic; FS1053AB
+4B82 FE01; FSung-Academic; FS1053AC

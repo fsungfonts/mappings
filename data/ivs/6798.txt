@@ -1,2 +1,2 @@
-6798 FE00; FSung-Academic; FS1021E6 # Term: FS1021E6
-6798 FE01; FSung-Academic; FS102DA0 # Term: FS102DA0
+6798 FE00; FSung-Academic; FS1021E6
+6798 FE01; FSung-Academic; FS102DA0

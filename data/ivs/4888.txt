@@ -1,2 +1,2 @@
-4888 FE00; FSung-Academic; FS101FAD # Term: FS101FAD
-4888 FE01; FSung-Academic; FS105015 # Term: FS105015
+4888 FE00; FSung-Academic; FS101FAD
+4888 FE01; FSung-Academic; FS105015

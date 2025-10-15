@@ -1,2 +1,2 @@
-4265 FE00; FSung-Academic; FS0F6667 # Term: FS0F6667
-4265 FE01; FSung-Academic; FS104A7A # Term: FS104A7A
+4265 FE00; FSung-Academic; FS0F6667
+4265 FE01; FSung-Academic; FS104A7A

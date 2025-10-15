@@ -1,2 +1,2 @@
-4C06 FE00; FSung-Academic; FS105460 # Term: FS105460
-4C06 FE01; FSung-Academic; FS105461 # Term: FS105461
+4C06 FE00; FSung-Academic; FS105460
+4C06 FE01; FSung-Academic; FS105461

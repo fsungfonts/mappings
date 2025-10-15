@@ -1,2 +1,2 @@
-465F FE00; FSung-Academic; FS0F241B # Term: FS0F241B
-465F FE01; FSung-Academic; FS104E3C # Term: FS104E3C
+465F FE00; FSung-Academic; FS0F241B
+465F FE01; FSung-Academic; FS104E3C

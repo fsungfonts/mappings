@@ -1,2 +1,2 @@
-78BE FE00; FSung-Academic; FS0FC7BC # Term: FS0FC7BC
-78BE FE01; FSung-Academic; FS100ECA # Term: FS100ECA
+78BE FE00; FSung-Academic; FS0FC7BC
+78BE FE01; FSung-Academic; FS100ECA

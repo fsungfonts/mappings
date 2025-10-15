@@ -1,2 +1,2 @@
-752B FE00; FSung-Academic; FS100CB3 # Term: FS100CB3
-752B FE01; FSung-Academic; FS100CB4 # Term: FS100CB4
+752B FE00; FSung-Academic; FS100CB3
+752B FE01; FSung-Academic; FS100CB4

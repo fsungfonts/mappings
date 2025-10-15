@@ -1,2 +1,2 @@
-85D8 FE00; FSung-Academic; FS103449 # Term: FS103449
-85D8 FE01; FSung-Academic; FS10344A # Term: FS10344A
+85D8 FE00; FSung-Academic; FS103449
+85D8 FE01; FSung-Academic; FS10344A

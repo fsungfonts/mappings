@@ -1,2 +1,2 @@
-970D FE00; FSung-Academic; FS0FE663 # Term: FS0FE663
-970D FE01; FSung-Academic; FS0FF88C # Term: FS0FF88C
+970D FE00; FSung-Academic; FS0FE663
+970D FE01; FSung-Academic; FS0FF88C

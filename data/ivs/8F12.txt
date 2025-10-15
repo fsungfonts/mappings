@@ -1,2 +1,2 @@
-8F12 FE00; FSung-Academic; FS0F0B15 # Term: FS0F0B15
-8F12 FE01; FSung-Academic; FS101F2A # Term: FS101F2A
+8F12 FE00; FSung-Academic; FS0F0B15
+8F12 FE01; FSung-Academic; FS101F2A

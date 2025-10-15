@@ -1,2 +1,2 @@
-8FCD FE00; FSung-Academic; FS0F4A71 # Term: FS0F4A71
-8FCD FE01; FSung-Academic; FS1036FA # Term: FS1036FA
+8FCD FE00; FSung-Academic; FS0F4A71
+8FCD FE01; FSung-Academic; FS1036FA

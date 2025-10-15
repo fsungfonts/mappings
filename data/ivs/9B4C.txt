@@ -1,2 +1,2 @@
-9B4C FE00; FSung-Academic; FS103DB6 # Term: FS103DB6
-9B4C FE01; FSung-Academic; FS103DB7 # Term: FS103DB7
+9B4C FE00; FSung-Academic; FS103DB6
+9B4C FE01; FSung-Academic; FS103DB7

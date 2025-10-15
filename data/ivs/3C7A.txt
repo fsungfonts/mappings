@@ -1,2 +1,2 @@
-3C7A FE00; FSung-Academic; FS0FB4E3 # Term: FS0FB4E3
-3C7A FE01; FSung-Academic; FS1045BB # Term: FS1045BB
+3C7A FE00; FSung-Academic; FS0FB4E3
+3C7A FE01; FSung-Academic; FS1045BB

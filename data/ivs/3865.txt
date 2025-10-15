@@ -1,2 +1,2 @@
-3865 FE00; FSung-Academic; FS0F050B # Term: FS0F050B
-3865 FE01; FSung-Academic; FS0F3E14 # Term: FS0F3E14
+3865 FE00; FSung-Academic; FS0F050B
+3865 FE01; FSung-Academic; FS0F3E14

@@ -1,2 +1,2 @@
-4FDC FE00; FSung-Academic; FS102972 # Term: FS102972
-4FDC FE01; FSung-Academic; FS102973 # Term: FS102973
+4FDC FE00; FSung-Academic; FS102972
+4FDC FE01; FSung-Academic; FS102973

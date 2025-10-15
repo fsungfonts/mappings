@@ -1,2 +1,2 @@
-7E6A FE00; FSung-Academic; FS1012EC # Term: FS1012EC
-7E6A FE01; FSung-Academic; FS1012ED # Term: FS1012ED
+7E6A FE00; FSung-Academic; FS1012EC
+7E6A FE01; FSung-Academic; FS1012ED

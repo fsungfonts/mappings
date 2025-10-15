@@ -1,2 +1,2 @@
-68CB FE00; FSung-Academic; FS100568 # Term: FS100568
-68CB FE01; FSung-Academic; FS100569 # Term: FS100569
+68CB FE00; FSung-Academic; FS100568
+68CB FE01; FSung-Academic; FS100569

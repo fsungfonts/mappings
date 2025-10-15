@@ -1,2 +1,2 @@
-6DDD FE00; FSung-Academic; FS0F43FE # Term: FS0F43FE
-6DDD FE01; FSung-Academic; FS102ECE # Term: FS102ECE
+6DDD FE00; FSung-Academic; FS0F43FE
+6DDD FE01; FSung-Academic; FS102ECE

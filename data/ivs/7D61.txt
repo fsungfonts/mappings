@@ -1,2 +1,2 @@
-7D61 FE00; FSung-Academic; FS101216 # Term: FS101216
-7D61 FE01; FSung-Academic; FS101217 # Term: FS101217
+7D61 FE00; FSung-Academic; FS101216
+7D61 FE01; FSung-Academic; FS101217

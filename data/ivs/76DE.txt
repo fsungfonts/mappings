@@ -1,2 +1,2 @@
-76DE FE00; FSung-Academic; FS0FA232 # Term: FS0FA232
-76DE FE01; FSung-Academic; FS100DD1 # Term: FS100DD1
+76DE FE00; FSung-Academic; FS0FA232
+76DE FE01; FSung-Academic; FS100DD1

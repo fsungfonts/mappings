@@ -1,2 +1,2 @@
-87FC FE00; FSung-Academic; FS103523 # Term: FS103523
-87FC FE01; FSung-Academic; FS103524 # Term: FS103524
+87FC FE00; FSung-Academic; FS103523
+87FC FE01; FSung-Academic; FS103524

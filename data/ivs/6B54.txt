@@ -1,2 +1,2 @@
-6B54 FE00; FSung-Academic; FS0F51C8 # Term: FS0F51C8
-6B54 FE01; FSung-Academic; FS102E58 # Term: FS102E58
+6B54 FE00; FSung-Academic; FS0F51C8
+6B54 FE01; FSung-Academic; FS102E58

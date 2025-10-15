@@ -1,2 +1,2 @@
-83D1 FE00; FSung-Academic; FS0F0AB4 # Term: FS0F0AB4
-83D1 FE01; FSung-Academic; FS0FB89F # Term: FS0FB89F
+83D1 FE00; FSung-Academic; FS0F0AB4
+83D1 FE01; FSung-Academic; FS0FB89F

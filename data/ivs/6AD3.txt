@@ -1,2 +1,2 @@
-6AD3 FE00; FSung-Academic; FS0F0776 # Term: FS0F0776
-6AD3 FE01; FSung-Academic; FS0FB285 # Term: FS0FB285
+6AD3 FE00; FSung-Academic; FS0F0776
+6AD3 FE01; FSung-Academic; FS0FB285

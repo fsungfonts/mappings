@@ -1,2 +1,2 @@
-6F38 FE00; FSung-Academic; FS0F4464 # Term: FS0F4464
-6F38 FE01; FSung-Academic; FS1008A7 # Term: FS1008A7
+6F38 FE00; FSung-Academic; FS0F4464
+6F38 FE01; FSung-Academic; FS1008A7

@@ -1,2 +1,2 @@
-5EAE FE00; FSung-Academic; FS102BC0 # Term: FS102BC0
-5EAE FE01; FSung-Academic; FS102BC1 # Term: FS102BC1
+5EAE FE00; FSung-Academic; FS102BC0
+5EAE FE01; FSung-Academic; FS102BC1

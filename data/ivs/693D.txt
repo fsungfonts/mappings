@@ -1,2 +1,2 @@
-693D FE00; FSung-Academic; FS102DC4 # Term: FS102DC4
-693D FE01; FSung-Academic; FS102DC5 # Term: FS102DC5
+693D FE00; FSung-Academic; FS102DC4
+693D FE01; FSung-Academic; FS102DC5

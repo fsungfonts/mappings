@@ -1,2 +1,2 @@
-818D FE00; FSung-Academic; FS0F08D4 # Term: FS0F08D4
-818D FE01; FSung-Academic; FS103351 # Term: FS103351
+818D FE00; FSung-Academic; FS0F08D4
+818D FE01; FSung-Academic; FS103351

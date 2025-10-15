@@ -1,2 +1,2 @@
-76CE FE00; FSung-Academic; FS100DC5 # Term: FS100DC5
-76CE FE01; FSung-Academic; FS100DC6 # Term: FS100DC6
+76CE FE00; FSung-Academic; FS100DC5
+76CE FE01; FSung-Academic; FS100DC6

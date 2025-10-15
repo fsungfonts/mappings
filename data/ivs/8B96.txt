@@ -1,2 +1,2 @@
-8B96 FE00; FSung-Academic; FS0FE461 # Term: FS0FE461
-8B96 FE01; FSung-Academic; FS101D2C # Term: FS101D2C
+8B96 FE00; FSung-Academic; FS0FE461
+8B96 FE01; FSung-Academic; FS101D2C

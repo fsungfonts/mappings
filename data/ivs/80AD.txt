@@ -1,2 +1,2 @@
-80AD FE00; FSung-Academic; FS0F09CF # Term: FS0F09CF
-80AD FE01; FSung-Academic; FS104BB3 # Term: FS104BB3
+80AD FE00; FSung-Academic; FS0F09CF
+80AD FE01; FSung-Academic; FS104BB3

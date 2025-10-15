@@ -1,2 +1,2 @@
-6AED FE00; FSung-Academic; FS104517 # Term: FS104517
-6AED FE01; FSung-Academic; FS104518 # Term: FS104518
+6AED FE00; FSung-Academic; FS104517
+6AED FE01; FSung-Academic; FS104518

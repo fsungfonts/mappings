@@ -1,2 +1,2 @@
-82F4 FE00; FSung-Academic; FS0F31AA # Term: FS0F31AA
-82F4 FE01; FSung-Academic; FS103392 # Term: FS103392
+82F4 FE00; FSung-Academic; FS0F31AA
+82F4 FE01; FSung-Academic; FS103392

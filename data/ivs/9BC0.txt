@@ -1,2 +1,2 @@
-9BC0 FE00; FSung-Academic; FS0FEDAC # Term: FS0FEDAC
-9BC0 FE01; FSung-Academic; FS103DE2 # Term: FS103DE2
+9BC0 FE00; FSung-Academic; FS0FEDAC
+9BC0 FE01; FSung-Academic; FS103DE2

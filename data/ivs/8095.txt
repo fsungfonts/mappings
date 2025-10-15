@@ -1,2 +1,2 @@
-8095 FE00; FSung-Academic; FS0F09CC # Term: FS0F09CC
-8095 FE01; FSung-Academic; FS103325 # Term: FS103325
+8095 FE00; FSung-Academic; FS0F09CC
+8095 FE01; FSung-Academic; FS103325

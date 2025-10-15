@@ -1,2 +1,2 @@
-572D FE00; FSung-Academic; FS0F5C5C # Term: FS0F5C5C
-572D FE01; FSung-Academic; FS0F5C6C # Term: FS0F5C6C
+572D FE00; FSung-Academic; FS0F5C5C
+572D FE01; FSung-Academic; FS0F5C6C

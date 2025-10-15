@@ -1,2 +1,2 @@
-63AC FE00; FSung-Academic; FS0F356C # Term: FS0F356C
-63AC FE01; FSung-Academic; FS100107 # Term: FS100107
+63AC FE00; FSung-Academic; FS0F356C
+63AC FE01; FSung-Academic; FS100107

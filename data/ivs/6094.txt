@@ -1,2 +1,2 @@
-6094 FE00; FSung-Academic; FS0FFE5C # Term: FS0FFE5C
-6094 FE01; FSung-Academic; FS0FFE5D # Term: FS0FFE5D
+6094 FE00; FSung-Academic; FS0FFE5C
+6094 FE01; FSung-Academic; FS0FFE5D

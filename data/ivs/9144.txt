@@ -1,2 +1,2 @@
-9144 FE00; FSung-Academic; FS103757 # Term: FS103757
-9144 FE01; FSung-Academic; FS103758 # Term: FS103758
+9144 FE00; FSung-Academic; FS103757
+9144 FE01; FSung-Academic; FS103758

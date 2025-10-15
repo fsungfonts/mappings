@@ -1,2 +1,2 @@
-9DC0 FE00; FSung-Academic; FS0F0C28 # Term: FS0F0C28
-9DC0 FE01; FSung-Academic; FS0F0C2F # Term: FS0F0C2F
+9DC0 FE00; FSung-Academic; FS0F0C28
+9DC0 FE01; FSung-Academic; FS0F0C2F

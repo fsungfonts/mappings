@@ -1,2 +1,2 @@
-93D6 FE00; FSung-Academic; FS0FE7CB # Term: FS0FE7CB
-93D6 FE01; FSung-Academic; FS102248 # Term: FS102248
+93D6 FE00; FSung-Academic; FS0FE7CB
+93D6 FE01; FSung-Academic; FS102248

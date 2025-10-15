@@ -1,2 +1,2 @@
-7983 FE00; FSung-Academic; FS10494E # Term: FS10494E
-7983 FE01; FSung-Academic; FS10494F # Term: FS10494F
+7983 FE00; FSung-Academic; FS10494E
+7983 FE01; FSung-Academic; FS10494F

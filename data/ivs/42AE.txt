@@ -1,2 +1,2 @@
-42AE FE00; FSung-Academic; FS1049CA # Term: FS1049CA
-42AE FE01; FSung-Academic; FS104ACD # Term: FS104ACD
+42AE FE00; FSung-Academic; FS1049CA
+42AE FE01; FSung-Academic; FS104ACD

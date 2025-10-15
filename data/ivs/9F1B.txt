@@ -1,2 +1,2 @@
-9F1B FE00; FSung-Academic; FS103F22 # Term: FS103F22
-9F1B FE01; FSung-Academic; FS103F23 # Term: FS103F23
+9F1B FE00; FSung-Academic; FS103F22
+9F1B FE01; FSung-Academic; FS103F23

@@ -1,2 +1,2 @@
-4FB9 FE00; FSung-Academic; FS103FCD # Term: FS103FCD
-4FB9 FE01; FSung-Academic; FS103FCE # Term: FS103FCE
+4FB9 FE00; FSung-Academic; FS103FCD
+4FB9 FE01; FSung-Academic; FS103FCE

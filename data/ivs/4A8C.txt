@@ -1,2 +1,2 @@
-4A8C FE00; FSung-Academic; FS10527F # Term: FS10527F
-4A8C FE01; FSung-Academic; FS105280 # Term: FS105280
+4A8C FE00; FSung-Academic; FS10527F
+4A8C FE01; FSung-Academic; FS105280

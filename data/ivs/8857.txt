@@ -1,2 +1,2 @@
-8857 FE00; FSung-Academic; FS0F1AF5 # Term: FS0F1AF5
-8857 FE01; FSung-Academic; FS101ABE # Term: FS101ABE
+8857 FE00; FSung-Academic; FS0F1AF5
+8857 FE01; FSung-Academic; FS101ABE

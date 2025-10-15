@@ -1,2 +1,2 @@
-9E15 FE00; FSung-Academic; FS0FED96 # Term: FS0FED96
-9E15 FE01; FSung-Academic; FS103E8D # Term: FS103E8D
+9E15 FE00; FSung-Academic; FS0FED96
+9E15 FE01; FSung-Academic; FS103E8D

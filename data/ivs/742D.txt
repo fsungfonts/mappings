@@ -1,2 +1,2 @@
-742D FE00; FSung-Academic; FS103025 # Term: FS103025
-742D FE01; FSung-Academic; FS103026 # Term: FS103026
+742D FE00; FSung-Academic; FS103025
+742D FE01; FSung-Academic; FS103026

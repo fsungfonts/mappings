@@ -1,2 +1,2 @@
-7B65 FE00; FSung-Academic; FS1031C3 # Term: FS1031C3
-7B65 FE01; FSung-Academic; FS1031C4 # Term: FS1031C4
+7B65 FE00; FSung-Academic; FS1031C3
+7B65 FE01; FSung-Academic; FS1031C4

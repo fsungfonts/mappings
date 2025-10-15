@@ -1,2 +1,2 @@
-3813 FE00; FSung-Academic; FS0F5FE9 # Term: FS0F5FE9
-3813 FE01; FSung-Academic; FS10427B # Term: FS10427B
+3813 FE00; FSung-Academic; FS0F5FE9
+3813 FE01; FSung-Academic; FS10427B

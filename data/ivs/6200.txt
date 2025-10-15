@@ -1,2 +1,2 @@
-6200 FE00; FSung-Academic; FS0FFFDD # Term: FS0FFFDD
-6200 FE01; FSung-Academic; FS0FFFDE # Term: FS0FFFDE
+6200 FE00; FSung-Academic; FS0FFFDD
+6200 FE01; FSung-Academic; FS0FFFDE

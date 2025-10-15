@@ -1,2 +1,2 @@
-690A FE00; FSung-Academic; FS103919 # Term: FS103919
-690A FE01; FSung-Academic; FS10391A # Term: FS10391A
+690A FE00; FSung-Academic; FS103919
+690A FE01; FSung-Academic; FS10391A

@@ -1,2 +1,2 @@
-5379 FE00; FSung-Academic; FS0F277E # Term: FS0F277E
-5379 FE01; FSung-Academic; FS0F55A1 # Term: FS0F55A1
+5379 FE00; FSung-Academic; FS0F277E
+5379 FE01; FSung-Academic; FS0F55A1

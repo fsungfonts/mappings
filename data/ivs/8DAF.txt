@@ -1,2 +1,2 @@
-8DAF FE00; FSung-Academic; FS10366F # Term: FS10366F
-8DAF FE01; FSung-Academic; FS103670 # Term: FS103670
+8DAF FE00; FSung-Academic; FS10366F
+8DAF FE01; FSung-Academic; FS103670

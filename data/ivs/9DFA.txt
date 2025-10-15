@@ -1,2 +1,2 @@
-9DFA FE00; FSung-Academic; FS1027CD # Term: FS1027CD
-9DFA FE01; FSung-Academic; FS1027CE # Term: FS1027CE
+9DFA FE00; FSung-Academic; FS1027CD
+9DFA FE01; FSung-Academic; FS1027CE

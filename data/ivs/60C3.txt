@@ -1,2 +1,2 @@
-60C3 FE00; FSung-Academic; FS10436D # Term: FS10436D
-60C3 FE01; FSung-Academic; FS10436E # Term: FS10436E
+60C3 FE00; FSung-Academic; FS10436D
+60C3 FE01; FSung-Academic; FS10436E

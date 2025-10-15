@@ -1,2 +1,2 @@
-8496 FE00; FSung-Academic; FS0F9BA3 # Term: FS0F9BA3
-8496 FE01; FSung-Academic; FS0FAAB3 # Term: FS0FAAB3
+8496 FE00; FSung-Academic; FS0F9BA3
+8496 FE01; FSung-Academic; FS0FAAB3

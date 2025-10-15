@@ -1,2 +1,2 @@
-8978 FE00; FSung-Academic; FS0FD260 # Term: FS0FD260
-8978 FE01; FSung-Academic; FS104E5C # Term: FS104E5C
+8978 FE00; FSung-Academic; FS0FD260
+8978 FE01; FSung-Academic; FS104E5C

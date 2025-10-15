@@ -1,2 +1,2 @@
-4594 FE00; FSung-Academic; FS104D90 # Term: FS104D90
-4594 FE01; FSung-Academic; FS104D91 # Term: FS104D91
+4594 FE00; FSung-Academic; FS104D90
+4594 FE01; FSung-Academic; FS104D91

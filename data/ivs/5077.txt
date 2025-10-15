@@ -1,2 +1,2 @@
-5077 FE00; FSung-Academic; FS0F6D59 # Term: FS0F6D59
-5077 FE01; FSung-Academic; FS0FFCAD # Term: FS0FFCAD
+5077 FE00; FSung-Academic; FS0F6D59
+5077 FE01; FSung-Academic; FS0FFCAD

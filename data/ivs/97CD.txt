@@ -1,2 +1,2 @@
-97CD FE00; FSung-Academic; FS0FEBCA # Term: FS0FEBCA
-97CD FE01; FSung-Academic; FS103C30 # Term: FS103C30
+97CD FE00; FSung-Academic; FS0FEBCA
+97CD FE01; FSung-Academic; FS103C30

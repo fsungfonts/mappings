@@ -1,2 +1,2 @@
-87ED FE00; FSung-Academic; FS10350F # Term: FS10350F
-87ED FE01; FSung-Academic; FS103510 # Term: FS103510
+87ED FE00; FSung-Academic; FS10350F
+87ED FE01; FSung-Academic; FS103510

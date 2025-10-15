@@ -1,2 +1,2 @@
-54A2 FE00; FSung-Academic; FS102A38 # Term: FS102A38
-54A2 FE01; FSung-Academic; FS102A39 # Term: FS102A39
+54A2 FE00; FSung-Academic; FS102A38
+54A2 FE01; FSung-Academic; FS102A39

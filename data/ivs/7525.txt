@@ -1,2 +1,2 @@
-7525 FE00; FSung-Academic; FS100CA9 # Term: FS100CA9
-7525 FE01; FSung-Academic; FS100CAA # Term: FS100CAA
+7525 FE00; FSung-Academic; FS100CA9
+7525 FE01; FSung-Academic; FS100CAA

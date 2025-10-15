@@ -1,2 +1,2 @@
-78CD FE00; FSung-Academic; FS0FC805 # Term: FS0FC805
-78CD FE01; FSung-Academic; FS103123 # Term: FS103123
+78CD FE00; FSung-Academic; FS0FC805
+78CD FE01; FSung-Academic; FS103123

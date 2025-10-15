@@ -1,2 +1,2 @@
-36E7 FE00; FSung-Academic; FS0F0CC6 # Term: FS0F0CC6
-36E7 FE01; FSung-Academic; FS0F4FA1 # Term: FS0F4FA1
+36E7 FE00; FSung-Academic; FS0F0CC6
+36E7 FE01; FSung-Academic; FS0F4FA1

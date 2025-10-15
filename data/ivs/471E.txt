@@ -1,2 +1,2 @@
-471E FE00; FSung-Academic; FS0F54DD # Term: FS0F54DD
-471E FE01; FSung-Academic; FS104EDF # Term: FS104EDF
+471E FE00; FSung-Academic; FS0F54DD
+471E FE01; FSung-Academic; FS104EDF

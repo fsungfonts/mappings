@@ -1,2 +1,2 @@
-50AD FE00; FSung-Academic; FS0F6D6D # Term: FS0F6D6D
-50AD FE01; FSung-Academic; FS103952 # Term: FS103952
+50AD FE00; FSung-Academic; FS0F6D6D
+50AD FE01; FSung-Academic; FS103952

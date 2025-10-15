@@ -1,2 +1,2 @@
-5683 FE00; FSung-Academic; FS102A8D # Term: FS102A8D
-5683 FE01; FSung-Academic; FS102A8E # Term: FS102A8E
+5683 FE00; FSung-Academic; FS102A8D
+5683 FE01; FSung-Academic; FS102A8E

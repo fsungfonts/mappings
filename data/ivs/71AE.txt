@@ -1,2 +1,2 @@
-71AE FE00; FSung-Academic; FS1046A5 # Term: FS1046A5
-71AE FE01; FSung-Academic; FS1046A6 # Term: FS1046A6
+71AE FE00; FSung-Academic; FS1046A5
+71AE FE01; FSung-Academic; FS1046A6

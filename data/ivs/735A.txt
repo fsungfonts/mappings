@@ -1,2 +1,2 @@
-735A FE00; FSung-Academic; FS0F4069 # Term: FS0F4069
-735A FE01; FSung-Academic; FS10473D # Term: FS10473D
+735A FE00; FSung-Academic; FS0F4069
+735A FE01; FSung-Academic; FS10473D

@@ -1,2 +1,2 @@
-982D FE00; FSung-Academic; FS0FE9A4 # Term: FS0FE9A4
-982D FE01; FSung-Academic; FS0FE9B5 # Term: FS0FE9B5
+982D FE00; FSung-Academic; FS0FE9A4
+982D FE01; FSung-Academic; FS0FE9B5

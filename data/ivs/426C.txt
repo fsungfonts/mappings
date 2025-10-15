@@ -1,2 +1,2 @@
-426C FE00; FSung-Academic; FS104A81 # Term: FS104A81
-426C FE01; FSung-Academic; FS104A82 # Term: FS104A82
+426C FE00; FSung-Academic; FS104A81
+426C FE01; FSung-Academic; FS104A82

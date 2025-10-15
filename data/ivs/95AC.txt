@@ -1,2 +1,2 @@
-95AC FE00; FSung-Academic; FS10381A # Term: FS10381A
-95AC FE01; FSung-Academic; FS10381B # Term: FS10381B
+95AC FE00; FSung-Academic; FS10381A
+95AC FE01; FSung-Academic; FS10381B

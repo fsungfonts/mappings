@@ -1,2 +1,2 @@
-563D FE00; FSung-Academic; FS102A7B # Term: FS102A7B
-563D FE01; FSung-Academic; FS102A7C # Term: FS102A7C
+563D FE00; FSung-Academic; FS102A7B
+563D FE01; FSung-Academic; FS102A7C

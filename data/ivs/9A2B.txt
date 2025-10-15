@@ -1,2 +1,2 @@
-9A2B FE00; FSung-Academic; FS10265C # Term: FS10265C
-9A2B FE01; FSung-Academic; FS10265D # Term: FS10265D
+9A2B FE00; FSung-Academic; FS10265C
+9A2B FE01; FSung-Academic; FS10265D

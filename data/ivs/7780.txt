@@ -1,2 +1,2 @@
-7780 FE00; FSung-Academic; FS1030EB # Term: FS1030EB
-7780 FE01; FSung-Academic; FS1030EC # Term: FS1030EC
+7780 FE00; FSung-Academic; FS1030EB
+7780 FE01; FSung-Academic; FS1030EC

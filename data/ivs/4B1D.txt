@@ -1,2 +1,2 @@
-4B1D FE00; FSung-Academic; FS1052E3 # Term: FS1052E3
-4B1D FE01; FSung-Academic; FS1052E4 # Term: FS1052E4
+4B1D FE00; FSung-Academic; FS1052E3
+4B1D FE01; FSung-Academic; FS1052E4

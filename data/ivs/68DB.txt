@@ -1,2 +1,2 @@
-68DB FE00; FSung-Academic; FS103917 # Term: FS103917
-68DB FE01; FSung-Academic; FS103918 # Term: FS103918
+68DB FE00; FSung-Academic; FS103917
+68DB FE01; FSung-Academic; FS103918

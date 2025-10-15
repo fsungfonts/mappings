@@ -1,2 +1,2 @@
-3BB7 FE00; FSung-Academic; FS0FB27F # Term: FS0FB27F
-3BB7 FE01; FSung-Academic; FS1044D0 # Term: FS1044D0
+3BB7 FE00; FSung-Academic; FS0FB27F
+3BB7 FE01; FSung-Academic; FS1044D0

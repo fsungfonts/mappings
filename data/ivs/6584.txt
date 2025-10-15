@@ -1,2 +1,2 @@
-6584 FE00; FSung-Academic; FS0F17BB # Term: FS0F17BB
-6584 FE01; FSung-Academic; FS102D2C # Term: FS102D2C
+6584 FE00; FSung-Academic; FS0F17BB
+6584 FE01; FSung-Academic; FS102D2C

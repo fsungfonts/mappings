@@ -1,2 +1,2 @@
-95D2 FE00; FSung-Academic; FS10383C # Term: FS10383C
-95D2 FE01; FSung-Academic; FS10383D # Term: FS10383D
+95D2 FE00; FSung-Academic; FS10383C
+95D2 FE01; FSung-Academic; FS10383D

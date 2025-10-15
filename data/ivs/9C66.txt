@@ -1,2 +1,2 @@
-9C66 FE00; FSung-Academic; FS0F0C39 # Term: FS0F0C39
-9C66 FE01; FSung-Academic; FS103E05 # Term: FS103E05
+9C66 FE00; FSung-Academic; FS0F0C39
+9C66 FE01; FSung-Academic; FS103E05

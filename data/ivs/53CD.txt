@@ -1,2 +1,2 @@
-53CD FE00; FSung-Academic; FS0F55E2 # Term: FS0F55E2
-53CD FE01; FSung-Academic; FS0F55E3 # Term: FS0F55E3
+53CD FE00; FSung-Academic; FS0F55E2
+53CD FE01; FSung-Academic; FS0F55E3

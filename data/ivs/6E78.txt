@@ -1,2 +1,2 @@
-6E78 FE00; FSung-Academic; FS0F9D3F # Term: FS0F9D3F
-6E78 FE01; FSung-Academic; FS104605 # Term: FS104605
+6E78 FE00; FSung-Academic; FS0F9D3F
+6E78 FE01; FSung-Academic; FS104605

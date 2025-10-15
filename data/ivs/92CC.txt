@@ -1,2 +1,2 @@
-92CC FE00; FSung-Academic; FS0FB01F # Term: FS0FB01F
-92CC FE01; FSung-Academic; FS1037BD # Term: FS1037BD
+92CC FE00; FSung-Academic; FS0FB01F
+92CC FE01; FSung-Academic; FS1037BD

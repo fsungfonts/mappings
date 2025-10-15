@@ -1,2 +1,2 @@
-4263 FE00; FSung-Academic; FS104A71 # Term: FS104A71
-4263 FE01; FSung-Academic; FS104A72 # Term: FS104A72
+4263 FE00; FSung-Academic; FS104A71
+4263 FE01; FSung-Academic; FS104A72

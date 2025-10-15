@@ -1,2 +1,2 @@
-7C9F FE00; FSung-Academic; FS0FD995 # Term: FS0FD995
-7C9F FE01; FSung-Academic; FS1011AC # Term: FS1011AC
+7C9F FE00; FSung-Academic; FS0FD995
+7C9F FE01; FSung-Academic; FS1011AC

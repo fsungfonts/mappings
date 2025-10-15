@@ -1,2 +1,2 @@
-63A3 FE00; FSung-Academic; FS100110 # Term: FS100110
-63A3 FE01; FSung-Academic; FS100111 # Term: FS100111
+63A3 FE00; FSung-Academic; FS100110
+63A3 FE01; FSung-Academic; FS100111

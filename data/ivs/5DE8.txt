@@ -1,2 +1,2 @@
-5DE8 FE00; FSung-Academic; FS0F2B65 # Term: FS0F2B65
-5DE8 FE01; FSung-Academic; FS0F8294 # Term: FS0F8294
+5DE8 FE00; FSung-Academic; FS0F2B65
+5DE8 FE01; FSung-Academic; FS0F8294

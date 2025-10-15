@@ -1,2 +1,2 @@
-9674 FE00; FSung-Academic; FS102357 # Term: FS102357
-9674 FE01; FSung-Academic; FS102358 # Term: FS102358
+9674 FE00; FSung-Academic; FS102357
+9674 FE01; FSung-Academic; FS102358

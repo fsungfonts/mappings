@@ -1,2 +1,2 @@
-7615 FE00; FSung-Academic; FS0FCF7F # Term: FS0FCF7F
-7615 FE01; FSung-Academic; FS0FCFC9 # Term: FS0FCFC9
+7615 FE00; FSung-Academic; FS0FCF7F
+7615 FE01; FSung-Academic; FS0FCFC9

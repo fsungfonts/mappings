@@ -1,2 +1,2 @@
-5E19 FE00; FSung-Academic; FS0F3DC6 # Term: FS0F3DC6
-5E19 FE01; FSung-Academic; FS102BAF # Term: FS102BAF
+5E19 FE00; FSung-Academic; FS0F3DC6
+5E19 FE01; FSung-Academic; FS102BAF

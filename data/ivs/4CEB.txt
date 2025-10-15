@@ -1,2 +1,2 @@
-4CEB FE00; FSung-Academic; FS10563C # Term: FS10563C
-4CEB FE01; FSung-Academic; FS10563D # Term: FS10563D
+4CEB FE00; FSung-Academic; FS10563C
+4CEB FE01; FSung-Academic; FS10563D

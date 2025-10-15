@@ -1,2 +1,2 @@
-3591 FE00; FSung-Academic; FS1040A8 # Term: FS1040A8
-3591 FE01; FSung-Academic; FS1040A9 # Term: FS1040A9
+3591 FE00; FSung-Academic; FS1040A8
+3591 FE01; FSung-Academic; FS1040A9

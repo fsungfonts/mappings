@@ -1,2 +1,2 @@
-60D5 FE00; FSung-Academic; FS0FFE85 # Term: FS0FFE85
-60D5 FE01; FSung-Academic; FS0FFE86 # Term: FS0FFE86
+60D5 FE00; FSung-Academic; FS0FFE85
+60D5 FE01; FSung-Academic; FS0FFE86

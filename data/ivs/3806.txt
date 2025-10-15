@@ -1,2 +1,2 @@
-3806 FE00; FSung-Academic; FS10426D # Term: FS10426D
-3806 FE01; FSung-Academic; FS10426E # Term: FS10426E
+3806 FE00; FSung-Academic; FS10426D
+3806 FE01; FSung-Academic; FS10426E

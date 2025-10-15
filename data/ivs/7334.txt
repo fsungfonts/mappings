@@ -1,2 +1,2 @@
-7334 FE00; FSung-Academic; FS0F405B # Term: FS0F405B
-7334 FE01; FSung-Academic; FS100B6E # Term: FS100B6E
+7334 FE00; FSung-Academic; FS0F405B
+7334 FE01; FSung-Academic; FS100B6E

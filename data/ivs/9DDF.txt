@@ -1,2 +1,2 @@
-9DDF FE00; FSung-Academic; FS0F0C27 # Term: FS0F0C27
-9DDF FE01; FSung-Academic; FS103E69 # Term: FS103E69
+9DDF FE00; FSung-Academic; FS0F0C27
+9DDF FE01; FSung-Academic; FS103E69

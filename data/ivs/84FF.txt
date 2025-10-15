@@ -1,2 +1,2 @@
-84FF FE00; FSung-Academic; FS0FDAAB # Term: FS0FDAAB
-84FF FE01; FSung-Academic; FS1018B7 # Term: FS1018B7
+84FF FE00; FSung-Academic; FS0FDAAB
+84FF FE01; FSung-Academic; FS1018B7

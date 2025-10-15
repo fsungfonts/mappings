@@ -1,2 +1,2 @@
-63DD FE00; FSung-Academic; FS0FF12F # Term: FS0FF12F
-63DD FE01; FSung-Academic; FS1038B2 # Term: FS1038B2
+63DD FE00; FSung-Academic; FS0FF12F
+63DD FE01; FSung-Academic; FS1038B2

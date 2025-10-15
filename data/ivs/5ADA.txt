@@ -1,2 +1,2 @@
-5ADA FE00; FSung-Academic; FS0F4FE2 # Term: FS0F4FE2
-5ADA FE01; FSung-Academic; FS0F4FFB # Term: FS0F4FFB
+5ADA FE00; FSung-Academic; FS0F4FE2
+5ADA FE01; FSung-Academic; FS0F4FFB

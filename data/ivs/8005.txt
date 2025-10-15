@@ -1,2 +1,2 @@
-8005 FE00; FSung-Academic; FS101442 # Term: FS101442
-8005 FE01; FSung-Academic; FS101443 # Term: FS101443
+8005 FE00; FSung-Academic; FS101442
+8005 FE01; FSung-Academic; FS101443

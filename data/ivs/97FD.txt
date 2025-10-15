@@ -1,2 +1,2 @@
-97FD FE00; FSung-Academic; FS103C3A # Term: FS103C3A
-97FD FE01; FSung-Academic; FS103C3B # Term: FS103C3B
+97FD FE00; FSung-Academic; FS103C3A
+97FD FE01; FSung-Academic; FS103C3B

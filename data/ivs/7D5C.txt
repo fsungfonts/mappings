@@ -1,2 +1,2 @@
-7D5C FE00; FSung-Academic; FS0FDBA5 # Term: FS0FDBA5
-7D5C FE01; FSung-Academic; FS103227 # Term: FS103227
+7D5C FE00; FSung-Academic; FS0FDBA5
+7D5C FE01; FSung-Academic; FS103227

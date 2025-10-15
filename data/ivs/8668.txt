@@ -1,2 +1,2 @@
-8668 FE00; FSung-Academic; FS0FB30F # Term: FS0FB30F
-8668 FE01; FSung-Academic; FS104DA1 # Term: FS104DA1
+8668 FE00; FSung-Academic; FS0FB30F
+8668 FE01; FSung-Academic; FS104DA1

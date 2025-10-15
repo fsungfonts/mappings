@@ -1,2 +1,2 @@
-4D49 FE00; FSung-Academic; FS1056FD # Term: FS1056FD
-4D49 FE01; FSung-Academic; FS1056FE # Term: FS1056FE
+4D49 FE00; FSung-Academic; FS1056FD
+4D49 FE01; FSung-Academic; FS1056FE

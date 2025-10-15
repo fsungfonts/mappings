@@ -1,2 +1,2 @@
-7267 FE00; FSung-Academic; FS0F079A # Term: FS0F079A
-7267 FE01; FSung-Academic; FS100B25 # Term: FS100B25
+7267 FE00; FSung-Academic; FS0F079A
+7267 FE01; FSung-Academic; FS100B25

@@ -1,2 +1,2 @@
-6049 FE00; FSung-Academic; FS0F090F # Term: FS0F090F
-6049 FE01; FSung-Academic; FS0F470B # Term: FS0F470B
+6049 FE00; FSung-Academic; FS0F090F
+6049 FE01; FSung-Academic; FS0F470B

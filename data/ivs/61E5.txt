@@ -1,2 +1,2 @@
-61E5 FE00; FSung-Academic; FS0F4813 # Term: FS0F4813
-61E5 FE01; FSung-Academic; FS102C7B # Term: FS102C7B
+61E5 FE00; FSung-Academic; FS0F4813
+61E5 FE01; FSung-Academic; FS102C7B

@@ -1,2 +1,2 @@
-7ABE FE00; FSung-Academic; FS0FD182 # Term: FS0FD182
-7ABE FE01; FSung-Academic; FS1031B4 # Term: FS1031B4
+7ABE FE00; FSung-Academic; FS0FD182
+7ABE FE01; FSung-Academic; FS1031B4

@@ -1,2 +1,2 @@
-95C3 FE00; FSung-Academic; FS10382E # Term: FS10382E
-95C3 FE01; FSung-Academic; FS10382F # Term: FS10382F
+95C3 FE00; FSung-Academic; FS10382E
+95C3 FE01; FSung-Academic; FS10382F

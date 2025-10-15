@@ -1,2 +1,2 @@
-748A FE00; FSung-Academic; FS103032 # Term: FS103032
-748A FE01; FSung-Academic; FS103033 # Term: FS103033
+748A FE00; FSung-Academic; FS103032
+748A FE01; FSung-Academic; FS103033

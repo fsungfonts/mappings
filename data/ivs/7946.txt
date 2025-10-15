@@ -1,2 +1,2 @@
-7946 FE00; FSung-Academic; FS100F06 # Term: FS100F06
-7946 FE01; FSung-Academic; FS100F07 # Term: FS100F07
+7946 FE00; FSung-Academic; FS100F06
+7946 FE01; FSung-Academic; FS100F07

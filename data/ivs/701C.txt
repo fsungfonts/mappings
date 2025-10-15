@@ -1,2 +1,2 @@
-701C FE00; FSung-Academic; FS104656 # Term: FS104656
-701C FE01; FSung-Academic; FS104657 # Term: FS104657
+701C FE00; FSung-Academic; FS104656
+701C FE01; FSung-Academic; FS104657
