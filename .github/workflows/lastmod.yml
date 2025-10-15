@@ -23,24 +23,25 @@ jobs:
           sparse-checkout: |
             content/
 
-      - name: Detect file changes
-        id: filter
-        uses: dorny/paths-filter@v3
-        with:
-          list-files: shell
-          filters: |
-            content:
-              - added|modified: 'content/**/*.md'
-
       - name: Update lastmod in changed MDs
-        if: steps.filter.outputs.content == 'true'
+        id: lastmod
         run: |
-          echo "Markdown files: $FILES"
-          for f in $FILES; do
-            sed -i "0,/lastmod:.*/s//lastmod: '$(TZ=UTC-8 date -Iseconds)'/" "$f"
-          done
-        env:
-          FILES: ${{ steps.filter.outputs.content_files }}
+          if [[ "${{ github.event_name }}" == "push" || "${{ github.event_name }}" == workflow_dispatch ]]; then
+            git diff --name-only --diff-filter=AM HEAD^ HEAD 'content/**/*.md' > changed_files.txt
+          elif [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
+            git diff --name-only --diff-filter=AM ${{ github.base_ref }} HEAD 'content/**/*.md' > changed_files.txt
+          else
+            echo "Unsupported event: ${{ github.event_name }}"
+            exit 1
+          fi
+            lastmod=$(TZ=UTC+8 date -Iseconds)
+          if [[ -s changed_files.txt ]]; then
+            parallel -a changed_files.txt -q -- \
+              sed -i "0,/lastmod:.*/s//lastmod: '$lastmod'/" {}
+            echo "updated=1" >> $GITHUB_OUTPUT
+          fi
+          rm -f changed_files.txt
 
       - name: Get author
         id: author
@@ -54,7 +55,7 @@ jobs:
           } >> $GITHUB_OUTPUT
 
       - name: Amend commit with updated lastmod
-        if: steps.filter.outputs.content == 'true'
+        if: steps.lastmod.outputs.updated
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_options: '--amend --no-edit'

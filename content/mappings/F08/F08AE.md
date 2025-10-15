@@ -1,9 +1,9 @@
 ---
 date: '2025-10-13T11:29:42+08:00'
-lastmod: '2025-10-14T06:42:23+08:00'
+lastmod: '2025-10-14T21:46:45-08:00'
 title: 󰢮
 url: 󰢮
-tags: [毼]
-src: GHZR
+tags: [毼, 毼]
+src: GHZR, DCCV
 note:
 ---
