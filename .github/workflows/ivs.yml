@@ -6,8 +6,11 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  optimize:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -17,11 +20,6 @@ jobs:
           sparse-checkout: |
             content/
             data/ivs/
-
-      - name: Set up Python 3.12
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
 
       - name: Run script
         run: python ivs.py
