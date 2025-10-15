@@ -22,15 +22,16 @@ def parse_md_file(md_path):
         with md_path.open('r', encoding='utf-8', errors='ignore') as f:
             content = f.read(129)  # Read up to avg size
             if 'tags:' in content:
-                tags_start = content.find('tags:') + 5
+                tags_start = content.find('[') + 1
                 tags_end = content.find(']', tags_start)
                 if tags_end != -1:
                     tags_str = content[tags_start:tags_end].strip()
                     if tags_str:
-                        tags = tags_str.split(',')
-                        tag = tags[0].strip()
-                        if tag:
-                            return (tag, term_hex)
+                        tags = [t.strip() for t in tags_str.split(',')]
+                        if tags:
+                            tag = tags[0]
+                            if len(tag) == 1:
+                                return (tag, term_hex)
     except Exception:
         pass
     return None
