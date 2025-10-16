@@ -1,6 +1,0 @@
-3B70 FE00; FSung-Academic; FS0F39A3
-3B70 FE01; FSung-Academic; FS0F39A4
-3B70 FE02; FSung-Academic; FS103923
-3B70 FE03; FSung-Academic; FS103924
-3B70 FE04; FSung-Academic; FS103925
-3B70 FE05; FSung-Academic; FS1044BD

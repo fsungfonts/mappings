@@ -1,3 +1,0 @@
-228D4 FE00; FSung-Academic; FS1043CB
-228D4 FE01; FSung-Academic; FS1043CC
-228D4 FE02; FSung-Academic; FS1043CD

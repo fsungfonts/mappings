@@ -23,7 +23,7 @@ def parse_md_file(md_path):
             content = f.read(129)  # Read up to avg size
             
             # Check for ivs flag first (early exit if missing)
-            ivs_match = re.search(r'ivs:\s*1', content, re.IGNORECASE)
+            ivs_match = re.search(r'ivs:\s*0', content, re.IGNORECASE)
             if not ivs_match:
                 return None
             

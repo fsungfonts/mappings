@@ -1,3 +1,0 @@
-51CC FE00; FSung-Academic; FS0F5432
-51CC FE01; FSung-Academic; FS0F5433
-51CC FE02; FSung-Academic; FS0F5434

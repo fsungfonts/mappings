@@ -1,4 +1,0 @@
-79B7 FE00; FSung-Academic; FS10318D
-79B7 FE01; FSung-Academic; FS10318E
-79B7 FE02; FSung-Academic; FS10318F
-79B7 FE03; FSung-Academic; FS103190

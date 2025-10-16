@@ -1,7 +1,0 @@
-87AF FE00; FSung-Academic; FS1034F4
-87AF FE01; FSung-Academic; FS1034F5
-87AF FE02; FSung-Academic; FS1034F6
-87AF FE03; FSung-Academic; FS1034F7
-87AF FE04; FSung-Academic; FS1034F8
-87AF FE05; FSung-Academic; FS1034F9
-87AF FE06; FSung-Academic; FS1034FA

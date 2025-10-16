@@ -1,3 +1,0 @@
-86B3 FE00; FSung-Academic; FS1034A1
-86B3 FE01; FSung-Academic; FS1034A2
-86B3 FE02; FSung-Academic; FS1034A3

@@ -1,5 +1,0 @@
-7576 FE00; FSung-Academic; FS0F35F4
-7576 FE01; FSung-Academic; FS0F6E4D
-7576 FE02; FSung-Academic; FS0F8A94
-7576 FE03; FSung-Academic; FS0FCAE4
-7576 FE04; FSung-Academic; FS100CED

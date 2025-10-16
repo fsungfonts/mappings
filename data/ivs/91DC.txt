@@ -1,6 +1,0 @@
-91DC FE00; FSung-Academic; FS1021DE
-91DC FE01; FSung-Academic; FS1021DF
-91DC FE02; FSung-Academic; FS1021E0
-91DC FE03; FSung-Academic; FS1021E1
-91DC FE04; FSung-Academic; FS103A9E
-91DC FE05; FSung-Academic; FS103A9F

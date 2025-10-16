@@ -1,6 +1,0 @@
-5606 FE00; FSung-Academic; FS0F5722
-5606 FE01; FSung-Academic; FS0F5723
-5606 FE02; FSung-Academic; FS0F5724
-5606 FE03; FSung-Academic; FS0F5725
-5606 FE04; FSung-Academic; FS0F5726
-5606 FE05; FSung-Academic; FS0F5727

@@ -1,3 +1,0 @@
-3B0F FE00; FSung-Academic; FS1038DE
-3B0F FE01; FSung-Academic; FS1038DF
-3B0F FE02; FSung-Academic; FS1038E0

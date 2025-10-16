@@ -1,4 +1,0 @@
-23037 FE00; FSung-Academic; FS0F07C4
-23037 FE01; FSung-Academic; FS1038B6
-23037 FE02; FSung-Academic; FS1038B7
-23037 FE03; FSung-Academic; FS1038B8

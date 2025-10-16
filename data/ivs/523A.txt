@@ -1,7 +1,0 @@
-523A FE00; FSung-Academic; FS0F182B
-523A FE01; FSung-Academic; FS0F183A
-523A FE02; FSung-Academic; FS0F185A
-523A FE03; FSung-Academic; FS0F18D7
-523A FE04; FSung-Academic; FS0F18D8
-523A FE05; FSung-Academic; FS0F2877
-523A FE06; FSung-Academic; FS0F5481

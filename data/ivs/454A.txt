@@ -1,3 +1,0 @@
-454A FE00; FSung-Academic; FS104D05
-454A FE01; FSung-Academic; FS104D06
-454A FE02; FSung-Academic; FS104D07

@@ -1,4 +1,0 @@
-4599 FE00; FSung-Academic; FS104DA4
-4599 FE01; FSung-Academic; FS104DA5
-4599 FE02; FSung-Academic; FS104DA6
-4599 FE03; FSung-Academic; FS104DA7

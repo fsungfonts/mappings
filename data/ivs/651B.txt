@@ -1,6 +1,0 @@
-651B FE00; FSung-Academic; FS102D0C
-651B FE01; FSung-Academic; FS102D0D
-651B FE02; FSung-Academic; FS102D0E
-651B FE03; FSung-Academic; FS102D0F
-651B FE04; FSung-Academic; FS102D10
-651B FE05; FSung-Academic; FS102D11

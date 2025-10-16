@@ -1,4 +1,0 @@
-93CB FE00; FSung-Academic; FS0F8947
-93CB FE01; FSung-Academic; FS1050E8
-93CB FE02; FSung-Academic; FS1050E9
-93CB FE03; FSung-Academic; FS1050EA

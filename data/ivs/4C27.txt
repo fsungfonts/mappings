@@ -1,6 +1,0 @@
-4C27 FE00; FSung-Academic; FS105551
-4C27 FE01; FSung-Academic; FS105552
-4C27 FE02; FSung-Academic; FS105553
-4C27 FE03; FSung-Academic; FS105554
-4C27 FE04; FSung-Academic; FS105555
-4C27 FE05; FSung-Academic; FS105556

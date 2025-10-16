@@ -1,4 +1,0 @@
-76B0 FE00; FSung-Academic; FS0FD298
-76B0 FE01; FSung-Academic; FS100DA9
-76B0 FE02; FSung-Academic; FS100DAA
-76B0 FE03; FSung-Academic; FS103A4F

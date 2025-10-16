@@ -1,6 +1,0 @@
-8794 FE00; FSung-Academic; FS0FD59D
-8794 FE01; FSung-Academic; FS0FD59E
-8794 FE02; FSung-Academic; FS1034E0
-8794 FE03; FSung-Academic; FS1034E1
-8794 FE04; FSung-Academic; FS1034E2
-8794 FE05; FSung-Academic; FS1034E3

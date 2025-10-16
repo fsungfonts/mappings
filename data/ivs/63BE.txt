@@ -1,3 +1,0 @@
-63BE FE00; FSung-Academic; FS0F8F11
-63BE FE01; FSung-Academic; FS102CC6
-63BE FE02; FSung-Academic; FS102CC7

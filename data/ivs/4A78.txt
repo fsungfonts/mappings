@@ -1,4 +1,0 @@
-4A78 FE00; FSung-Academic; FS105251
-4A78 FE01; FSung-Academic; FS105252
-4A78 FE02; FSung-Academic; FS105253
-4A78 FE03; FSung-Academic; FS105254

@@ -1,7 +1,0 @@
-754C FE00; FSung-Academic; FS100CC0
-754C FE01; FSung-Academic; FS100CC1
-754C FE02; FSung-Academic; FS100CC2
-754C FE03; FSung-Academic; FS100CC3
-754C FE04; FSung-Academic; FS100CC4
-754C FE05; FSung-Academic; FS100CC5
-754C FE06; FSung-Academic; FS100CC7

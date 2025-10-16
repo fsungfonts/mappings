@@ -1,6 +1,0 @@
-89FC FE00; FSung-Academic; FS1035B1
-89FC FE01; FSung-Academic; FS1035B2
-89FC FE02; FSung-Academic; FS1035B3
-89FC FE03; FSung-Academic; FS1035B4
-89FC FE04; FSung-Academic; FS1035B5
-89FC FE05; FSung-Academic; FS1035B6

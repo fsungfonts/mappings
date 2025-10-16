@@ -1,3 +1,0 @@
-802C FE00; FSung-Academic; FS10331E
-802C FE01; FSung-Academic; FS10331F
-802C FE02; FSung-Academic; FS103320

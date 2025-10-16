@@ -1,3 +1,0 @@
-6221 FE00; FSung-Academic; FS10000C
-6221 FE01; FSung-Academic; FS10000D
-6221 FE02; FSung-Academic; FS103A17

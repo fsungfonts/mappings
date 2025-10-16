@@ -1,4 +1,0 @@
-737A FE00; FSung-Academic; FS100BC0
-737A FE01; FSung-Academic; FS100BC1
-737A FE02; FSung-Academic; FS100BC2
-737A FE03; FSung-Academic; FS100BC3

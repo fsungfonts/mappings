@@ -1,4 +1,0 @@
-540A FE00; FSung-Academic; FS0F3D9C
-540A FE01; FSung-Academic; FS0F3D9E
-540A FE02; FSung-Academic; FS0F3DA2
-540A FE03; FSung-Academic; FS0F5619

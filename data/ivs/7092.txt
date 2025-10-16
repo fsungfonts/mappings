@@ -1,4 +1,0 @@
-7092 FE00; FSung-Academic; FS0FC20C
-7092 FE01; FSung-Academic; FS100982
-7092 FE02; FSung-Academic; FS100983
-7092 FE03; FSung-Academic; FS100985

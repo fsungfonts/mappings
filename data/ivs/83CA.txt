@@ -1,6 +1,0 @@
-83CA FE00; FSung-Academic; FS0F311E
-83CA FE01; FSung-Academic; FS0F6707
-83CA FE02; FSung-Academic; FS1017E2
-83CA FE03; FSung-Academic; FS1017E3
-83CA FE04; FSung-Academic; FS1017E4
-83CA FE05; FSung-Academic; FS1017E5

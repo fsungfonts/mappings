@@ -22,6 +22,12 @@ jobs:
           fetch-depth: 2
           sparse-checkout: |
             content/
+            data/ivs/
+
+      - name: Run script
+        run: |
+          rm -f data/ivs/*
+          python ivs.py
 
       - name: Update lastmod in changed MDs
         id: lastmod
@@ -55,7 +61,6 @@ jobs:
           } >> $GITHUB_OUTPUT
 
       - name: Amend commit with updated lastmod
-        if: steps.lastmod.outputs.updated
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_options: '--amend --no-edit'
@@ -65,7 +70,6 @@ jobs:
           push_options: '--force-with-lease'
 
       - name: Trigger site repo build
-        if: steps.filter.outputs.content == 'true'
         uses: peter-evans/repository-dispatch@v4
         with:
           token: ${{ secrets.PAT }}

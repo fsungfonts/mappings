@@ -1,7 +1,0 @@
-566C FE00; FSung-Academic; FS0F117E
-566C FE01; FSung-Academic; FS0F381E
-566C FE02; FSung-Academic; FS0F39E2
-566C FE03; FSung-Academic; FS0F5765
-566C FE04; FSung-Academic; FS0F5766
-566C FE05; FSung-Academic; FS0F5767
-566C FE06; FSung-Academic; FS0F5768

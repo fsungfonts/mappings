@@ -1,3 +1,0 @@
-6328 FE00; FSung-Academic; FS0FA70A
-6328 FE01; FSung-Academic; FS1000CC
-6328 FE02; FSung-Academic; FS1000CD

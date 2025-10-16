@@ -1,4 +1,0 @@
-400A FE00; FSung-Academic; FS104864
-400A FE01; FSung-Academic; FS104865
-400A FE02; FSung-Academic; FS104866
-400A FE03; FSung-Academic; FS104867

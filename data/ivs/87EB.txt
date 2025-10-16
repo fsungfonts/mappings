@@ -1,3 +1,0 @@
-87EB FE00; FSung-Academic; FS1034FE
-87EB FE01; FSung-Academic; FS1034FF
-87EB FE02; FSung-Academic; FS103500

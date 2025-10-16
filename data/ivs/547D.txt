@@ -1,7 +1,0 @@
-547D FE00; FSung-Academic; FS0F1EC1
-547D FE01; FSung-Academic; FS0F1EC2
-547D FE02; FSung-Academic; FS0F1ED1
-547D FE03; FSung-Academic; FS0F1EF3
-547D FE04; FSung-Academic; FS0F1F1D
-547D FE05; FSung-Academic; FS0F38CE
-547D FE06; FSung-Academic; FS0F564E

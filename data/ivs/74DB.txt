@@ -1,5 +1,0 @@
-74DB FE00; FSung-Academic; FS10304A
-74DB FE01; FSung-Academic; FS10304B
-74DB FE02; FSung-Academic; FS10304C
-74DB FE03; FSung-Academic; FS10304D
-74DB FE04; FSung-Academic; FS10304E

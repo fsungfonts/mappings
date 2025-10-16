@@ -1,3 +1,0 @@
-269BE FE00; FSung-Academic; FS104C38
-269BE FE01; FSung-Academic; FS104C39
-269BE FE02; FSung-Academic; FS104C3A

@@ -1,3 +1,0 @@
-29B88 FE00; FSung-Academic; FS10545D
-29B88 FE01; FSung-Academic; FS10545E
-29B88 FE02; FSung-Academic; FS10545F

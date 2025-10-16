@@ -1,5 +1,0 @@
-82B3 FE00; FSung-Academic; FS0F140C
-82B3 FE01; FSung-Academic; FS0F3B3F
-82B3 FE02; FSung-Academic; FS0FC157
-82B3 FE03; FSung-Academic; FS1016FC
-82B3 FE04; FSung-Academic; FS1016FD

@@ -1,3 +1,0 @@
-840E FE00; FSung-Academic; FS1017E7
-840E FE01; FSung-Academic; FS1017E8
-840E FE02; FSung-Academic; FS1017E9

@@ -1,3 +1,0 @@
-27DB5 FE00; FSung-Academic; FS104F45
-27DB5 FE01; FSung-Academic; FS104F46
-27DB5 FE02; FSung-Academic; FS104F47

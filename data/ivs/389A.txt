@@ -1,4 +1,0 @@
-389A FE00; FSung-Academic; FS1042F3
-389A FE01; FSung-Academic; FS1042F4
-389A FE02; FSung-Academic; FS1042F5
-389A FE03; FSung-Academic; FS1042F6

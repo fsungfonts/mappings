@@ -1,4 +1,0 @@
-57F4 FE00; FSung-Academic; FS0FAC4A
-57F4 FE01; FSung-Academic; FS0FFF51
-57F4 FE02; FSung-Academic; FS102ACB
-57F4 FE03; FSung-Academic; FS102ACC

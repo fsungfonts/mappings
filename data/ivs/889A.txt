@@ -1,4 +1,0 @@
-889A FE00; FSung-Academic; FS0F0CF2
-889A FE01; FSung-Academic; FS103552
-889A FE02; FSung-Academic; FS103553
-889A FE03; FSung-Academic; FS103554

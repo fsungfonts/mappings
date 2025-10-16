@@ -1,3 +1,0 @@
-504C FE00; FSung-Academic; FS0F5310
-504C FE01; FSung-Academic; FS0F6953
-504C FE02; FSung-Academic; FS10394E

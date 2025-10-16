@@ -1,4 +1,0 @@
-9B4A FE00; FSung-Academic; FS103DAC
-9B4A FE01; FSung-Academic; FS103DAD
-9B4A FE02; FSung-Academic; FS103DAE
-9B4A FE03; FSung-Academic; FS103DAF

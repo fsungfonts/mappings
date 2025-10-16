@@ -1,6 +1,0 @@
-901A FE00; FSung-Academic; FS0F385B
-901A FE01; FSung-Academic; FS101FFD
-901A FE02; FSung-Academic; FS101FFE
-901A FE03; FSung-Academic; FS101FFF
-901A FE04; FSung-Academic; FS102000
-901A FE05; FSung-Academic; FS102001

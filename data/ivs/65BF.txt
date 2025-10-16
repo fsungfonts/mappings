@@ -1,5 +1,0 @@
-65BF FE00; FSung-Academic; FS102D42
-65BF FE01; FSung-Academic; FS102D43
-65BF FE02; FSung-Academic; FS102D44
-65BF FE03; FSung-Academic; FS103B74
-65BF FE04; FSung-Academic; FS103B75

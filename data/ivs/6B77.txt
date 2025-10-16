@@ -1,6 +1,0 @@
-6B77 FE00; FSung-Academic; FS0F1797
-6B77 FE01; FSung-Academic; FS0F17BD
-6B77 FE02; FSung-Academic; FS0FA155
-6B77 FE03; FSung-Academic; FS1006C0
-6B77 FE04; FSung-Academic; FS1006C1
-6B77 FE05; FSung-Academic; FS1006C2

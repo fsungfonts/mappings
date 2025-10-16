@@ -1,4 +1,0 @@
-7725 FE00; FSung-Academic; FS1030DF
-7725 FE01; FSung-Academic; FS1030E0
-7725 FE02; FSung-Academic; FS1030E1
-7725 FE03; FSung-Academic; FS1030E2

@@ -1,3 +1,0 @@
-270DD FE00; FSung-Academic; FS104D53
-270DD FE01; FSung-Academic; FS104D54
-270DD FE02; FSung-Academic; FS104D55

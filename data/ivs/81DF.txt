@@ -1,4 +1,0 @@
-81DF FE00; FSung-Academic; FS1015FD
-81DF FE01; FSung-Academic; FS1015FE
-81DF FE02; FSung-Academic; FS1015FF
-81DF FE03; FSung-Academic; FS101600

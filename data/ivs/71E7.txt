@@ -1,5 +1,0 @@
-71E7 FE00; FSung-Academic; FS0F0D2B
-71E7 FE01; FSung-Academic; FS0FC2A1
-71E7 FE02; FSung-Academic; FS100A76
-71E7 FE03; FSung-Academic; FS100A77
-71E7 FE04; FSung-Academic; FS100A78

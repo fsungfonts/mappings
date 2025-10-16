@@ -1,4 +1,0 @@
-2713A FE00; FSung-Academic; FS104D6D
-2713A FE01; FSung-Academic; FS104D6E
-2713A FE02; FSung-Academic; FS104D6F
-2713A FE03; FSung-Academic; FS104D70

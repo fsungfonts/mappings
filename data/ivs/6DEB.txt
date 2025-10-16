@@ -1,4 +1,0 @@
-6DEB FE00; FSung-Academic; FS0F44D5
-6DEB FE01; FSung-Academic; FS0F4549
-6DEB FE02; FSung-Academic; FS0F6C6A
-6DEB FE03; FSung-Academic; FS100817

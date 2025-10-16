@@ -1,4 +1,0 @@
-2888C FE00; FSung-Academic; FS105091
-2888C FE01; FSung-Academic; FS105092
-2888C FE02; FSung-Academic; FS105093
-2888C FE03; FSung-Academic; FS105094

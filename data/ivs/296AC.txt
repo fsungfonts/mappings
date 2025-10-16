@@ -1,3 +1,0 @@
-296AC FE00; FSung-Academic; FS1052FA
-296AC FE01; FSung-Academic; FS1052FB
-296AC FE02; FSung-Academic; FS1052FC

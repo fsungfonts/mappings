@@ -1,3 +1,0 @@
-364F FE00; FSung-Academic; FS104113
-364F FE01; FSung-Academic; FS104114
-364F FE02; FSung-Academic; FS104115

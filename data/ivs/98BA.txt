@@ -1,6 +1,0 @@
-98BA FE00; FSung-Academic; FS0F2174
-98BA FE01; FSung-Academic; FS0F217B
-98BA FE02; FSung-Academic; FS1025B3
-98BA FE03; FSung-Academic; FS1025B4
-98BA FE04; FSung-Academic; FS1025B5
-98BA FE05; FSung-Academic; FS1025B6

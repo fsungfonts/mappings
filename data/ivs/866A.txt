@@ -1,4 +1,0 @@
-866A FE00; FSung-Academic; FS103489
-866A FE01; FSung-Academic; FS10348A
-866A FE02; FSung-Academic; FS10348B
-866A FE03; FSung-Academic; FS10348C

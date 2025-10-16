@@ -1,3 +1,0 @@
-730A FE00; FSung-Academic; FS102FD4
-730A FE01; FSung-Academic; FS102FD5
-730A FE02; FSung-Academic; FS102FD6

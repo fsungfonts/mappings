@@ -1,3 +1,0 @@
-852C FE00; FSung-Academic; FS0F33B7
-852C FE01; FSung-Academic; FS10187B
-852C FE02; FSung-Academic; FS10187C

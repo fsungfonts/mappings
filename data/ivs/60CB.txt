@@ -1,6 +1,0 @@
-60CB FE00; FSung-Academic; FS0F476C
-60CB FE01; FSung-Academic; FS0FFE70
-60CB FE02; FSung-Academic; FS0FFE71
-60CB FE03; FSung-Academic; FS0FFE72
-60CB FE04; FSung-Academic; FS0FFE73
-60CB FE05; FSung-Academic; FS0FFE74

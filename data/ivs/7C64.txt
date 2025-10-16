@@ -1,6 +1,0 @@
-7C64 FE00; FSung-Academic; FS0FD76A
-7C64 FE01; FSung-Academic; FS0FD778
-7C64 FE02; FSung-Academic; FS1011A2
-7C64 FE03; FSung-Academic; FS1011A3
-7C64 FE04; FSung-Academic; FS1011A4
-7C64 FE05; FSung-Academic; FS1011A5

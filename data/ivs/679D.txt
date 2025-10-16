@@ -1,6 +1,0 @@
-679D FE00; FSung-Academic; FS1004B7
-679D FE01; FSung-Academic; FS1004B8
-679D FE02; FSung-Academic; FS1004B9
-679D FE03; FSung-Academic; FS1004BA
-679D FE04; FSung-Academic; FS1004BB
-679D FE05; FSung-Academic; FS1004BC

@@ -1,4 +1,0 @@
-98AF FE00; FSung-Academic; FS0FD042
-98AF FE01; FSung-Academic; FS0FD043
-98AF FE02; FSung-Academic; FS1025B1
-98AF FE03; FSung-Academic; FS1025B2

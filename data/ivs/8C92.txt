@@ -1,5 +1,0 @@
-8C92 FE00; FSung-Academic; FS103640
-8C92 FE01; FSung-Academic; FS103641
-8C92 FE02; FSung-Academic; FS103642
-8C92 FE03; FSung-Academic; FS103643
-8C92 FE04; FSung-Academic; FS103644

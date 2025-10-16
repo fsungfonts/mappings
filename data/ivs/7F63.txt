@@ -1,4 +1,0 @@
-7F63 FE00; FSung-Academic; FS1032AE
-7F63 FE01; FSung-Academic; FS1032AF
-7F63 FE02; FSung-Academic; FS1032B0
-7F63 FE03; FSung-Academic; FS1032B1

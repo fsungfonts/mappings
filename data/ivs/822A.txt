@@ -1,6 +1,0 @@
-822A FE00; FSung-Academic; FS0F0A21
-822A FE01; FSung-Academic; FS0F0A24
-822A FE02; FSung-Academic; FS0FD864
-822A FE03; FSung-Academic; FS1016C2
-822A FE04; FSung-Academic; FS1016C3
-822A FE05; FSung-Academic; FS1016C4

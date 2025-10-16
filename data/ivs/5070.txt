@@ -1,4 +1,0 @@
-5070 FE00; FSung-Academic; FS10297B
-5070 FE01; FSung-Academic; FS10297C
-5070 FE02; FSung-Academic; FS10297D
-5070 FE03; FSung-Academic; FS10297E

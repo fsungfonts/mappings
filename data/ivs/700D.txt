@@ -1,5 +1,0 @@
-700D FE00; FSung-Academic; FS0F4462
-700D FE01; FSung-Academic; FS0F44B6
-700D FE02; FSung-Academic; FS0F44B7
-700D FE03; FSung-Academic; FS102F49
-700D FE04; FSung-Academic; FS102F4A

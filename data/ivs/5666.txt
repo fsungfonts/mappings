@@ -1,6 +1,0 @@
-5666 FE00; FSung-Academic; FS102A84
-5666 FE01; FSung-Academic; FS102A85
-5666 FE02; FSung-Academic; FS102A86
-5666 FE03; FSung-Academic; FS102A87
-5666 FE04; FSung-Academic; FS102A88
-5666 FE05; FSung-Academic; FS103AD5

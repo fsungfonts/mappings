@@ -1,4 +1,0 @@
-8C99 FE00; FSung-Academic; FS10364E
-8C99 FE01; FSung-Academic; FS10364F
-8C99 FE02; FSung-Academic; FS103650
-8C99 FE03; FSung-Academic; FS103651

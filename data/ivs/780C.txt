@@ -1,5 +1,0 @@
-780C FE00; FSung-Academic; FS0F980E
-780C FE01; FSung-Academic; FS0FC822
-780C FE02; FSung-Academic; FS100EA1
-780C FE03; FSung-Academic; FS100EA2
-780C FE04; FSung-Academic; FS100EA4

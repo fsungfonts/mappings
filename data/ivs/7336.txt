@@ -1,7 +1,0 @@
-7336 FE00; FSung-Academic; FS0F4044
-7336 FE01; FSung-Academic; FS0F406A
-7336 FE02; FSung-Academic; FS0F4070
-7336 FE03; FSung-Academic; FS100B68
-7336 FE04; FSung-Academic; FS100B6A
-7336 FE05; FSung-Academic; FS100B6B
-7336 FE06; FSung-Academic; FS100B6C

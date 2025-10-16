@@ -1,3 +1,0 @@
-423F FE00; FSung-Academic; FS104A3F
-423F FE01; FSung-Academic; FS104A40
-423F FE02; FSung-Academic; FS104A41

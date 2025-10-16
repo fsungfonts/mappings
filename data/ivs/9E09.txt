@@ -1,4 +1,0 @@
-9E09 FE00; FSung-Academic; FS103E84
-9E09 FE01; FSung-Academic; FS103E85
-9E09 FE02; FSung-Academic; FS103E86
-9E09 FE03; FSung-Academic; FS103E87

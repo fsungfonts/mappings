@@ -1,3 +1,0 @@
-7B99 FE00; FSung-Academic; FS1031CA
-7B99 FE01; FSung-Academic; FS1031CB
-7B99 FE02; FSung-Academic; FS1031CC

@@ -1,4 +1,0 @@
-7330 FE00; FSung-Academic; FS102FDA
-7330 FE01; FSung-Academic; FS102FDB
-7330 FE02; FSung-Academic; FS102FDC
-7330 FE03; FSung-Academic; FS102FDD

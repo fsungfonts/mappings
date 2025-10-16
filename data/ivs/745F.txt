@@ -1,6 +1,0 @@
-745F FE00; FSung-Academic; FS0F1F59
-745F FE01; FSung-Academic; FS0F23B4
-745F FE02; FSung-Academic; FS0FAFE2
-745F FE03; FSung-Academic; FS100C1A
-745F FE04; FSung-Academic; FS100C1B
-745F FE05; FSung-Academic; FS100C1C

@@ -1,5 +1,0 @@
-5115 FE00; FSung-Academic; FS0F1C53
-5115 FE01; FSung-Academic; FS1029BE
-5115 FE02; FSung-Academic; FS1029BF
-5115 FE03; FSung-Academic; FS1029C0
-5115 FE04; FSung-Academic; FS1029C1

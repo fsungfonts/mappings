@@ -1,3 +1,0 @@
-7DEF FE00; FSung-Academic; FS101253
-7DEF FE01; FSung-Academic; FS101254
-7DEF FE02; FSung-Academic; FS101255

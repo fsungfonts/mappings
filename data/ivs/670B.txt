@@ -1,7 +1,0 @@
-670B FE00; FSung-Academic; FS0F14A8
-670B FE01; FSung-Academic; FS0FBE43
-670B FE02; FSung-Academic; FS10045D
-670B FE03; FSung-Academic; FS10045E
-670B FE04; FSung-Academic; FS10045F
-670B FE05; FSung-Academic; FS100460
-670B FE06; FSung-Academic; FS100461

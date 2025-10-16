@@ -1,6 +1,0 @@
-5916 FE00; FSung-Academic; FS0F1946
-5916 FE01; FSung-Academic; FS0F40C0
-5916 FE02; FSung-Academic; FS0F62F1
-5916 FE03; FSung-Academic; FS0F62F6
-5916 FE04; FSung-Academic; FS0F62F9
-5916 FE05; FSung-Academic; FS0FB47F

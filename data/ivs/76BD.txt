@@ -1,5 +1,0 @@
-76BD FE00; FSung-Academic; FS0FD29B
-76BD FE01; FSung-Academic; FS1030CD
-76BD FE02; FSung-Academic; FS1030CE
-76BD FE03; FSung-Academic; FS1030CF
-76BD FE04; FSung-Academic; FS1030D0

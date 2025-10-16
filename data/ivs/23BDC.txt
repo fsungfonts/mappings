@@ -1,3 +1,0 @@
-23BDC FE00; FSung-Academic; FS0FBB83
-23BDC FE01; FSung-Academic; FS0FBB9B
-23BDC FE02; FSung-Academic; FS1045E0

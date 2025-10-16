@@ -1,4 +1,0 @@
-5DCB FE00; FSung-Academic; FS102BA6
-5DCB FE01; FSung-Academic; FS103B68
-5DCB FE02; FSung-Academic; FS103B69
-5DCB FE03; FSung-Academic; FS103B6A

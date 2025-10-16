@@ -1,6 +1,0 @@
-8EAC FE00; FSung-Academic; FS0FE1AB
-8EAC FE01; FSung-Academic; FS101F00
-8EAC FE02; FSung-Academic; FS101F01
-8EAC FE03; FSung-Academic; FS101F02
-8EAC FE04; FSung-Academic; FS101F03
-8EAC FE05; FSung-Academic; FS101F04

@@ -1,5 +1,0 @@
-55DC FE00; FSung-Academic; FS0F389A
-55DC FE01; FSung-Academic; FS0F3911
-55DC FE02; FSung-Academic; FS0F56F0
-55DC FE03; FSung-Academic; FS0F56F1
-55DC FE04; FSung-Academic; FS0FEB4C

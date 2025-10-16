@@ -1,5 +1,0 @@
-4C61 FE00; FSung-Academic; FS0F3474
-4C61 FE01; FSung-Academic; FS1055C9
-4C61 FE02; FSung-Academic; FS1055CA
-4C61 FE03; FSung-Academic; FS1055CB
-4C61 FE04; FSung-Academic; FS1055CC

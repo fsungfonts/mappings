@@ -1,4 +1,0 @@
-87AD FE00; FSung-Academic; FS1034E5
-87AD FE01; FSung-Academic; FS1034E6
-87AD FE02; FSung-Academic; FS1034E7
-87AD FE03; FSung-Academic; FS1034E8

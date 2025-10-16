@@ -1,4 +1,0 @@
-61F1 FE00; FSung-Academic; FS0F47FD
-61F1 FE01; FSung-Academic; FS0F4821
-61F1 FE02; FSung-Academic; FS102C84
-61F1 FE03; FSung-Academic; FS102C85

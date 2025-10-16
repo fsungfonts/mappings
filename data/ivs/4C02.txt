@@ -1,2 +1,0 @@
-4C02 FE00; FSung-Academic; FS105457
-4C02 FE01; FSung-Academic; FS105458

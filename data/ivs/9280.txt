@@ -1,6 +1,0 @@
-9280 FE00; FSung-Academic; FS1021EB
-9280 FE01; FSung-Academic; FS1021EC
-9280 FE02; FSung-Academic; FS1021ED
-9280 FE03; FSung-Academic; FS1021EE
-9280 FE04; FSung-Academic; FS1021EF
-9280 FE05; FSung-Academic; FS1021F0

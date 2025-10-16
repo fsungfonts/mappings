@@ -1,3 +1,0 @@
-4C16 FE00; FSung-Academic; FS1054CC
-4C16 FE01; FSung-Academic; FS1054CD
-4C16 FE02; FSung-Academic; FS1054CE

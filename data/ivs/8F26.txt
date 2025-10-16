@@ -1,3 +1,0 @@
-8F26 FE00; FSung-Academic; FS0F6709
-8F26 FE01; FSung-Academic; FS0FE5A8
-8F26 FE02; FSung-Academic; FS101F38

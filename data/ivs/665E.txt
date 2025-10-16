@@ -1,7 +1,0 @@
-665E FE00; FSung-Academic; FS0FB83D
-665E FE01; FSung-Academic; FS0FB851
-665E FE02; FSung-Academic; FS0FB85C
-665E FE03; FSung-Academic; FS0FB86F
-665E FE04; FSung-Academic; FS0FC933
-665E FE05; FSung-Academic; FS0FC94C
-665E FE06; FSung-Academic; FS0FC97A

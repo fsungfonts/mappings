@@ -1,4 +1,0 @@
-616C FE00; FSung-Academic; FS102C4E
-616C FE01; FSung-Academic; FS102C4F
-616C FE02; FSung-Academic; FS102C50
-616C FE03; FSung-Academic; FS102C51

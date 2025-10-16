@@ -1,4 +1,0 @@
-22531 FE00; FSung-Academic; FS0F1180
-22531 FE01; FSung-Academic; FS0FF28C
-22531 FE02; FSung-Academic; FS10433E
-22531 FE03; FSung-Academic; FS10433F

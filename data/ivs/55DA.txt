@@ -1,6 +1,0 @@
-55DA FE00; FSung-Academic; FS0F38DC
-55DA FE01; FSung-Academic; FS0F570B
-55DA FE02; FSung-Academic; FS0F570C
-55DA FE03; FSung-Academic; FS0F570D
-55DA FE04; FSung-Academic; FS0F570E
-55DA FE05; FSung-Academic; FS0F570F

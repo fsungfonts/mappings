@@ -1,5 +1,0 @@
-9900 FE00; FSung-Academic; FS103C66
-9900 FE01; FSung-Academic; FS103C67
-9900 FE02; FSung-Academic; FS103C68
-9900 FE03; FSung-Academic; FS103C69
-9900 FE04; FSung-Academic; FS103C6A

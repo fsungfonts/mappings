@@ -1,3 +1,0 @@
-29B39 FE00; FSung-Academic; FS10542B
-29B39 FE01; FSung-Academic; FS10542C
-29B39 FE02; FSung-Academic; FS10542D

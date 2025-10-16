@@ -1,5 +1,0 @@
-85EA FE00; FSung-Academic; FS0F336A
-85EA FE01; FSung-Academic; FS101945
-85EA FE02; FSung-Academic; FS101946
-85EA FE03; FSung-Academic; FS101947
-85EA FE04; FSung-Academic; FS103A6F

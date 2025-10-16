@@ -1,4 +1,0 @@
-76E4 FE00; FSung-Academic; FS100DE2
-76E4 FE01; FSung-Academic; FS100DE3
-76E4 FE02; FSung-Academic; FS100DE4
-76E4 FE03; FSung-Academic; FS100DE5

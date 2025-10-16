@@ -1,3 +1,0 @@
-8C75 FE00; FSung-Academic; FS10362B
-8C75 FE01; FSung-Academic; FS10362C
-8C75 FE02; FSung-Academic; FS10362D

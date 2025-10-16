@@ -1,5 +1,0 @@
-5026 FE00; FSung-Academic; FS0F3EE3
-5026 FE01; FSung-Academic; FS0F68F8
-5026 FE02; FSung-Academic; FS0F6D38
-5026 FE03; FSung-Academic; FS103948
-5026 FE04; FSung-Academic; FS103949

@@ -1,7 +1,0 @@
-9783 FE00; FSung-Academic; FS103BE4
-9783 FE01; FSung-Academic; FS103BE5
-9783 FE02; FSung-Academic; FS103BE6
-9783 FE03; FSung-Academic; FS103BE7
-9783 FE04; FSung-Academic; FS103BE8
-9783 FE05; FSung-Academic; FS103BE9
-9783 FE06; FSung-Academic; FS103BEA

@@ -1,2 +1,0 @@
-80F2 FE00; FSung-Academic; FS103337
-80F2 FE01; FSung-Academic; FS103338

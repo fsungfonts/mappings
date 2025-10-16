@@ -1,6 +1,0 @@
-794B FE00; FSung-Academic; FS0FC466
-794B FE01; FSung-Academic; FS0FC49B
-794B FE02; FSung-Academic; FS0FD1BD
-794B FE03; FSung-Academic; FS103145
-794B FE04; FSung-Academic; FS103146
-794B FE05; FSung-Academic; FS103147

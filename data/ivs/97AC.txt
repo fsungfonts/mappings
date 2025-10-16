@@ -1,3 +1,0 @@
-97AC FE00; FSung-Academic; FS103C0B
-97AC FE01; FSung-Academic; FS103C0C
-97AC FE02; FSung-Academic; FS103C0D

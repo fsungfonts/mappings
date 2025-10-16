@@ -1,5 +1,0 @@
-6B9B FE00; FSung-Academic; FS0FC8BC
-6B9B FE01; FSung-Academic; FS102E69
-6B9B FE02; FSung-Academic; FS102E6A
-6B9B FE03; FSung-Academic; FS102E6B
-6B9B FE04; FSung-Academic; FS102E6C

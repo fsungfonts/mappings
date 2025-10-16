@@ -1,4 +1,0 @@
-650D FE00; FSung-Academic; FS0FF16D
-650D FE01; FSung-Academic; FS102D07
-650D FE02; FSung-Academic; FS102D08
-650D FE03; FSung-Academic; FS102D09

@@ -1,7 +1,0 @@
-7455 FE00; FSung-Academic; FS100C12
-7455 FE01; FSung-Academic; FS100C13
-7455 FE02; FSung-Academic; FS100C14
-7455 FE03; FSung-Academic; FS100C15
-7455 FE04; FSung-Academic; FS100C16
-7455 FE05; FSung-Academic; FS100C17
-7455 FE06; FSung-Academic; FS100C18

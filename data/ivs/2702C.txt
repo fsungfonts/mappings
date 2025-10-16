@@ -1,3 +1,0 @@
-2702C FE00; FSung-Academic; FS104D43
-2702C FE01; FSung-Academic; FS104D44
-2702C FE02; FSung-Academic; FS104D45

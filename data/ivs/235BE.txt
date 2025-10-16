@@ -1,3 +1,0 @@
-235BE FE00; FSung-Academic; FS1044CA
-235BE FE01; FSung-Academic; FS1044CB
-235BE FE02; FSung-Academic; FS1044CC

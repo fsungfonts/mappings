@@ -1,4 +1,0 @@
-579B FE00; FSung-Academic; FS0F264C
-579B FE01; FSung-Academic; FS0FF53D
-579B FE02; FSung-Academic; FS0FF53E
-579B FE03; FSung-Academic; FS102ABE

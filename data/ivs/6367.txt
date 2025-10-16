@@ -1,3 +1,0 @@
-6367 FE00; FSung-Academic; FS1000ED
-6367 FE01; FSung-Academic; FS1000EE
-6367 FE02; FSung-Academic; FS1000EF

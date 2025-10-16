@@ -1,3 +1,0 @@
-640F FE00; FSung-Academic; FS100143
-640F FE01; FSung-Academic; FS100144
-640F FE02; FSung-Academic; FS100145

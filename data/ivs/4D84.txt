@@ -1,3 +1,0 @@
-4D84 FE00; FSung-Academic; FS105807
-4D84 FE01; FSung-Academic; FS105808
-4D84 FE02; FSung-Academic; FS105809

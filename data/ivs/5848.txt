@@ -1,5 +1,0 @@
-5848 FE00; FSung-Academic; FS102AEC
-5848 FE01; FSung-Academic; FS102AED
-5848 FE02; FSung-Academic; FS102AEE
-5848 FE03; FSung-Academic; FS102AEF
-5848 FE04; FSung-Academic; FS102AF0

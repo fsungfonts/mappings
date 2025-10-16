@@ -1,6 +1,0 @@
-5A90 FE00; FSung-Academic; FS1041A2
-5A90 FE01; FSung-Academic; FS1041A3
-5A90 FE02; FSung-Academic; FS1041A4
-5A90 FE03; FSung-Academic; FS1041A5
-5A90 FE04; FSung-Academic; FS1041A6
-5A90 FE05; FSung-Academic; FS1041A7

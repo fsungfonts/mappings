@@ -1,4 +1,0 @@
-8171 FE00; FSung-Academic; FS0F5196
-8171 FE01; FSung-Academic; FS0FBF44
-8171 FE02; FSung-Academic; FS101588
-8171 FE03; FSung-Academic; FS101589

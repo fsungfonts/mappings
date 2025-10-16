@@ -1,4 +1,0 @@
-4000 FE00; FSung-Academic; FS10484E
-4000 FE01; FSung-Academic; FS10484F
-4000 FE02; FSung-Academic; FS104850
-4000 FE03; FSung-Academic; FS104851

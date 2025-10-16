@@ -1,3 +1,0 @@
-7369 FE00; FSung-Academic; FS102FF2
-7369 FE01; FSung-Academic; FS102FF3
-7369 FE02; FSung-Academic; FS102FF4

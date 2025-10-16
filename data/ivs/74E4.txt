@@ -1,6 +1,0 @@
-74E4 FE00; FSung-Academic; FS0F230D
-74E4 FE01; FSung-Academic; FS0FCE8B
-74E4 FE02; FSung-Academic; FS103051
-74E4 FE03; FSung-Academic; FS103052
-74E4 FE04; FSung-Academic; FS103053
-74E4 FE05; FSung-Academic; FS103054

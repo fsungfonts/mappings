@@ -1,7 +1,0 @@
-527A FE00; FSung-Academic; FS0F5805
-527A FE01; FSung-Academic; FS0FDDBF
-527A FE02; FSung-Academic; FS0FEFA9
-527A FE03; FSung-Academic; FS1029F6
-527A FE04; FSung-Academic; FS1029F7
-527A FE05; FSung-Academic; FS103AC8
-527A FE06; FSung-Academic; FS103AC9

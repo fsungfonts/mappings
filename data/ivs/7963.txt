@@ -1,3 +1,0 @@
-7963 FE00; FSung-Academic; FS10315B
-7963 FE01; FSung-Academic; FS10315C
-7963 FE02; FSung-Academic; FS10315D

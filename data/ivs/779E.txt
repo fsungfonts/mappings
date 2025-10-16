@@ -1,5 +1,0 @@
-779E FE00; FSung-Academic; FS0F546B
-779E FE01; FSung-Academic; FS0FC9F1
-779E FE02; FSung-Academic; FS0FC9F6
-779E FE03; FSung-Academic; FS100E53
-779E FE04; FSung-Academic; FS100E54

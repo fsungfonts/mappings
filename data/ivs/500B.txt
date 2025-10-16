@@ -1,3 +1,0 @@
-500B FE00; FSung-Academic; FS0F6908
-500B FE01; FSung-Academic; FS0F6909
-500B FE02; FSung-Academic; FS0F690A

@@ -1,2 +1,0 @@
-27ADD FE00; FSung-Academic; FS104EC6
-27ADD FE01; FSung-Academic; FS104EC7

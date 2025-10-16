@@ -1,3 +1,0 @@
-240F4 FE00; FSung-Academic; FS10594F
-240F4 FE01; FSung-Academic; FS105950
-240F4 FE02; FSung-Academic; FS105951

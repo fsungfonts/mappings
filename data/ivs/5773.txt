@@ -1,4 +1,0 @@
-5773 FE00; FSung-Academic; FS0F2BE0
-5773 FE01; FSung-Academic; FS0F2C90
-5773 FE02; FSung-Academic; FS102ABA
-5773 FE03; FSung-Academic; FS102ABB

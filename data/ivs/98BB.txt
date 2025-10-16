@@ -1,6 +1,0 @@
-98BB FE00; FSung-Academic; FS0FEB7B
-98BB FE01; FSung-Academic; FS103C4C
-98BB FE02; FSung-Academic; FS103C4D
-98BB FE03; FSung-Academic; FS103C4E
-98BB FE04; FSung-Academic; FS103C4F
-98BB FE05; FSung-Academic; FS103C50

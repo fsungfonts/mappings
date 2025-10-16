@@ -1,6 +1,0 @@
-7628 FE00; FSung-Academic; FS0F65DE
-7628 FE01; FSung-Academic; FS100D72
-7628 FE02; FSung-Academic; FS100D74
-7628 FE03; FSung-Academic; FS10480A
-7628 FE04; FSung-Academic; FS10480B
-7628 FE05; FSung-Academic; FS10480C

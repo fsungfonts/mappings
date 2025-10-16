@@ -1,3 +1,0 @@
-6D16 FE00; FSung-Academic; FS1045FA
-6D16 FE01; FSung-Academic; FS1045FB
-6D16 FE02; FSung-Academic; FS1045FC

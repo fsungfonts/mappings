@@ -1,4 +1,0 @@
-9DCF FE00; FSung-Academic; FS103E4F
-9DCF FE01; FSung-Academic; FS103E50
-9DCF FE02; FSung-Academic; FS103E51
-9DCF FE03; FSung-Academic; FS103E52

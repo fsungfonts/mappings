@@ -1,6 +1,0 @@
-8CAA FE00; FSung-Academic; FS0F1F0E
-8CAA FE01; FSung-Academic; FS0F1F45
-8CAA FE02; FSung-Academic; FS101DC2
-8CAA FE03; FSung-Academic; FS101DC3
-8CAA FE04; FSung-Academic; FS101DC4
-8CAA FE05; FSung-Academic; FS101DC5

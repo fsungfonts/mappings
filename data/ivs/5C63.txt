@@ -1,6 +1,0 @@
-5C63 FE00; FSung-Academic; FS0F4D06
-5C63 FE01; FSung-Academic; FS0F4D3A
-5C63 FE02; FSung-Academic; FS0F4D5D
-5C63 FE03; FSung-Academic; FS102B78
-5C63 FE04; FSung-Academic; FS102B79
-5C63 FE05; FSung-Academic; FS102B7A

@@ -1,3 +1,0 @@
-288C1 FE00; FSung-Academic; FS0F0B32
-288C1 FE01; FSung-Academic; FS1050A0
-288C1 FE02; FSung-Academic; FS1050A1

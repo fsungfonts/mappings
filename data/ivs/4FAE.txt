@@ -1,5 +1,0 @@
-4FAE FE00; FSung-Academic; FS0F68EC
-4FAE FE01; FSung-Academic; FS0F68ED
-4FAE FE02; FSung-Academic; FS0F68EE
-4FAE FE03; FSung-Academic; FS0F68EF
-4FAE FE04; FSung-Academic; FS0F68F0

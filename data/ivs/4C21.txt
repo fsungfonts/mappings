@@ -1,4 +1,0 @@
-4C21 FE00; FSung-Academic; FS105521
-4C21 FE01; FSung-Academic; FS105522
-4C21 FE02; FSung-Academic; FS105523
-4C21 FE03; FSung-Academic; FS105524

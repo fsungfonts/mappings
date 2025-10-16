@@ -1,5 +1,0 @@
-85A7 FE00; FSung-Academic; FS10340C
-85A7 FE01; FSung-Academic; FS10340D
-85A7 FE02; FSung-Academic; FS10340E
-85A7 FE03; FSung-Academic; FS10340F
-85A7 FE04; FSung-Academic; FS103410

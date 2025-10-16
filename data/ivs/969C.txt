@@ -1,4 +1,0 @@
-969C FE00; FSung-Academic; FS0F26FC
-969C FE01; FSung-Academic; FS0F27E0
-969C FE02; FSung-Academic; FS102388
-969C FE03; FSung-Academic; FS102389

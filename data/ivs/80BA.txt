@@ -1,4 +1,0 @@
-80BA FE00; FSung-Academic; FS0F5192
-80BA FE01; FSung-Academic; FS0F597C
-80BA FE02; FSung-Academic; FS101520
-80BA FE03; FSung-Academic; FS101521

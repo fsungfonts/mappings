@@ -1,6 +1,0 @@
-5B5D FE00; FSung-Academic; FS0F29EA
-5B5D FE01; FSung-Academic; FS0F4E7C
-5B5D FE02; FSung-Academic; FS0F4E86
-5B5D FE03; FSung-Academic; FS0F4E90
-5B5D FE04; FSung-Academic; FS1039BE
-5B5D FE05; FSung-Academic; FS1039BF

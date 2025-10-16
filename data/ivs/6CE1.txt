@@ -1,6 +1,0 @@
-6CE1 FE00; FSung-Academic; FS0F6C39
-6CE1 FE01; FSung-Academic; FS0F6C3A
-6CE1 FE02; FSung-Academic; FS0F6CAB
-6CE1 FE03; FSung-Academic; FS0F8E2B
-6CE1 FE04; FSung-Academic; FS0FA837
-6CE1 FE05; FSung-Academic; FS0FE4F7

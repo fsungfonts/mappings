@@ -1,4 +1,0 @@
-250AC FE00; FSung-Academic; FS0F236E
-250AC FE01; FSung-Academic; FS0F23A1
-250AC FE02; FSung-Academic; FS0F23C8
-250AC FE03; FSung-Academic; FS10485C

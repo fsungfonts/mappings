@@ -1,5 +1,0 @@
-7E1D FE00; FSung-Academic; FS0F096E
-7E1D FE01; FSung-Academic; FS0F95F3
-7E1D FE02; FSung-Academic; FS103257
-7E1D FE03; FSung-Academic; FS103258
-7E1D FE04; FSung-Academic; FS103259

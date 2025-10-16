@@ -1,4 +1,0 @@
-7F86 FE00; FSung-Academic; FS0F2AF8
-7F86 FE01; FSung-Academic; FS1032D8
-7F86 FE02; FSung-Academic; FS1032D9
-7F86 FE03; FSung-Academic; FS1032DA

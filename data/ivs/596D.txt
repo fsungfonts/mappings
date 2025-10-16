@@ -1,7 +1,0 @@
-596D FE00; FSung-Academic; FS0F22DC
-596D FE01; FSung-Academic; FS0F236B
-596D FE02; FSung-Academic; FS0F3557
-596D FE03; FSung-Academic; FS102B2A
-596D FE04; FSung-Academic; FS102B2B
-596D FE05; FSung-Academic; FS102B2C
-596D FE06; FSung-Academic; FS102B2D

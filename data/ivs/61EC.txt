@@ -1,3 +1,0 @@
-61EC FE00; FSung-Academic; FS1043DB
-61EC FE01; FSung-Academic; FS1043DC
-61EC FE02; FSung-Academic; FS1043DD

@@ -1,4 +1,0 @@
-9022 FE00; FSung-Academic; FS0FF38B
-9022 FE01; FSung-Academic; FS0FF3C7
-9022 FE02; FSung-Academic; FS0FF401
-9022 FE03; FSung-Academic; FS10200B

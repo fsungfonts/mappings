@@ -1,3 +1,0 @@
-914F FE00; FSung-Academic; FS10375C
-914F FE01; FSung-Academic; FS10375D
-914F FE02; FSung-Academic; FS10375E

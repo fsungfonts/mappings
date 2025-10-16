@@ -1,6 +1,0 @@
-503C FE00; FSung-Academic; FS0F05EA
-503C FE01; FSung-Academic; FS0F68BB
-503C FE02; FSung-Academic; FS0F68FC
-503C FE03; FSung-Academic; FS0F68FD
-503C FE04; FSung-Academic; FS0F68FE
-503C FE05; FSung-Academic; FS0F695F

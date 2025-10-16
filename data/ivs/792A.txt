@@ -1,5 +1,0 @@
-792A FE00; FSung-Academic; FS0F38AC
-792A FE01; FSung-Academic; FS0FC862
-792A FE02; FSung-Academic; FS100EF4
-792A FE03; FSung-Academic; FS100EF5
-792A FE04; FSung-Academic; FS100EF6

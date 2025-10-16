@@ -1,6 +1,0 @@
-992E FE00; FSung-Academic; FS0FEADC
-992E FE01; FSung-Academic; FS0FEADF
-992E FE02; FSung-Academic; FS0FEB1C
-992E FE03; FSung-Academic; FS0FEB33
-992E FE04; FSung-Academic; FS103C7E
-992E FE05; FSung-Academic; FS103C7F

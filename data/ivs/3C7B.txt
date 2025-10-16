@@ -1,5 +1,0 @@
-3C7B FE00; FSung-Academic; FS1045BD
-3C7B FE01; FSung-Academic; FS1045BE
-3C7B FE02; FSung-Academic; FS1045BF
-3C7B FE03; FSung-Academic; FS1045C0
-3C7B FE04; FSung-Academic; FS1045C1

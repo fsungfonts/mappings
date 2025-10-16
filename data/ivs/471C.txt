@@ -1,5 +1,0 @@
-471C FE00; FSung-Academic; FS0FE450
-471C FE01; FSung-Academic; FS104EE0
-471C FE02; FSung-Academic; FS104EE1
-471C FE03; FSung-Academic; FS104EE2
-471C FE04; FSung-Academic; FS104EE3

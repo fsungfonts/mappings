@@ -1,3 +1,0 @@
-69F8 FE00; FSung-Academic; FS102DDD
-69F8 FE01; FSung-Academic; FS102DDE
-69F8 FE02; FSung-Academic; FS102DDF

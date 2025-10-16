@@ -1,4 +1,0 @@
-5420 FE00; FSung-Academic; FS0F401B
-5420 FE01; FSung-Academic; FS0F5635
-5420 FE02; FSung-Academic; FS0F5636
-5420 FE03; FSung-Academic; FS0F5637

@@ -1,3 +1,0 @@
-67DA FE00; FSung-Academic; FS1004DA
-67DA FE01; FSung-Academic; FS1004DB
-67DA FE02; FSung-Academic; FS1004DC

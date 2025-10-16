@@ -1,3 +1,0 @@
-8816 FE00; FSung-Academic; FS10352D
-8816 FE01; FSung-Academic; FS10352E
-8816 FE02; FSung-Academic; FS10352F

@@ -1,4 +1,0 @@
-4766 FE00; FSung-Academic; FS104F32
-4766 FE01; FSung-Academic; FS104F33
-4766 FE02; FSung-Academic; FS104F34
-4766 FE03; FSung-Academic; FS104F35
