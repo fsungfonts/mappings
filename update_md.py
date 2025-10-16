@@ -1,8 +1,7 @@
 import sys
 import re
 import os
-from datetime import datetime
-from zoneinfo import ZoneInfo
+from datetime import datetime, timedelta, timezone
 import concurrent.futures
 
 # Precompile regexes
@@ -51,8 +50,7 @@ if __name__ == '__main__':
     changed_files = [line.strip() for line in sys.stdin.readlines() if line.strip()]
     if not changed_files:
         sys.exit(0)
-    # Match sed format: YYYY-MM-DDTHH:MM:SS+0800 (no colon in offset)
-    lastmod = datetime.now(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%dT%H:%M:%S%z')
+    lastmod = datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds")
     threshold = 2  # Sequential for 1 file, parallel for more
     if len(changed_files) < threshold:
         for path in changed_files:
