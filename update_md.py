@@ -7,8 +7,8 @@ import concurrent.futures
 
 # Precompile regexes
 FRONTMATTER_RE = re.compile(r'^---\n(.*?)\n---\n(.*)$', re.DOTALL | re.MULTILINE)
-TAGS_RE = re.compile(r'^tags:\s*(\[ .*? \])$', re.MULTILINE)  # Fixed typo: assumed $$ meant [ and ]
-FIRST_TAG_RE = re.compile(r'\[ \s*["\']?([^"\',]+)["\']?\s*,?')
+TAGS_RE = re.compile(r'^tags:\s*(\[.*?\])$', re.MULTILINE)  # Fixed typo: assumed $$ meant [ and ]
+FIRST_TAG_RE = re.compile(r'\[\s*["\']?([^"\',]+)["\']?\s*,?')
 HEX_RE = re.compile(r'^hex:\s', re.MULTILINE)
 
 def update_file(file_path, lastmod):
