@@ -9,7 +9,7 @@ import concurrent.futures
 FRONTMATTER_RE = re.compile(r'^---\n(.*?)\n---\n(.*)$', re.DOTALL | re.MULTILINE)
 TAGS_RE = re.compile(r'^tags:\s*(\[.*?\])$', re.MULTILINE)  # Fixed typo: assumed $$ meant [ and ]
 FIRST_TAG_RE = re.compile(r'\[\s*["\']?([^"\',]+)["\']?\s*,?')
-HEX_RE = re.compile(r'^hex:\s', re.MULTILINE)
+HEX_RE = re.compile(r'^hex:\s*.*$', re.MULTILINE)
 
 def update_file(file_path, lastmod):
     try:
@@ -34,11 +34,11 @@ def update_file(file_path, lastmod):
         if not first_tag:
             return
         code = ord(first_tag[0])
-        hex_val = f"{code:X}"
+        hex_val = f"'{code:X}'"
         if HEX_RE.search(fm_text):
             fm_text = re.sub(r'^hex:\s*.*$', f"hex: {hex_val}", fm_text, flags=re.MULTILINE)
         else:
-            fm_text = re.sub(r'^(tags:\s*\[.*? \])$', r'\1\nhex: ' + hex_val, fm_text, flags=re.MULTILINE)
+            fm_text = re.sub(r'^(tags:\s*\[.*?\])', r'\1\nhex: ' + hex_val, fm_text, flags=re.MULTILINE)
         # Reassemble and write
         new_content = f"---\n{fm_text}\n---\n{rest}"
         with open(file_path, 'w', encoding='utf-8', buffering=8192) as f:
