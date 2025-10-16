@@ -29,7 +29,7 @@ jobs:
           rm -f static/ivs/*
           python ivs.py
 
-      - name: Update lastmod in changed MDs
+      - name: Update lastmod and hex in changed MDs
         id: lastmod
         run: |
           if [[ "${{ github.event_name }}" == "push" || "${{ github.event_name }}" == workflow_dispatch ]]; then
@@ -41,11 +41,8 @@ jobs:
             echo "Unsupported event: ${{ github.event_name }}"
             exit 1
           fi
-            lastmod=$(TZ=UTC+8 date -Iseconds)
           if [[ -s changed_files.txt ]]; then
-            parallel -a changed_files.txt -q -- \
-              sed -i "0,/lastmod:.*/s//lastmod: '$lastmod'/" {}
-            echo "updated=1" >> $GITHUB_OUTPUT
+            cat changed_files.txt | python update_md.py >> $GITHUB_OUTPUT
           fi
           rm -f changed_files.txt
 
