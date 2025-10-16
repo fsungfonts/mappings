@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󽯥
 url: 󽯥
 tags: [縛]
-hex: 7E1B
+hex: '7E1B'
 src: DCCV
 note:
 ---

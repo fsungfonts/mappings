@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󾶴
 url: 󾶴
 tags: [鯖]
-hex: 9BD6
+hex: '9BD6'
 src: DCCV
 note:
 ---

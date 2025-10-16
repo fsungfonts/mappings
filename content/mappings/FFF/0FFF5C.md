@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󿽜
 url: 󿽜
 tags: [憑]
-hex: 6191
+hex: '6191'
 src: DCCV
 note:
 ---

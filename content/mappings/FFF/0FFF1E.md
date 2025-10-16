@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󿼞
 url: 󿼞
 tags: [慧]
-hex: 6167
+hex: '6167'
 src: DCCV
 note:
 ---

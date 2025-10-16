@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󰫎
 url: 󰫎
 tags: [紱, 紱]
-hex: 7D31
+hex: '7D31'
 src: GHZR, DCCV
 note:
 ---

@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󺹚
 url: 󺹚
 tags: [尋]
-hex: 5C0B
+hex: '5C0B'
 src: DCCV
 note:
 ---

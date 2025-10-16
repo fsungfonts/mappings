@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󻺜
 url: 󻺜
 tags: [脂]
-hex: 8102
+hex: '8102'
 src: DCCV
 note:
 ---

@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󰫽
 url: 󰫽
 tags: [趀, 趀]
-hex: 8D80
+hex: '8D80'
 src: GHZR, DCCV
 note:
 ---

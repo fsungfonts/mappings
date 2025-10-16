@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󻻧
 url: 󻻧
 tags: [滕]
-hex: 6ED5
+hex: '6ED5'
 src: DCCV
 note:
 ---

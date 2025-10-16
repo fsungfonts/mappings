@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󿣾
 url: 󿣾
 tags: [𨷆]
-hex: 28DC6
+hex: '28DC6'
 src: DCCV
 note:
 ---

@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󾴬
 url: 󾴬
 tags: [鷇]
-hex: 9DC7
+hex: '9DC7'
 src: DCCV
 note:
 ---

@@ -5,7 +5,7 @@ lastmod: '2025-10-14T06:42:26+08:00'
 title: 󺪏
 url: 󺪏
 tags: [遺]
-hex: 907A
+hex: '907A'
 src: GHZR
 note:
 ---

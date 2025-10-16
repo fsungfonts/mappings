@@ -5,7 +5,7 @@ lastmod: '2025-10-14T06:42:26+08:00'
 title: 󰳯
 url: 󰳯
 tags: [𧖸]
-hex: 275B8
+hex: '275B8'
 src: GHZR
 note:
 ---
