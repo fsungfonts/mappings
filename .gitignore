@@ -2,3 +2,4 @@ public
 *.lock
 node_modules
 .nvim.lua
+.python-version

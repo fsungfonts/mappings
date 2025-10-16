@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󿻈
 url: 󿻈
 tags: [膳, 膳]
-hex: 
+hex: 81B3
 src: GHZR, DCCV
 note:
 ---

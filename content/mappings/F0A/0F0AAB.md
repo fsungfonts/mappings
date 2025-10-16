@@ -5,7 +5,7 @@ lastmod: '2025-10-14T06:42:24+08:00'
 title: 󰪫
 url: 󰪫
 tags: [芞]
-hex: 
+hex: 829E
 src: GHZR
 note:
 ---

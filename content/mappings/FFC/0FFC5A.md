@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󿱚
 url: 󿱚
 tags: [幻]
-hex: 
+hex: 5E7B
 src: DCCV
 note:
 ---

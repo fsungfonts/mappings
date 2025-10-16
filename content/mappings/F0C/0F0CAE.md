@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󰲮
 url: 󰲮
 tags: [搓, 搓]
-hex: 
+hex: 6413
 src: GHZR, DCCV
 note:
 ---

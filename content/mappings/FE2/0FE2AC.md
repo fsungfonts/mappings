@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󾊬
 url: 󾊬
 tags: [議]
-hex: 
+hex: 8B70
 src: DCCV
 note:
 ---

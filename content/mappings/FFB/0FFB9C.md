@@ -5,7 +5,7 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󿮜
 url: 󿮜
 tags: [岑, 峑]
-hex: 
+hex: 5C91
 src: GHZR DCCV, DCCV
 note:
 ---
