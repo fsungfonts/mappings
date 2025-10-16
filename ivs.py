@@ -6,7 +6,7 @@ import re
 
 # Directory setup
 mappings_dir = Path('content/mappings')
-data_dir = Path('data/ivs')
+data_dir = Path('static/ivs')
 data_dir.mkdir(parents=True, exist_ok=True)
 
 # Precompiled regex for hex validation

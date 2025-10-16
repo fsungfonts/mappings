@@ -22,11 +22,11 @@ jobs:
           fetch-depth: 2
           sparse-checkout: |
             content/
-            data/ivs/
+            static/ivs/
 
       - name: Run script
         run: |
-          rm -f data/ivs/*
+          rm -f static/ivs/*
           python ivs.py
 
       - name: Update lastmod in changed MDs
