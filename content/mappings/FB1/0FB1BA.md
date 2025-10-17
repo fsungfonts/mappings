@@ -1,11 +1,11 @@
 ---
-ivs:
+bc:
+hex:
 date: '2025-10-13T09:30:12+08:00'
 lastmod: '2025-10-14T21:46:45-08:00'
 title: 󻆺
 url: 󻆺
 tags: [㮂]
-hex: '3B82'
 src: DCCV
 note:
 ---

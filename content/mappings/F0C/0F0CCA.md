@@ -1,11 +1,11 @@
 ---
-ivs:
+bc:
+hex:
 date: '2025-10-13T11:34:22+08:00'
 lastmod: '2025-10-14T21:46:45-08:00'
 title: 󰳊
 url: 󰳊
 tags: [眺, 眺]
-hex: '773A'
 src: GHZR, DCCV
 note:
 ---
