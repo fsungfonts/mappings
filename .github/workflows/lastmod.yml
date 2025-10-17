@@ -24,11 +24,6 @@ jobs:
             content/
             static/ivs/
 
-      - name: Run script
-        run: |
-          rm -f static/ivs/*
-          python ivs.py
-
       - name: Update lastmod and hex in changed MDs
         id: lastmod
         run: |
@@ -45,6 +40,11 @@ jobs:
             cat changed_files.txt | python update_md.py >> $GITHUB_OUTPUT
           fi
           rm -f changed_files.txt
+
+      - name: Run script
+        run: |
+          rm -f static/ivs/*
+          python ivs.py
 
       - name: Get author
         id: author

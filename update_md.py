@@ -5,44 +5,60 @@ from datetime import datetime, timedelta, timezone
 import concurrent.futures
 
 # Precompile regexes
-FRONTMATTER_RE = re.compile(r'^---\n(.*?)\n---\n(.*)$', re.DOTALL | re.MULTILINE)
-TAGS_RE = re.compile(r'^tags:\s*(\[.*?\])$', re.MULTILINE)  # Fixed typo: assumed $$ meant [ and ]
-FIRST_TAG_RE = re.compile(r'\[\s*["\']?([^"\',]+)["\']?\s*,?')
-HEX_RE = re.compile(r'^hex:\s*.*$', re.MULTILINE)
+BC_RE = re.compile(r'^bc:\s*(.*)$', re.IGNORECASE)
+HEX_RE = re.compile(r'^hex:\s*.*$', re.IGNORECASE)
+LASTMOD_RE = re.compile(r'^lastmod:.*$', re.IGNORECASE)
 
 def update_file(file_path, lastmod):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-        # Early exit if no frontmatter
-        match = FRONTMATTER_RE.match(content)
-        if not match:
+            lines = f.readlines()
+
+        if len(lines) < 3:
             return
-        fm_text, rest = match.groups()
-        # Update lastmod
-        fm_text = re.sub(r'^lastmod:.*$', f"lastmod: '{lastmod}'", fm_text, flags=re.MULTILINE)
-        # Hex logic
-        tags_match = TAGS_RE.search(fm_text)
-        if not tags_match:
+
+        # Line 2: bc: (unquoted single Unicode character)
+        bc_line = lines[1].strip()
+        bc_match = BC_RE.match(bc_line)
+        if not bc_match:
             return
-        tags_str = tags_match.group(1)
-        first_tag_match = FIRST_TAG_RE.match(tags_str)
-        if not first_tag_match:
+        bc_value = bc_match.group(1).strip()
+        if not bc_value or bc_value == "1":
             return
-        first_tag = first_tag_match.group(1)
-        if not first_tag:
+
+        # Use the first character directly (unquoted)
+        char = bc_value[0]
+        # If more than one character is present, skip (must be a single character)
+        if len(bc_value) != 1:
             return
-        code = ord(first_tag[0])
-        hex_val = f"'{code:X}'"
-        if HEX_RE.search(fm_text):
-            fm_text = re.sub(r'^hex:\s*.*$', f"hex: {hex_val}", fm_text, flags=re.MULTILINE)
+
+        code = ord(char)
+        hex_val = f"'{code:X}'"  # hex is quoted uppercase
+
+        # Line 3: hex:
+        hex_line = lines[2].strip()
+        if HEX_RE.match(hex_line):
+            lines[2] = f"hex: {hex_val}\n"
         else:
-            fm_text = re.sub(r'^(tags:\s*\[.*?\])', r'\1\nhex: ' + hex_val, fm_text, flags=re.MULTILINE)
-        # Reassemble and write
-        new_content = f"---\n{fm_text}\n---\n{rest}"
+            return
+
+        # Update or insert lastmod line if present
+        new_lines = []
+        lastmod_updated = False
+        for line in lines:
+            if LASTMOD_RE.match(line):
+                new_lines.append(f"lastmod: '{lastmod}'\n")
+                lastmod_updated = True
+            else:
+                new_lines.append(line)
+        if not lastmod_updated:
+            # Prepend lastmod if not found
+            new_lines.insert(0, f"lastmod: '{lastmod}'\n")
+
         with open(file_path, 'w', encoding='utf-8', buffering=8192) as f:
-            f.write(new_content)
-    except Exception as e:
+            f.writelines(new_lines)
+
+    except Exception:
         pass  # Silent fail; uncomment next line for debugging
         # print(f"Error processing {file_path}: {e}", file=sys.stderr)
 

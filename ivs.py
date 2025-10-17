@@ -20,25 +20,25 @@ def parse_md_file(md_path):
     term_hex = md_path.stem.upper()
     try:
         with md_path.open('r', encoding='utf-8', errors='ignore') as f:
-            content = f.read(129)  # Read up to avg size
-            
-            # Check for ivs flag first (early exit if missing)
-            ivs_match = re.search(r'ivs:\s*0', content, re.IGNORECASE)
-            if not ivs_match:
+            _ = f.readline()              # skip line 1
+            bc_line = f.readline().strip()  # line 2
+            hex_line = f.readline().strip() # line 3
+
+            if not bc_line.lower().startswith("bc:"):
                 return None
-            
-            # Existing tags parsing (now gated by ivs)
-            if 'tags:' in content:
-                tags_start = content.find('[') + 1
-                tags_end = content.find(']', tags_start)
-                if tags_end != -1:
-                    tags_str = content[tags_start:tags_end].strip()
-                    if tags_str:
-                        tags = [t.strip() for t in tags_str.split(',')]
-                        if tags:
-                            tag = tags[0]
-                            if len(tag) == 1:
-                                return (tag, term_hex)
+
+            bc_value = bc_line.partition(":")[2].strip()
+            if not bc_value or bc_value == "1":
+                return None
+
+            if not hex_line.lower().startswith("hex:"):
+                return None
+
+            hex_value = hex_line.partition(":")[2].strip()
+            if hex_value.startswith("'") and hex_value.endswith("'"):
+                hex_value = hex_value[1:-1].upper()
+                if hex_value:
+                    return (hex_value, term_hex)
     except Exception:
         pass
     return None
@@ -64,12 +64,11 @@ with Pool(processes=4) as pool:
     batch_results = pool.map(parse_md_file_batch, path_batches)
     for results in batch_results:
         for result in results:
-            base, term_hex = result
-            grouped_terms[base].append(term_hex)
+            base_hex, term_hex = result
+            grouped_terms[base_hex].append(term_hex)
 
 # Generate TXT files with buffered writes
-for base, terms in grouped_terms.items():
-    base_hex = f"{ord(base):X}"
+for base_hex, terms in grouped_terms.items():
     txt_path = data_dir / f'{base_hex}.txt'
     sorted_terms = sorted(terms)
     lines = [
