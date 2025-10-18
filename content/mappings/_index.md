@@ -9,6 +9,9 @@ draft: false
 cascade:
   - params:
       repo: fsungfonts/mappings
+    target:                                                                                                     
+      kind: page
+  - params:
       layout: mapping
       schemaType: DefinedTerm
       description: the base character assignment of %s, supported by a scholarly source
