@@ -9,12 +9,13 @@ draft: false
 cascade:
   - params:
       repo: fsungfonts/mappings
-      pua: true
+      layout: mapping
       schemaType: DefinedTerm
       description: the base character assignment of %s, supported by a scholarly source
         or independent investigation
     target:
       kind: page
+      path: /mappings/*/*
   - params:
       draft: true
     target:
