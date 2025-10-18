@@ -5,7 +5,7 @@ date: '2025-10-13T09:28:12+08:00'
 lastmod: '2025-10-14T21:46:45-08:00'
 title: 󴲽
 url: 󴲽
-tags: [屍]
-src: DCCV
+tags: [屍, 尸]
+src: DCCV, DCCV
 note:
 ---
