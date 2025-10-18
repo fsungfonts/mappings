@@ -1,1 +1,2 @@
 91C0 FE00; FSung-Academic; FS0F0B33
+91C0 FE01; FSung-Academic; FS0FFDA7
