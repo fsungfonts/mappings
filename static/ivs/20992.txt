@@ -1,1 +1,2 @@
-20992 FE00; FSung-Academic; FS0F504E
+20992 FE00; FSung-Academic; FS0F1280
+20992 FE01; FSung-Academic; FS0F504E
