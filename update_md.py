@@ -17,7 +17,7 @@ def update_file(file_path, lastmod):
         if len(lines) < 3:
             return
 
-        # Line 2: bc: (unquoted single Unicode character)
+        # Line 2: bc: (array of bare Unicode characters)
         bc_line = lines[1].strip()
         bc_match = BC_RE.match(bc_line)
         if not bc_match:
@@ -26,19 +26,18 @@ def update_file(file_path, lastmod):
         if not bc_value or bc_value == "1":
             return
 
-        # Use the first character directly (unquoted)
-        char = bc_value[0]
-        # If more than one character is present, skip (must be a single character)
-        if len(bc_value) != 1:
+        # Parse array of bare characters, e.g. [A, B, C]
+        chars = [c.strip() for c in bc_value.strip("[]").split(",") if c.strip()]
+        if not chars:
             return
 
-        code = ord(char)
-        hex_val = f"'{code:X}'"  # hex is quoted uppercase
+        # Build hex array (quoted uppercase hex values)
+        hex_array = [f"'{ord(c):X}'" for c in chars]
 
         # Line 3: hex:
         hex_line = lines[2].strip()
         if HEX_RE.match(hex_line):
-            lines[2] = f"hex: {hex_val}\n"
+            lines[2] = f"hex: [{', '.join(hex_array)}]\n"
         else:
             return
 

@@ -3,6 +3,7 @@ from pathlib import Path
 from multiprocessing import Pool
 from collections import defaultdict
 import re
+import yaml
 
 # Directory setup
 mappings_dir = Path('content/mappings')
@@ -15,59 +16,58 @@ HEX_RE = re.compile(r'^[0-9A-F]{6}\.md$', re.IGNORECASE)
 # Function to parse a single MD file
 def parse_md_file(md_path):
     if not HEX_RE.match(md_path.name):
-        return None
+        return []
 
     term_hex = md_path.stem.upper()
+    pairs = []
     try:
         with md_path.open('r', encoding='utf-8', errors='ignore') as f:
-            _ = f.readline()              # skip line 1
+            _ = f.readline()                # skip line 1
             bc_line = f.readline().strip()  # line 2
             hex_line = f.readline().strip() # line 3
 
             if not bc_line.lower().startswith("bc:"):
-                return None
-
-            bc_value = bc_line.partition(":")[2].strip()
-            if not bc_value or bc_value == "1":
-                return None
+                return []
 
             if not hex_line.lower().startswith("hex:"):
-                return None
+                return []
 
-            hex_value = hex_line.partition(":")[2].strip()
-            if hex_value.startswith("'") and hex_value.endswith("'"):
-                hex_value = hex_value[1:-1].upper()
-                if hex_value:
-                    return (hex_value, term_hex)
+            # Parse YAML arrays
+            bc_values = yaml.safe_load(bc_line.partition(":")[2].strip())
+            hex_values = yaml.safe_load(hex_line.partition(":")[2].strip())
+
+            if not isinstance(bc_values, list) or not isinstance(hex_values, list):
+                return []
+
+            # Pair bc and hex values
+            for bc_val, hex_val in zip(bc_values, hex_values):
+                if bc_val and bc_val != 1 and hex_val:
+                    pairs.append((str(hex_val).upper(), term_hex))
     except Exception:
         pass
-    return None
+    return pairs
 
 # Function to process a batch of files
 def parse_md_file_batch(paths):
     results = []
     for path in paths:
-        result = parse_md_file(path)
-        if result:
-            results.append(result)
+        results.extend(parse_md_file(path))
     return results
 
-# Collect MD paths (generator for memory efficiency, but list for batching)
+# Collect MD paths
 md_paths = [p for p in mappings_dir.glob('**/*.md') if p.name != '_index.md']
-# Batch paths (increased for SSD and 16GB RAM)
 batch_size = 500
 path_batches = [md_paths[i:i + batch_size] for i in range(0, len(md_paths), batch_size)]
 
-# Parallel parsing with multiprocessing (4 workers for 4 vCPU)
+# Parallel parsing
 grouped_terms = defaultdict(list)
 with Pool(processes=4) as pool:
     batch_results = pool.map(parse_md_file_batch, path_batches)
     for results in batch_results:
-        for result in results:
-            base_hex, term_hex = result
+        for base_hex, term_hex in results:
             grouped_terms[base_hex].append(term_hex)
 
-# Generate TXT files with buffered writes
+# Generate TXT files
 for base_hex, terms in grouped_terms.items():
     txt_path = data_dir / f'{base_hex}.txt'
     sorted_terms = sorted(terms)
