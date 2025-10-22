@@ -1,1 +1,2 @@
 4F46 FE00; FSung-Academic; FS0F05D2
+4F46 FE01; FSung-Academic; FS0F05D7
