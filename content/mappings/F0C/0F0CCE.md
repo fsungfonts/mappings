@@ -6,6 +6,6 @@ lastmod: '2025-10-14T21:46:45-08:00'
 title: 󰳎
 url: 󰳎
 tags: [㽧, 畜]
-src: GHZR DCCV, DCCV
+src: GHZR, DCCV, DCCV
 note:
 ---
