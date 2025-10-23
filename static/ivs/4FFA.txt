@@ -1,2 +1,3 @@
 4FFA FE00; FSung-Academic; FS0F05DD
 4FFA FE01; FSung-Academic; FS0F05DE
+4FFA FE02; FSung-Academic; FS0F0609
